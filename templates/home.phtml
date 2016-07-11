@@ -52,6 +52,7 @@
     <link rel="stylesheet" href="<?PHP echo \helpers\View::getGlobalCssFileName(); ?>" />
 
 </head>
+
 <body class="
     <?PHP echo $this->publicMode===true ? "publicmode" : ""; ?>
     <?PHP echo $this->loggedin===true ? "loggedin" : "notloggedin"; ?> 
@@ -86,8 +87,10 @@
 
     <!-- menue open for smartphone -->
     <div id="nav-mobile">
+        <div id="nav-mobile-settings1">&#xe626;</div>
         <div id="nav-mobile-logo"><span class="unread-count<?PHP echo $this->statsUnread>0 ? ' unread' : ''; ?>"><?PHP echo $this->statsUnread; ?></span></div>
-        <div id="nav-mobile-settings"></div>
+        <div id="nav-mobile-settings">&#xe678;</div>
+        
     </div>
     
     <!-- navigation -->
@@ -162,7 +165,7 @@
     <!-- content -->
     <div id="content" role="main">
         <?PHP echo $this->content; ?>
-    </div>
+    </div> 
     
     <div class="stream-error"><?PHP echo trim(\F3::get('lang_streamerror')); ?></div>
 
