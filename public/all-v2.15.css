@@ -3249,6 +3249,9 @@ body.publicmode.notloggedin .entry-unread {
         border-bottom:3px solid #3d6d69;
         width:100%;
         height:50px;
+        position:fixed;
+        z-index: 100;
+        top:0;
     }
     
         #nav-mobile-logo {

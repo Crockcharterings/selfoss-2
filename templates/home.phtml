@@ -88,22 +88,23 @@
     <!-- menue open for smartphone -->
     <div id="nav-mobile">
         <div id="nav-mobile-settings1">&#xe626;</div>
-        <div id="nav-mobile-logo"><span class="unread-count<?PHP echo $this->statsUnread>0 ? ' unread' : ''; ?>"><?PHP echo $this->statsUnread; ?></span></div>
+        <div id="nav-mobile-logo">
+            陈波
+            <!-- <span class="unread-count<?PHP //echo $this->statsUnread>0 ? ' unread' : ''; ?>"><?PHP //echo $this->statsUnread; ?></span> -->
+        </div>
         <div id="nav-mobile-settings">&#xe678;</div>
         
     </div>
     
     <!-- navigation -->
     <div id="nav" role="navigation">
-        <div id="nav-logo"></div>
-        <button id="nav-mark"><?PHP echo \F3::get('lang_markread')?></button>
-
+        <!-- <div id="nav-logo"></div>
+        <button id="nav-mark"><?PHP //echo \F3::get('lang_markread')?></button> -->
+<?PHP echo \F3::get('lang_alltags')?>
         <?PHP $active = (\F3::get('homepage')) ? \F3::get('homepage') : 'newest' ?>
-        <h2 id="nav-filter-title"><?PHP echo \F3::get('lang_filter') ?></h2>
-        <ul id="nav-filter">
-            <li id="nav-filter-newest" class="nav-filter-newest<?PHP if($active=='newest') : ?> active<?PHP endif; ?>" role="link" tabindex="0"><?PHP echo \F3::get('lang_newest')?> <span><?PHP echo $this->statsAll; ?></span></li>
-            <li id="nav-filter-unread" class="nav-filter-unread<?PHP if($active=='unread') : ?> active<?PHP endif; ?>" role="link" tabindex="0"><?PHP echo \F3::get('lang_unread')?> <span class="unread-count<?PHP echo $this->statsUnread>0 ? ' unread' : ''; ?>"><?PHP echo $this->statsUnread; ?></span></li>
-            <li id="nav-filter-starred" class="nav-filter-starred<?PHP if($active=='starred') : ?> active<?PHP endif; ?>" role="link" tabindex="0"><?PHP echo \F3::get('lang_starred') ?> <span><?PHP echo $this->statsStarred; ?></span></li>
+<!--         <h2 id="nav-filter-title"><?PHP //echo \F3::get('lang_filter') ?></h2>
+ -->        <ul id="nav-filter">
+            <li id="nav-filter-newest" class="nav-filter-newest<?PHP if($active=='newest') : ?> active<?PHP endif; ?>" role="link" tabindex="0"></li>
         </ul>
 
         <hr>

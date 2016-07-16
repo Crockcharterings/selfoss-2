@@ -11600,9 +11600,9 @@ selfoss.events.entries = function(e) {
             content.hide();
             
             // show fullscreen
-            // var fullscreen = $('#fullscreen-entry');
-            // fullscreen.html('<div id="entrr'+parent.attr('id').substr(5)+'" class="entry fullscreen">'+parent.html()+'</div>');
-            // fullscreen.show();
+            var fullscreen = $('#fullscreen-entry');
+            fullscreen.html('<div id="entrr'+parent.attr('id').substr(5)+'" class="entry fullscreen">'+parent.html()+'</div>');
+            fullscreen.show();
 
             // lazy load images in fullscreen
             if($('#config').data('load_images_on_mobile')=="1") {
@@ -12345,7 +12345,7 @@ selfoss.shortcuts = {
             // anonymize
             selfoss.anonymize(content);
             content.show();
-            current.find('.entry-toolbar').hide();
+            current.find('.entry-toolbar').show();
             selfoss.events.entriesToolbar(current);
             // automark as read
             if($('#config').data('auto_mark_as_read')=="1" && current.hasClass('unread'))
