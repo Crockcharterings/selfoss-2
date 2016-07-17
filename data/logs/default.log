@@ -129,3 +129,24 @@ C:\wamp\www\waibao\selfoss\index.php:102
 
 07-17-16 10:02:32 Error Unimplemented method for mysql: numberOfUnreadForTag
 07-17-16 10:03:33 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-17-16 11:39:17 Error include(data/html/183.html): failed to open stream: No such file or directory
+C:\wamp\www\selfoss\helpers\View.php:79
+C:\wamp\www\selfoss\helpers\View.php:79
+C:\wamp\www\selfoss\controllers\Index.php:300
+C:\wamp\www\selfoss\index.php:102
+
+07-17-16 11:39:41 Error failed to retrieve image http://news.sina.com.cn/favicon.ico,
+07-17-16 11:39:41 Error icon generation error: http://news.sina.com.cn/favicon.ico
+07-17-16 11:39:42 Error failed to retrieve image http://www.sinaimg.cn/favicon.ico,<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding 

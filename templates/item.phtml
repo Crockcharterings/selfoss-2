@@ -14,8 +14,33 @@
     $content = $this->viewHelper->lazyimg($content);
     $date = $this->viewHelper->dateago($this->item['datetime']);
 ?>
+<style type="text/css">
+.aentry {
+    margin:1px 5px 3px 5px; 
+    padding:5px; 
+    -moz-border-radius:4px;
+    -webkit-border-radius:4px;
+    -khtml-border-radius:4px;
+    border-radius:4px;
+    background:rgba(255, 255, 255, 0.4);
+    position:relative;
+    font-weight:normal;
+    font-size:0.9em;
+    border: 1px solid rgba(255, 255, 255, 0);
+
+}
+.aentry.unread {
+        margin-left: 3px;
+        border-left:3px solid #5f9490;
+    }
+.cb {text-decoration:none;}
+.cb:link {color:#000000;text-decoration:none;}     /* 未被访问的链接     */
+.cb:visited {color:#000000}  /* 已被访问过的链接    */
+.cb:hover {text-decoration:underline}    /* 鼠标悬浮在上的链接  */
+.cb:active {color:#000000}   /* 鼠标点中激活链接    */
+</style>
 <div id="entry<?PHP echo $this->item['id']; ?>"
-     class="entry
+     class="aentry
             <?PHP echo $this->item['unread']==1 ? 'unread' : ''; ?>" role="article">
     
     <!-- icon -->
@@ -26,7 +51,7 @@
     </a>
     
     <!-- title -->
-    <h2 class="entry-title"><?PHP echo $title; ?></h2>
+    <h2 class=""><a class="cb" href="/html/<?PHP echo $this->item['id']; ?>" target="_blank"> <?PHP echo $title; ?></a></h2>
     
     <span class="entry-tags">
         <?PHP foreach($this->item['tags'] as $tag => $color) : ?>
@@ -69,11 +94,11 @@
             <button class="entry-next"><?PHP echo \F3::get('lang_next')?></button>
         </div>
         <div><a href="/html/<?PHP echo $this->item['id']; ?>">阅读原文</a></div>
-        <script type="text/javascript">$(this).parents('.entry').lazyLoadImages();</script>
+        <script type="text/javascript">//$(this).parents('.entry').lazyLoadImages();</script>
     </div>
     
     <!-- toolbar -->
-    <div class="entry-toolbar">
+    <div class="entry-toolbar" style="display:none">
         <button class="entry-starr <?PHP echo $this->item['starred']==1 ? 'active' : ''; ?>"><?PHP echo $this->item['starred']==1 ? \F3::get('lang_unstar') : \F3::get('lang_star'); ?></button>
         <button class="entry-unread <?PHP echo $this->item['unread']==1 ? 'active' : ''; ?>"><?PHP echo $this->item['unread']==1 ? \F3::get('lang_mark') : \F3::get('lang_unmark'); ?></button>
         <button class="entry-newwindow"><?PHP echo \F3::get('lang_open_window')?></button>
