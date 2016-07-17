@@ -150,3 +150,6 @@ C:\wamp\www\selfoss\index.php:102
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 <!-- a padding 
+07-17-16 12:12:38 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-17-16 12:15:54 Error ftrss - Failed loading page
+07-17-16 12:20:37 Error ftrss - Failed loading page

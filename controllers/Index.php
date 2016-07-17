@@ -199,6 +199,7 @@ class Index extends BaseController {
         // update feeds
         $loader = new \helpers\ContentLoader();
         $loader->update();
+        $this->con();
         
         echo "finished";
     }
