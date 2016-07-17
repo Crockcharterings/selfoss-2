@@ -1,0 +1,54 @@
+<!doctype html>  
+<head>
+    <base href="<?PHP echo $this->base; ?>" /> 
+
+    <meta charset="utf-8">
+
+    <title><?PHP echo trim(\F3::get('html_title')); ?></title>
+    
+    <meta name="description" content="selfoss" />
+    <meta name="author" content="Tobias Zeising" />
+
+    <!--  Mobile viewport optimized: j.mp/bplateviewport -->
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1" />
+    
+    <!--  Add support for fullscreen Webapp on iPhone 5 -->
+    <meta name="viewport" content="initial-scale=1, user-scalable=no, maximum-scale=1" media="(device-height: 568px)" />
+    
+    <!-- app 'behaviour' when adding link to iDevice springboard -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+
+    <!-- icons -->
+    <link rel="apple-touch-icon-precomposed" href="icon-128x128.png" />
+    <link rel="icon" type="image/png" href="icon-32x32.png" />
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+
+    <!-- Toolbar color from Chrome for Android -->
+    <meta name="theme-color" content="#191718" />
+
+    <!-- all css definitions -->
+    <?PHP if(\F3::get('use_system_font')!=true) : ?>
+        <link rel="stylesheet" href="css/fonts.css" />
+    <?PHP endif; ?>
+    <link rel="stylesheet" href="<?PHP echo \helpers\View::getGlobalCssFileName(); ?>" />
+
+</head>
+<body>
+    <form action="/guid" method="post">
+    <ul id="login">
+        <li>
+            <h1>selfoss login</h1>
+        </li>
+        <li>
+            <label for="username">请输入GUID</label> 
+            <input type="text" name="guid">
+        </li>
+<!--         <li>
+            <label for="password"></label>
+            <input type="password" name="password" id="password">
+        </li> -->
+        <li class="button"><label>&nbsp;</label><input type="submit"/></li>
+    </ul>
+    </form>
+</body>
+</html>

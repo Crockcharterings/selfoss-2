@@ -1,4 +1,4 @@
-07-12-16 1:35:44 Error failed to retrieve image http://www.sinaimg.cn/favicon.ico,<html>
+07-17-16 7:43:39 Error failed to retrieve image http://www.sinaimg.cn/favicon.ico,<html>
 <head><title>404 Not Found</title></head>
 <body bgcolor="white">
 <center><h1>404 Not Found</h1></center>
@@ -11,19 +11,121 @@
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 <!-- a padding 
-07-12-16 6:56:15 Error Unimplemented method for sqlite: numberOfUnreadForTag
-07-12-16 7:02:15 Error Unimplemented method for sqlite: numberOfUnreadForTag
-07-12-16 7:08:15 Error Unimplemented method for sqlite: numberOfUnreadForTag
-07-12-16 7:16:02 Error Unimplemented method for sqlite: numberOfUnreadForTag
-07-12-16 7:22:01 Error Unimplemented method for sqlite: numberOfUnreadForTag
-07-12-16 7:31:05 Error Unimplemented method for sqlite: numberOfUnreadForTag
-07-12-16 7:37:04 Error Unimplemented method for sqlite: numberOfUnreadForTag
-07-12-16 7:43:04 Error Unimplemented method for sqlite: numberOfUnreadForTag
-07-12-16 7:49:04 Error Unimplemented method for sqlite: numberOfUnreadForTag
-07-12-16 7:54:05 Error Unimplemented method for sqlite: numberOfUnreadForTag
-07-12-16 8:00:04 Error Unimplemented method for sqlite: numberOfUnreadForTag
-07-12-16 8:06:27 Error Unimplemented method for sqlite: numberOfUnreadForTag
-07-12-16 8:12:27 Error Unimplemented method for sqlite: numberOfUnreadForTag
-07-12-16 8:18:27 Error Unimplemented method for sqlite: numberOfUnreadForTag
-07-13-16 6:46:43 Error Unimplemented method for sqlite: numberOfUnreadForTag
-07-13-16 6:52:43 Error Unimplemented method for sqlite: numberOfUnreadForTag
+07-17-16 7:53:01 Error HTTP 404 (GET /login.php)
+
+07-17-16 7:53:31 Error HTTP 404 (GET /login.php)
+C:\wamp\www\waibao\selfoss\index.php:97
+
+07-17-16 7:54:52 Error session_destroy(): Trying to destroy uninitialized session
+C:\wamp\www\waibao\selfoss\helpers\Authentication.php:146
+C:\wamp\www\waibao\selfoss\controllers\Index.php:178
+C:\wamp\www\waibao\selfoss\index.php:97
+
+07-17-16 8:07:32 Error HTTP 405 (POST /guid)
+C:\wamp\www\waibao\selfoss\index.php:98
+
+07-17-16 8:25:46 Error Use of undefined constant PHP - assumed 'PHP'
+C:\wamp\www\waibao\selfoss\templates\home.phtml:147
+C:\wamp\www\waibao\selfoss\helpers\View.php:79
+C:\wamp\www\waibao\selfoss\controllers\Index.php:90
+C:\wamp\www\waibao\selfoss\index.php:99
+
+07-17-16 8:25:59 Error Undefined variable: active
+C:\wamp\www\waibao\selfoss\templates\home.phtml:149
+C:\wamp\www\waibao\selfoss\helpers\View.php:79
+C:\wamp\www\waibao\selfoss\controllers\Index.php:90
+C:\wamp\www\waibao\selfoss\index.php:99
+
+07-17-16 8:34:22 Error Unimplemented method for sqlite: numberOfUnreadForTag
+07-17-16 8:46:56 Error failed to retrieve image http://www.sinaimg.cn/favicon.ico,<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding 
+07-17-16 8:51:12 Error Fatal error: syntax error, unexpected 'echo' (T_ECHO)
+
+07-17-16 8:51:23 Error Fatal error: syntax error, unexpected '}'
+
+07-17-16 8:51:29 Error Invalid argument supplied for foreach()
+C:\wamp\www\waibao\selfoss\controllers\Index.php:266
+C:\wamp\www\waibao\selfoss\controllers\Index.php:227
+C:\wamp\www\waibao\selfoss\controllers\Index.php:274
+C:\wamp\www\waibao\selfoss\index.php:100
+
+07-17-16 8:54:29 Error mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+C:\wamp\www\waibao\selfoss\controllers\Index.php:278
+C:\wamp\www\waibao\selfoss\controllers\Index.php:274
+C:\wamp\www\waibao\selfoss\index.php:100
+
+07-17-16 8:54:57 Error mysqli_connect(): (HY000/1045): Access denied for user 'peter'@'localhost' (using password: YES)
+C:\wamp\www\waibao\selfoss\controllers\Index.php:278
+C:\wamp\www\waibao\selfoss\controllers\Index.php:274
+C:\wamp\www\waibao\selfoss\index.php:100
+
+07-17-16 8:55:11 Error mysqli_select_db() expects parameter 1 to be mysqli, string given
+C:\wamp\www\waibao\selfoss\controllers\Index.php:282
+C:\wamp\www\waibao\selfoss\controllers\Index.php:274
+C:\wamp\www\waibao\selfoss\index.php:100
+
+07-17-16 8:59:45 Error Fatal error: Class 'controllers\mysqli' not found
+
+07-17-16 9:08:01 Error mysql_fetch_array() expects parameter 1 to be resource, object given
+C:\wamp\www\waibao\selfoss\controllers\Index.php:281
+C:\wamp\www\waibao\selfoss\controllers\Index.php:274
+C:\wamp\www\waibao\selfoss\index.php:100
+
+07-17-16 9:28:49 Error fopen(data/html/1.html): failed to open stream: No such file or directory
+C:\wamp\www\waibao\selfoss\controllers\Index.php:292
+C:\wamp\www\waibao\selfoss\controllers\Index.php:286
+C:\wamp\www\waibao\selfoss\controllers\Index.php:274
+C:\wamp\www\waibao\selfoss\index.php:100
+
+07-17-16 9:30:37 Error fopen(data/html/1.txt): failed to open stream: No such file or directory
+C:\wamp\www\waibao\selfoss\controllers\Index.php:292
+C:\wamp\www\waibao\selfoss\controllers\Index.php:286
+C:\wamp\www\waibao\selfoss\controllers\Index.php:274
+C:\wamp\www\waibao\selfoss\index.php:100
+
+07-17-16 9:34:05 Error HTTP 404 (GET /data/html/12.html)
+C:\wamp\www\waibao\selfoss\index.php:100
+
+07-17-16 9:36:13 Error HTTP 404 (GET /html/show/12)
+C:\wamp\www\waibao\selfoss\index.php:101
+
+07-17-16 9:38:31 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-17-16 9:41:54 Error HTTP 404 (GET /login.php)
+C:\wamp\www\waibao\selfoss\index.php:101
+
+07-17-16 9:42:26 Error HTTP 404 (GET /login.php)
+C:\wamp\www\waibao\selfoss\index.php:101
+
+07-17-16 9:42:26 Error HTTP 404 (GET /login.php)
+C:\wamp\www\waibao\selfoss\index.php:101
+
+07-17-16 9:42:28 Error HTTP 404 (GET /login.php)
+C:\wamp\www\waibao\selfoss\index.php:101
+
+07-17-16 9:44:32 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-17-16 9:45:02 Error session_destroy(): Trying to destroy uninitialized session
+C:\wamp\www\waibao\selfoss\controllers\Login.php:26
+C:\wamp\www\waibao\selfoss\index.php:102
+
+07-17-16 9:50:32 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-17-16 9:56:32 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-17-16 9:57:11 Error mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+C:\wamp\www\waibao\selfoss\controllers\Login.php:30
+C:\wamp\www\waibao\selfoss\controllers\Login.php:19
+C:\wamp\www\waibao\selfoss\index.php:102
+
+07-17-16 9:57:37 Error Fatal error: Call to undefined method controllers\Login::createHtml()
+
+07-17-16 10:02:32 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-17-16 10:03:33 Error Unimplemented method for mysql: numberOfUnreadForTag

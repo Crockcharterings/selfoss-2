@@ -43,7 +43,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			社会新闻-法制天地
 		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:48:"http://news.sina.com.cn/society/2013/index.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:5:"zh-cn";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:3:"ttl";a:1:{i:0;a:5:{s:4:"data";s:1:"5";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:58:"
 			Copyright 1996 - 2016 SINA Inc. All Rights Reserved
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 12 Jul 2016 01:29:34 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:7:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 06:29:37 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:7:"
 			
 		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"item";a:20:{i:0;a:6:{s:4:"data";s:35:"
 			
@@ -54,13 +54,15 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
-				司机驾车撞死人后让堂弟顶包 称怕影响自己事业
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-12/doc-ifxtwihq0067809.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-12/doc-ifxtwihq0067809.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:63:"
+				男子怀疑被妻子窃听手机泼汽油将其烧伤
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-17/doc-ifxuapvw2147727.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-17/doc-ifxuapvw2147727.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-法制天地
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 23:46:20 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:396:"
-				　　原标题：驾轿车撞摩托致人死亡 怕“影响事业”让堂弟顶包
-　　扬子晚报讯（通讯员 刘昱彤 陈欢 记者 梅建明） 6月27日下午5点多，浦口交警大队接到报警，称在浦口区桥林陡岗水库附近，一辆小轿车与摩托车迎面相撞，有人受伤。民警立即出警到达事故现场，发现摩托车车头严重受....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sat, 16 Jul 2016 20:54:02 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:400:"
+				　　●男子怀疑遭窃听　急火攻心
+　　●怒向妻子泼汽油　酿成大祸
+　　警示录
+　　家住广州市从化区的男子袁某，怀疑妻子安排其妹夫在自己的手机上安装了窃听软件，质问妻子无果，一怒之下两次将汽油泼到妻子身上并点燃纸巾，致妻子被烧成重伤。从化区人民法院审理判决袁某犯故意....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:35:"
 			
 			
@@ -70,12 +72,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:60:"
-				大学教授冒领科研劳务费被降级为讲师
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-12/doc-ifxtwihq0060508.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-12/doc-ifxtwihq0060508.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:67:"
+				官员受贿35万获刑3年 曾承诺帮两个县争先进
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-17/doc-ifxuaiwa7063923.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-17/doc-ifxuaiwa7063923.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-法制天地
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 21:09:52 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:399:"
-				　　中安在线讯 据安徽商报消息，公款私存、用项目资金购买理财产品、以“学生助研补助费”名义冒领科研经费……省委教育工委、省纪委驻教育厅纪检组7月11日通报四起省 属高校科研经费违纪典型问题，四名高校教授受到党纪处分，一人被免去系主任职务，另外三名大学教授直接被降级....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sat, 16 Jul 2016 18:21:13 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:394:"
+				　　原标题：承诺帮两个县争先进收受贿赂
+　　华商报商洛讯（记者 曾春）利用职务上的便利，为他人谋取利益，非法收受他人贿赂35万元。近日，商洛市国土资源局原副调研员李学文因受贿罪被判处有期徒刑3年。李学文2005年11月9日任洛南县国土资源局局长，2011年2月1日任商洛市国土资....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:35:"
 			
 			
@@ -85,13 +88,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:64:"
-				退休官员拒救病危儿子 称已断绝父子关系
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-12/doc-ifxtwiht3573957.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-12/doc-ifxtwiht3573957.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:67:"
+				保姆用斧头击打雇主头部致死 随后自杀身亡
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-17/doc-ifxuaiwa7063857.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-17/doc-ifxuaiwa7063857.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-法制天地
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 20:15:43 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:401:"
-				朋友们焦急地帮陈莹联系他的父亲
-　　今年7月8日，在成都打工的陈莹被朋友发现昏迷倒在出租房的厕所里，至今还在医院重症监护室抢救，随时可能有生命危险。院方一再要求通知家属到医院来，但陪伴在陈莹身边的只有他的5个朋友。朋友们希望找到陈莹的父亲，让他能来成都看看多年未见....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sat, 16 Jul 2016 18:20:33 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:401:"
+				　　原标题：保姆杀死雇主后自杀被害人家属索赔39万
+　　京华时报讯（记者 郑羽佳）李先生给偏瘫已久的父亲请保姆照顾，不料在一次探望中竟发现父亲和保姆双双死亡。警方调查确认，李父系被保姆邱某用斧头击打头部致死，邱某随后自杀身亡。李先生遂将邱某的继承人和劳务公司诉至法....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:35:"
 			
 			
@@ -101,12 +104,14 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:54:"
-				男子欲卖父母房还债不成扬言炸楼
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-12/doc-ifxtwiht3573786.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-12/doc-ifxtwiht3573786.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:71:"
+				老人遗体在殡仪馆失踪 殡仪馆:疏忽烧错愿赔偿
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-16/doc-ifxuapvw2131105.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-16/doc-ifxuapvw2131105.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-法制天地
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 19:38:56 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:393:"
-				　　广州日报珠海讯&nbsp;（记者陈治家&nbsp;通讯员赵婧）昨日，记者从珠海市公安局香洲分局获悉，珠海一男子欲卖掉父母的房产偿还债务，被其兄弟拒绝后在居民楼内故意 释放煤气，扬言要炸掉整栋楼。香洲警方接报后迅速出警排除险情，后抓获嫌疑人温×友。温×友涉嫌以危险方法危....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sat, 16 Jul 2016 09:42:02 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:401:"
+				　　原标题：昆明殡仪馆出错：要火化的不见了 已火化的还躺着
+　　两家人都痛不欲生 殡仪馆表示愿合理赔偿
+　　失去父亲本来就够难过的了，在火化遗体时竟不知火化的究竟是自己的父亲还是别人的父亲，这更让人伤心欲绝。前天上午，谢女士在昆明市殡仪馆（跑马山）确认即将火化父亲....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:35:"
 			
 			
@@ -116,15 +121,15 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:63:"
-				八旬老汉囚禁精神病女子两年还生下一女
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-12/doc-ifxtwchx8523640.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-12/doc-ifxtwchx8523640.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:56:"
+				男子因打麻将发生口角伤人致2死1伤
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-16/doc-ifxuaqhu0498576.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-16/doc-ifxuaqhu0498576.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-法制天地
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 18:42:24 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:401:"
-				　　原标题：囚禁精神病女子两年还生下一女 山东八旬老汉被拘留
-
-　　日前，媒体曝光了山东省聊城市东昌府区堂邑镇八旬老汉黄汝芝囚禁精神失常女子并生女的事件。记者昨日从堂邑镇派出所民警处获悉，该老汉已被拘留。
-　　黄汝芝老来得女，本是喜事一桩，可当前去采访的记者见到孩....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sat, 16 Jul 2016 08:16:50 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:392:"
+				　　原标题：男子因打麻将发生口角 故意伤害致2死1伤
+16日，长宁警方对外发布悬赏公告。
+　　中新网宜宾7月16日电（王哲）16日，四川宜宾长宁警方对外发布悬赏公告，对如有提供犯罪嫌疑人有价值线索直接抓获犯罪嫌疑人的，长宁县公安局将予以10000元现金奖励。
+　　据了解，2016年....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:35:"
 			
 			
@@ -134,14 +139,14 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"
-				男子假冒支队长带着女友跑公安局显摆被拘
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-12/doc-ifxtwihq0057165.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-12/doc-ifxtwihq0057165.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"
+				男子欠巨额赌债被押在车上筹钱 跳车坠江身亡
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-16/doc-ifxuapvw2125775.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-16/doc-ifxuapvw2125775.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-法制天地
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 17:27:06 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:401:"
-				　　假冒警察行骗的不少，大摇大摆走进公安局行骗的就少见了。近日，大渡口区公安分局就遇上这种奇葩事――一名男子为讨女友欢心，自称是刑侦支队支队长，还带着女友跑到公安局显摆，这自然逃不过民警法眼。昨日，嫌疑人代某遭刑事拘留。
-　　刑侦支队来了新领导
-　　7月8日下午，....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sat, 16 Jul 2016 07:15:56 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:397:"
+				　　原标题：男子被债主押着筹钱时跳车坠江身亡
+　　楚天都市报讯 （记者聂丽娟 通讯员李绍红 童坤）一男子借下巨额赌债无法归还，被三名债主押在车上筹钱，谁知车子途经长江二桥时，男子突然跳车坠江身亡。记者昨获悉，三名债主分别获刑一年七个月到一年九个月。
+　　2014年4月25....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:35:"
 			
 			
@@ -151,15 +156,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:68:"
-				学霸在泰国遭船桨夺命:浑身伤口 海水被染红
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-11/doc-ifxtwihq0022595.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-11/doc-ifxtwihq0022595.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"
+				讨薪工人住烂尾楼里10多年:要不着工钱就不走
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-16/doc-ifxuapvs8587256.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-16/doc-ifxuapvs8587256.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-法制天地
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 09:28:21 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
-				　　原标题：小伙高考后和同学一起毕业旅行 祸起船员贸然发动发动机
-黎煜恒生前照片
-　　泰国海警证实，此次事故是游轮船员贸然发动发动机，导致刚游回游轮旁的黎煜恒被发动的螺旋桨强大吸力吸入螺旋桨，致其双腿股动脉被划断，失血量达95%
-　　家属表示，目前，双方已谈妥的是，....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sat, 16 Jul 2016 05:38:43 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:401:"
+				　　原标题：数十人住烂尾楼守株待兔式讨薪，一住就是十多年
+　　捡来的沙发，捡来的床。对于住在这里等待讨薪消息的几十人来说，他们最害怕的就是天黑，一到晚上玩手机就成了他们唯一的娱乐方式。他们在烂尾楼里一住就是十多年，虽然房子没有装修，还有“天坑”，一点也不安全，....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:35:"
 			
 			
@@ -169,15 +172,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"
-				男子网购仿真枪被拘 供述已收藏28把枪5把刀具
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-11/doc-ifxtwihq0018506.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-11/doc-ifxtwihq0018506.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:72:"
+				女顾客购物不慎摔下楼梯身亡 超市赔偿近16万元
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-16/doc-ifxuapvw2122697.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-16/doc-ifxuapvw2122697.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-法制天地
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 08:53:28 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:393:"
-				　　原标题：为打真人CS 小伙网购枪&nbsp;
-王某说他买枪就是为了收藏，小学毕业后就收藏枪和刀具。摄/记者 林晖
-戴着一副眼镜的杜某认罪，称买枪是为了玩CS真人游戏。
-　　法制晚报讯（记者 唐宁）今天上午，朝阳法院针对两起非法持有枪支案件公开开庭进行审理，第一起案件中被告....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sat, 16 Jul 2016 05:33:18 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
+				　　原标题：女顾客购物不慎摔下楼梯身亡 事发超市赔偿近16万元
+　　海南东方市退休女职工王某到八所镇某超市购物，离开超市时在安全通道楼梯不慎摔死。近日，海南省第二中级人民法院对这起因楼梯不规范引发的民事纠纷作出终审判决，维持一审法院判决，事发超市承担30%的过错责任....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:35:"
 			
 			
@@ -187,15 +188,21 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:67:"
-				环卫工人工作间隙背英语 运用流利当做乐趣
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-11/doc-ifxtwiht3519818.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-11/doc-ifxtwiht3519818.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:57:"
+				女子被性侵装行李箱案嫌疑人被批捕
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-16/doc-ifxuapvs8585442.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-16/doc-ifxuapvs8585442.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-法制天地
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 06:16:25 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:395:"
-				　　原标题：郑州一环卫工工作之余背英语震撼朋友圈&nbsp;我们还有什么理由不努力？
-李磊每天都会用APP学习英语
-　　近日，“郑州一环卫工‘麻溜儿’背英语”震撼了不少朋友圈 原来，这位环卫工是顶替受伤的母亲工作
-　　这位环卫小哥夜晚做电力维护的本职工作，白天当环卫工，“....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sat, 16 Jul 2016 04:52:12 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:392:"
+				　　原标题：湘潭一女子被性侵装行李箱案嫌疑人被批捕
+
+
+
+被解救后的女子，坐在箱子上。
+
+
+
+　　湘潭在线7月16日讯（湘潭日报记者 陈钢 通讯员 彭晰宇）7月14日， 岳塘区人民检察院依法对一女子被性侵装行李箱案（木鱼湖案）犯罪嫌疑人潘某以涉嫌强奸罪批准逮捕。
+　　犯罪嫌疑人....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:35:"
 			
 			
@@ -205,13 +212,15 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:71:"
-				9人吃同一摊位小龙虾患病 “龙虾病”病因成谜
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-11/doc-ifxtwihp9990692.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-11/doc-ifxtwihp9990692.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
+				独居老人摔倒两天无人知 邻居发现异样报警救人
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-16/doc-ifxuapvw2117290.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-16/doc-ifxuapvw2117290.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-法制天地
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 03:47:18 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:396:"
-				　　原标题：南京龙虾病患者7年来已有40例 病因成谜
-　　现代快报&nbsp;（微博）讯（记者 刘峻）同一摊位小龙虾，放倒9位市民；夫妻吃完4斤小龙虾走不动路，诊断为横纹肌溶解综合征。今年夏天，南京连续发生食用龙虾导致发生横纹肌溶解综合征的事件。现代快报记者获悉，目前龙虾病....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sat, 16 Jul 2016 03:12:25 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:396:"
+				　　原标题：独居老人摔倒两天无人知晓 细心邻居发现异样报警救人
+民警翻窗救人。江津警方供图
+民警将独居老人救出后送医。江津警方供图
+　　华龙网7月16日10时25分讯（记者 阙影）俗话说得好，“远亲不如近邻”。近日，重庆独居老人刘婆婆在自家卫生间摔倒，无人知晓，挣扎近48小....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:10;a:6:{s:4:"data";s:35:"
 			
 			
@@ -221,13 +230,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:67:"
-				单亲母亲为补贴家用超市行窃 包含牙膏牙刷
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-11/doc-ifxtwiht3502357.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-11/doc-ifxtwiht3502357.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:48:"
+				团伙制售假伟哥等涉案1.8亿元
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-16/doc-ifxuapvs8564150.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-16/doc-ifxuapvs8564150.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-法制天地
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 02:49:13 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:397:"
-				　　中国江苏网7月11日讯 7月10日晚上8点钟左右，市民张师傅报警，在南京浦口大华家乐福超市，抓到了一名小偷。接警后警察不久赶到了现场，在二楼服务台，看到了这名偷东西的中年女子，已被家乐福保安拦在了这里。
-　　服务台上摆了很多日常用品，有牙刷牙膏，茶叶护肤品等。该女....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 15 Jul 2016 19:54:19 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:397:"
+				　　广州公安食药环侦支队成立4年来，共破案2530多宗
+　　新快报讯 记者王吕斌 通讯员刘瀚立 张毅涛 陈玉敏报道 “产品外包装流水号码，如果都是一样的，肯定是假货！”“易拉罐的拉环，如果能轻易旋转，很可能也是假货！”昨日，时值广州市公安局食品药品与环境犯罪侦 查支队成立....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:11;a:6:{s:4:"data";s:35:"
 			
 			
@@ -237,15 +246,14 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"
-				父亲为锻炼8岁女儿带其徒步 4天暴走170公里
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-11/doc-ifxtwiht3501923.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-11/doc-ifxtwiht3501923.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"
+				百人团伙技术开锁连偷10余省 6省公安统一抓人
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-16/doc-ifxuaqhu0467810.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-16/doc-ifxuaqhu0467810.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-法制天地
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 02:45:22 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:395:"
-				　　原标题：4天170公里！ 父亲带着8岁女儿从杨家坪走回垫江
-
-徒步中的胡先生父女俩。
-　　前几天，胡先生带着8岁的女儿爽爽，从重庆主城区走回170公里外的位于垫江周嘉镇的姥姥家。一路上经受了阳光炙烤、突发暴雨，更要命的是被导航带到杂草丛生的小路，500米的距离走了一个多小....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 15 Jul 2016 17:39:35 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:396:"
+				　　原标题：百人团伙技术开锁连偷10余省
+　　记者 郑羽佳
+　　早晨醒来，贵重物品不翼而飞，房门却没有被撬过的痕迹。2014年年底以来，贵州、四川等省份发生多起技术性开锁入室盗窃案件，经贵州省公安机关初步侦查，发现一个上百人的盗窃团伙流窜于贵州、四川等10余省份，作案数....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:12;a:6:{s:4:"data";s:35:"
 			
 			
@@ -255,13 +263,15 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:71:"
-				理财公司老板跑路卷走2000多万 老人被骗养老钱
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-11/doc-ifxtwiht3498291.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-11/doc-ifxtwiht3498291.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"
+				育儿繁忙无暇复习请朋友替考 两女子双双获刑
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-16/doc-ifxuaiwa7004059.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-16/doc-ifxuaiwa7004059.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-法制天地
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 02:20:22 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:397:"
-				　　原标题：南京一理财公司老板跑路 至少卷走2000多万
-　　“养老钱就这么没了，我是又着急又生气！”昨天上午，80多岁的柯奶奶找到现代快报，说她和老伴儿买理财的那家公司老板跑了，害得她投的7万元本金就这么没了。现代快报记者了解到，像柯奶奶这样的受害者南京还有100多人，....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 15 Jul 2016 17:01:25 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:400:"
+				　　原标题：替友考试 俩女子获刑
+　　记者 何欣 郝笑天
+
+　　一个因家事繁忙没时间复习，一个打算拓宽一下自己的知识面，基于这样的初衷，当王红让李艳替其考试时，李艳没做过多犹豫就答应了。昨天，王红和李艳因犯代替考试罪，被门头沟法院分别判处罚金两万元。这是“替考”入刑....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:13;a:6:{s:4:"data";s:35:"
 			
 			
@@ -271,13 +281,17 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"
-				700万豪车迎亲路上撞翻面包车 修车费恐达百万
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-11/doc-ifxtwihp9978109.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-11/doc-ifxtwihp9978109.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"
+				男子斗殴刺伤人后潜逃21年:一直以为那人死了
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-16/doc-ifxuaqhu0466562.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-16/doc-ifxuaqhu0466562.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-法制天地
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 02:13:23 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:399:"
-				　　原标题：沈阳：700万豪车迎亲路上撞翻面包车 损失百万
-　　7月9日清晨4时许，沈阳市浑南区沈营大街上已经车来车往。由于道路空旷，车辆较少，车辆的速度普遍较快。突然，沈营大街创新路路口处传来了一声巨响。一辆黑色的宾利轿车停在路口，前脸破损严重，不远处，一辆微型面包....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 15 Jul 2016 16:59:53 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:390:"
+				　　原标题：被抓后他才知道当年被刺那人 没死……
+　　为帮朋友“出头”，对着别人刺了一刀以为对方被自己杀死了，他担惊受怕逃亡21年被抓后他才知道当年被刺那人 没死……来源：新文化报 - 新文化网
+
+　　李某说，逃亡时，只有在海上，才能睡得安稳 N15
+　　A03版
+　　1995年，....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:14;a:6:{s:4:"data";s:35:"
 			
 			
@@ -287,13 +301,14 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:65:"
-				七旬老太太6楼坠下砸落轿车顶 仅肋骨受伤
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-11/doc-ifxtwihp9970314.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-11/doc-ifxtwihp9970314.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"
+				律师任全牛亲笔信:向“考拉”和警察道歉(图)
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-16/doc-ifxuapvw2099647.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-16/doc-ifxuapvw2099647.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-法制天地
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 00:59:14 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:396:"
-				　　10日下午6点20分许，一七旬老太从租住的6楼坠下，先砸在4楼花坛架子上，之后落到楼下轿车上，记者赶到现场时老太太还在喊疼。
-　　在建设路西三环口北200米路西湖新园小区，一号楼西单元的坠楼现场，一辆白色轿车后侧，一位老太身体弯曲躺在车后盖上，后挡风玻璃已破碎，轿车....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 15 Jul 2016 16:24:57 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:399:"
+				　　原标题：任全牛律师亲笔致歉信曝光：后悔诋毁“考拉”和民警
+　　中国长安网7月15日讯 在北京锋锐律所主任周世峰等四人因涉嫌颠覆国家政权罪被天津检方提起公诉当日，涉锋锐律所案的“人权律师”女助理赵威（网名“考拉”）诉河南律师任全牛名誉侵权案也有了新进展。
+　　7月1....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:15;a:6:{s:4:"data";s:35:"
 			
 			
@@ -304,12 +319,12 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
-				母女家中惨遭蒙面男子杀害 凶手事先踩点两个月
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-11/doc-ifxtwihp9968531.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-11/doc-ifxtwihp9968531.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+				一家三口吃菌中毒女儿身亡 已考上二本想读医科
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-15/doc-ifxuapvw2038453.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-15/doc-ifxuapvw2038453.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-法制天地
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 00:32:52 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
-				　　原标题：事先曾踩点两个月 母女家中惨遭蒙面男子杀害
-　　中安在线讯 据安徽商报消息，7月2日早晨，对于明光市居民陈瑞来说，是一个非常黑暗和悲恸的日子。就在7月1日晚上，一名蒙面歹徒持刀闯入他的家中，凶残地杀害了他的妻子和女儿；紧接着，这名劫匪又窜入其母亲家，手持....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 15 Jul 2016 03:35:27 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
+				　　原标题：曲靖一家三口吃杂菌中毒女儿身亡 已考上二本想读医科
+　　大女儿抢救无效死亡，杜双兰和丈夫躺在病床上等待治疗，双重打击让家住曲靖沾益区炎方乡刘麦地村的杜双兰濒临崩溃。今年高考，杜双兰的大女儿丽丽以480多分的成绩考取二本。7月1日，为帮丽丽庆祝一下“吃顿好....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:16;a:6:{s:4:"data";s:35:"
 			
 			
@@ -319,15 +334,15 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:57:"
-				中国好声音学员被指当街殴打快递员
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-11/doc-ifxtwitr1901081.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-11/doc-ifxtwitr1901081.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"
+				杭州“阿牛哥”义务教拳20载 社区成立工作室
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-15/doc-ifxuapvs8491732.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-15/doc-ifxuapvs8491732.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-法制天地
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 10 Jul 2016 21:09:22 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:391:"
-				　　原标题：中国好声音学员被指当街殴打快递员
-　　晨报记者 叶松丽 实习生 董 晴
-当事人徐先生向记者展示沾有血迹的衬衣　/晨报记者　张佳琪
-　　7月8日下午5点左右，送快递的徐先生骑电动车，沿虹梅路北向南行至虹梅路3990弄晨韵公寓对面时，遇到一部车牌号为鄂A926N6的银色奥....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 15 Jul 2016 02:58:51 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:395:"
+				　　原标题：杭州“阿牛哥”义务教拳20载 社区为他成立工作室
+陈国新扎好马步在教居民打拳
+　　浙江在线杭州7月14日讯（浙江在线 记者/陆逸超 编辑/沈正玺）一大早的黄龙洞，刚过“黄龙吐翠”石牌坊，老远就能听到陈国新中气十足的声音。不用说，这“阿牛哥”又在教人打拳了。
+　....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:17;a:6:{s:4:"data";s:35:"
 			
 			
@@ -337,12 +352,14 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:63:"
-				男子奸杀11岁女童 其14岁时曾杀害4岁男童
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-11/doc-ifxtwihp9958608.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-11/doc-ifxtwihp9958608.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:60:"
+				父亲撞见儿子在家中吸食毒品果断举报
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-15/doc-ifxuapvw2029100.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-15/doc-ifxuapvw2029100.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-法制天地
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 10 Jul 2016 21:09:13 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:397:"
-				　　信息时报讯 （记者 魏徽徽）今年1月，广州市番禺区石壁街韦涌村一名11岁的小女孩陈某莫在上学途中遭奸杀，凶手韦进木只有19岁。广州检方7月8日下午发布消息称，广州市人民检察 院经审查决定，对在广州市番禺区性侵并杀害11岁幼女的犯罪嫌疑人韦进木，以涉嫌故意杀人罪、强奸罪....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 15 Jul 2016 02:19:34 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:395:"
+				　　原标题：撞见儿子在家中吸食毒品 父亲果断举报
+　　东营网讯&nbsp;因撞见儿子在家中吸食毒品，无奈的父亲选择了向公安机关举报儿子吸毒，请求民警挽救其儿子，让其能改过自新，好好做人。7月14日，记者对此事进行了了解。
+　　7月13日晚8时左右，滨海公安局基地分局荟院派出所....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:18;a:6:{s:4:"data";s:35:"
 			
 			
@@ -352,14 +369,15 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:68:"
-				村支书持刀砍伤村民 疑与本村1名妇女起冲突
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-11/doc-ifxtwitr1899127.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-11/doc-ifxtwitr1899127.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:57:"
+				7个月身孕妈妈车祸瞬间护住8岁女儿 
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-15/doc-ifxuapvs8484642.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/pa/2016-07-15/doc-ifxuapvs8484642.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-法制天地
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 10 Jul 2016 19:21:22 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
-				　　原标题：因本村一妇女起冲突 村支书砍伤村民
-　　华商报宝鸡讯（记者 鲍吉）6月30日晚，扶风县城关街办黄甫村党支部书记陈志祥持刀砍伤同村村民陈某，事发后，陈志祥被警方行政拘留。而关于其持刀砍人的原因，竟是因本村一位妇女而起。
-　　近日，有知情人士向华商报报料，称....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 15 Jul 2016 02:04:00 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
+				　　原标题：枣庄：车祸瞬间 怀孕7月母亲用生命护住8岁女儿
+孩子的父亲脑干受伤，至今昏迷不醒。齐鲁晚报・齐鲁壹点 记者　杨霄　摄
+
+　　原本一个幸福家庭，却因一场意外而破碎。在车祸发生的瞬间，妈妈用自己的身躯护住了女儿小可欣，可是妈妈当场死亡，爸爸因脑干受伤至今昏迷....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:19;a:6:{s:4:"data";s:35:"
 			
 			
@@ -369,12 +387,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:67:"
-				拍卖公司人去楼空 价值数百万藏品不知去向
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-11/doc-ifxtwitr1899055.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-11/doc-ifxtwitr1899055.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:63:"
+				凶犯用面粉假冒毒品出售被识破捅死买家
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-15/doc-ifxuaiwa6918207.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-15/doc-ifxuaiwa6918207.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-法制天地
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 10 Jul 2016 19:20:59 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:397:"
-				　　原标题：拍卖公司人去楼空 价值数百万藏品不知去向
-　　华商报讯（记者 张成龙）为了将手中的收藏品变现，几名收藏者委托一家拍卖公司进行拍卖。可谁知拍卖公司突然人去楼空，几名藏友的收藏品也不知去向。
-　　李先生是甘肃人，他是一名收藏品爱好者。2014年4月份，李先生与....
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:9:{s:6:"server";s:5:"nginx";s:4:"date";s:29:"Tue, 12 Jul 2016 01:34:17 GMT";s:12:"content-type";s:8:"text/xml";s:14:"content-length";s:5:"22261";s:13:"last-modified";s:29:"Tue, 12 Jul 2016 01:30:01 GMT";s:7:"expires";s:29:"Tue, 12 Jul 2016 01:36:17 GMT";s:13:"cache-control";s:11:"max-age=120";s:13:"accept-ranges";s:5:"bytes";s:7:"x-cache";s:19:"MISS from localhost";}s:5:"build";s:14:"20121030175911";}
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Thu, 14 Jul 2016 18:16:27 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:394:"
+				　　原标题：连云港“7・9”命案续：凶犯假冒毒品被识破捅死受害人
+
+　　犯罪嫌疑人在上海静安区被警方抓获。 警方供图
+　　中新网南京7月15日电 （记者 郭亚楠）连云港开发区“7・9”命案逃犯田某某在上海落网。14日，记者从警方获悉，经突击审讯，田某某对杀人潜逃的犯罪事实供....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:9:{s:6:"server";s:5:"nginx";s:4:"date";s:29:"Sun, 17 Jul 2016 06:47:00 GMT";s:12:"content-type";s:8:"text/xml";s:14:"content-length";s:5:"22229";s:13:"last-modified";s:29:"Sun, 17 Jul 2016 06:30:01 GMT";s:7:"expires";s:29:"Sun, 17 Jul 2016 06:49:00 GMT";s:13:"cache-control";s:11:"max-age=120";s:13:"accept-ranges";s:5:"bytes";s:7:"x-cache";s:19:"MISS from localhost";}s:5:"build";s:14:"20121030175911";}

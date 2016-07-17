@@ -38,7 +38,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			国内要闻列表
 		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:44:"http://news.sina.com.cn/491/2008/0827/1.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:5:"zh-cn";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:3:"ttl";a:1:{i:0;a:5:{s:4:"data";s:1:"5";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:58:"
 			Copyright 1996 - 2016 SINA Inc. All Rights Reserved
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 12 Jul 2016 01:32:03 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:7:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 06:42:02 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:7:"
 			
 		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"item";a:15:{i:0;a:6:{s:4:"data";s:35:"
 			
@@ -49,15 +49,12 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:72:"
-				90后战士维和牺牲 生日和母亲越洋电话竟成诀别
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-12/doc-ifxtwihq0073414.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-12/doc-ifxtwihq0073414.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"
+				云南昌宁县卡斯镇发生山体坍塌灾害致1人死亡
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-17/doc-ifxuapvw2165649.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-17/doc-ifxuapvw2165649.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 12 Jul 2016 01:07:16 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:396:"
-				　　成都蒲江90后战士南苏丹维和遇袭牺牲
-　　成都蒲江籍维和战士李磊去年12月随部队前往南苏丹维和。
-　　出发前的12月13日，李磊专门在家人微信群里发了帅气的军装照，并给家人们留言“我走了，等着我的回来吧。”
-　　如今，在这个微信群里，几个表姐发的“在不，看到请回话”....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 06:29:09 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:318:"
+				　　云南省昌宁县人民政府新闻办公室消息，17日早上昌宁县卡斯镇茶叶箐村民小组发生山体坍塌灾害致1人死亡。截至目前，受灾群众已全部转移到安全区域，当地已抽调地质专家，对灾害发生区域进行地质评估，严防次生灾害发生。
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:35:"
 			
 			
@@ -67,13 +64,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
-				河北秦皇岛市统战部长被开除党籍 降为主任科员
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-12/doc-ifxtwiht3584845.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-12/doc-ifxtwiht3584845.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"
+				湖南暴雨突发洪涝灾害 部分山体滑坡冲垮农居
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-17/doc-ifxuapvs8636579.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-17/doc-ifxuapvs8636579.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 12 Jul 2016 00:59:00 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:401:"
-				　　据中共河北省纪律检查委员会河北省监察厅网站发布消息，日前，经河北省委批准，河北省纪委对秦皇岛市委常委、统战部部长李学民严重违纪问题进行了立案审查。
-　　经查，李学民违反政治纪律，对抗组织审查；违反组织纪律，不如实报告个人事项，拒不执行上级党组织决定；违反廉....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 05:59:09 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:399:"
+				　　[湘西突发洪涝灾害]湘西古丈县近日连降大雨，7月17日上午又降暴雨，导致部分山体滑坡冲垮农居。目前，公安民警正在赶往现场，开展救援工作，后续详情@湖南公安在线 将续报。（稿件来源：湖南省公安厅）
+　　另据央视消息，今天上午，湖南古丈县默戎镇境内因暴雨发生洪灾和山体....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:35:"
 			
 			
@@ -83,12 +80,18 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:72:"
-				“王娜娜事件”再调查：尚未收到信息公开答复
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-12/doc-ifxtwiht3584499.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-12/doc-ifxtwiht3584499.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"
+				湖北黄梅县现80米长10米宽溃口 水深25米(图)
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-17/doc-ifxuapvw2162500.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-17/doc-ifxuapvw2162500.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 12 Jul 2016 00:53:45 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:394:"
-				　　河南王娜娜被冒名上大学一事,持续受到社会关注。6月24日,河南省政府发出行政复议决定书,责令周口市人民政府在收到决定书15个工作日内,就王娜娜被冒名上大学申请信息公开一事作出答复。6月29日,王娜娜收到河南省政府的行政复议决定书。如今,距这份行政复议决定书发出已有时日,....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 04:43:59 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:388:"
+				黄梅县濯港镇丁字街村溃口处
+舟桥旅官兵正在现场进行封堵
+濯港镇附近4000亩农田，大量农作物被淹
+舟桥旅官兵正在现场进行封堵
+军民一心，合力封堵溃口
+　　原标题：黄梅濯港镇现80米长溃口 舟桥旅官兵抢险遇最大挑战
+　　荆楚网消息 &nbsp; 7月17日3时10分，黄梅县濯港镇丁字街村....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:35:"
 			
 			
@@ -98,13 +101,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"
-				尼伯特致闽清县10人死亡 全国最大古民居倒塌
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-12/doc-ifxtwihq0070592.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-12/doc-ifxtwihq0070592.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"
+				台渔民组船队20日登太平岛 批台当局太软弱
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:109:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/gat/2016-07-17/doc-ifxuapvw2161077.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:109:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/gat/2016-07-17/doc-ifxuapvw2161077.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 12 Jul 2016 00:30:08 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:401:"
-				　　央广网闽清7月12日消息（福建台记者李泰曦）据中国之声《新闻纵横》报道，“尼伯特”登陆之后带来短时强降雨，使得福建闽清、永泰等地道路、桥梁被冲毁，水电、通讯中断，受灾严重。由于基础设施损毁严重，至今灾区水电、通讯未能恢复。
-　　全国最大的古民居单体建筑闽清宏琳....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 03:59:11 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:399:"
+				号召的郑春忠（左三）为当地德高望重的船东，盼通过这次活动，争取应有的权益。（图片来源：台湾“中时电子报”）　　
+　　中国台湾网7月17日讯　针对所谓的南海“仲裁结果”，太平岛被认定为是礁，台湾渔民自组船队预订20日开往太平岛登岛护权。台“海岸巡防署”16日也派出千吨级....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:35:"
 			
 			
@@ -114,15 +117,12 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:71:"
-				广东退休厅官赴美逾期54天不归受严重违纪处分
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-12/doc-ifxtwiht3582699.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-12/doc-ifxtwiht3582699.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:55:"
+				云南保山昌宁县发生泥石流4人失联
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-17/doc-ifxuapvw2160610.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-17/doc-ifxuapvw2160610.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 12 Jul 2016 00:27:12 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:396:"
-				资料图：党纪。
-　　原标题：赴美逾期不归 退休厅官受严重违纪处分
-　　省府发展研究中心副厅级退休干部陈某携妻赴美探亲，请假20天逾假54天才回国
-　　南都讯 记者黄怡 退休厅官请假20天携妻赴美探亲后，无视组织“要求尽快回国”的意见，足足超假长达54天才回国，受到严重违纪处....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 03:47:10 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:301:"
+				　　7月17日早6时许，云南保山昌宁县消防大队接报，当地卡斯镇大唐村茶叶芊社发生1起泥石流，初步统计有4人失联。目前当地政府已启动应急预案，消防、公安等救援力量已赶往受灾地区展开救援。（央视记者 陶世飞）
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:35:"
 			
 			
@@ -132,16 +132,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:72:"
-				22岁中国维和战士捐躯南苏丹 生前日记自述无悔
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-12/doc-ifxtwiht3582671.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-12/doc-ifxtwiht3582671.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"
+				港媒：内地渔民不理非法仲裁照常赴南沙捕鱼
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-17/doc-ifxuapvs8630412.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-17/doc-ifxuapvs8630412.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 12 Jul 2016 00:26:33 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:396:"
-				　　为了和平 勇士赴难
-　　中国军队参加联合国维和行动26年来,已失去13名维和军人
-　　对中国军人来说，这个夏天壮烈且悲恸――
-　　7月10日，中国第二批赴南苏丹维和步兵营在当地武装冲突中遭炮火袭击，两名战士不幸牺牲，其中一人是来自成都蒲江的李磊，另有5人受伤。
-　　这是....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 03:15:51 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:395:"
+				　　参考消息网7月17日报道 港媒称，尽管海牙仲裁庭的裁决给中国在南中国海争议海域的领土主张造成了重大打击，但海南的渔民还是准备前往这一海域捕鱼。
+　　据香港《南华早报》网站7月16日报道，14日下午，在海南省琼海市潭门镇一个码头上，四、五名渔民正在烈日下忙着往500吨级....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:35:"
 			
 			
@@ -151,13 +148,12 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"
-				台风“尼伯特”已致闽赣粤9人死亡23人失踪
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-12/doc-ifxtwihq0070099.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-12/doc-ifxtwihq0070099.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
+				朱立伦再战国民党主席？ 洪秀柱：符合条件即可
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:109:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/gat/2016-07-17/doc-ifxuapvw2157417.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:109:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/gat/2016-07-17/doc-ifxuapvw2157417.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 12 Jul 2016 00:24:02 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:397:"
-				　　本报北京7月11日电（中国青年报・中青在线记者王亦君）今天10时，国家减灾委、民政部针对今年第1号台风“尼伯特”给福建省受灾群众基本生活造成的严重影响，紧急启动国家Ⅳ级救灾应急响应，派出工作组赶赴灾区，查看灾情，协助和指导做好受灾群众基本生活救助工作。
-　　7月8....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 02:21:14 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:397:"
+				　　中国台湾网7月17日讯　 &nbsp;据台湾“东森新闻云”报道，新北市政府副市长陈伸贤、高宗正退休后，由前国民党秘书长李四川与前新北市经发局长叶惠青接任，外界视为新北市长战争已展开。对此，国民党主席洪秀柱16日受访时表示，李四川对市政娴熟，回任不意外也很正常，至于新北....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:35:"
 			
 			
@@ -167,13 +163,12 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
-				警察抢险瞬间:水中救出八旬老人护送产妇上高地
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-12/doc-ifxtwihq0069618.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-12/doc-ifxtwihq0069618.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"
+				长江流域降水为65年同期最多 明起再迎强降雨
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-17/doc-ifxuapvs8624848.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-17/doc-ifxuapvs8624848.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 12 Jul 2016 00:15:49 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:399:"
-				　　7月4日以来，随着持续暴雨和上游洪峰侵袭，长江南京段水位暴涨，南京市内部分低洼处积水严重。南京市公安局水上分局党员突击队根据市公安局指令连续4个昼夜奋战在抗洪抢险前线，积极处置大堤管涌、解救被围困群众，谱写出舍生忘死、感人至深的动人篇章。
-　　4名民警水中救出....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 01:08:22 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:397:"
+				　　中国天气网讯 今天（17日），南方强降雨依然笼罩在江南中北部等地，贵州、江西、湖南等有大到暴雨。明起至20日，长江流域再迎强降雨，部分地区有大暴雨，并伴有强对流天气。入梅来长江流域降水已经为1951年来同期最多，持续暴雨将导致长江流域防汛压力加大，鄱阳湖、洞庭湖、....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:35:"
 			
 			
@@ -183,13 +178,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
-				长江中下游将有大到暴雨 华北东北黄淮有强降雨
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-12/doc-ifxtwiht3581618.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-12/doc-ifxtwiht3581618.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"
+				中央气象台发暴雨蓝色预警 湖南江西有大暴雨
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-17/doc-ifxuapvs8624682.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-17/doc-ifxuapvs8624682.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 12 Jul 2016 00:06:12 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
-				　　受低涡切变系统影响，预计，13日至16日，长江中下游地区将出现一次强降雨过程，四川盆地、江汉、江淮、江南北部、黄淮南部等地有大到暴雨，部分地区有大暴雨。
-　　受高空槽和地面冷空气影响，预计，12日，华北北部和南部、东北地区中部、黄淮中部等地的部分地区有阵雨或雷阵....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 01:05:47 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:392:"
+				　　中央气象台7月17日06时继续发布暴雨蓝色预警：
+　　预计，17日08时至18日08时，湖南西北部和东部、江西中部、福建北部、贵州东北部以及云南西部、广东南部沿海等地的部分地区有大雨或暴雨（50~80毫米）；上述地区局地并伴有短时强降水、雷暴大风或冰雹等强对流天气，最大小时....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:35:"
 			
 			
@@ -199,13 +194,12 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:60:"
-				中部战区司令员来鄂指导抗洪慰问官兵
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-12/doc-ifxtwiht3581301.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-12/doc-ifxtwiht3581301.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
+				太平岛老岛民痛骂台卖岛教授:我们不找老共找谁
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:109:"http://go.rss.sina.com.cn/redirect.php?url=http://video.sina.com.cn/p/news/c/doc/2016-07-17/083965287109.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:109:"http://go.rss.sina.com.cn/redirect.php?url=http://video.sina.com.cn/p/news/c/doc/2016-07-17/083965287109.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 12 Jul 2016 00:00:03 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:399:"
-				　　湖北日报讯 （记者江卉、甘勇、通讯员李军）8日至11日，带着中共中央总书记、国家主席、中央军委主席习近平关于人民解放军和武警部队大力支持地方做好防汛救灾工作的指示，中部战区司令员韩卫国来到湖北抗洪救灾一线现场指导，看望慰问官兵。
-　　韩卫国先后来到武汉市江汉区....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 00:39:41 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:239:"
+				　　15日，在台湾一档政论节目《新闻深喉咙》中，太平岛第一代岛民――一位名为戚桐欣的老大爷虽情绪激动，但却有理有据地讲出了底层人民捍卫南海主权的道理和决心。
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:10;a:6:{s:4:"data";s:35:"
 			
 			
@@ -215,13 +209,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"
-				青海能源局原局长受贿财产来源不明案开审
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-12/doc-ifxtwiht3578548.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-12/doc-ifxtwiht3578548.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:72:"
+				梁振英:《基本法》称“50年不变”非指国家主权
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-17/doc-ifxuaiwa7082895.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-17/doc-ifxuaiwa7082895.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 23:21:20 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:388:"
-				　　本报讯 　近日，青海省互助土族自治县人民法院一审公开开庭审理了青海省能源局原局长于小明受贿、巨额财产来源不明一案。该案未当庭宣判。
-　　公诉机关指控，2006年至2011年间，于小明利用职务之便，索取、非法收受他人财物人民币784465.42元、美元8100元，尚有人民币3481814....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 00:28:17 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:391:"
+				　　原标题：香港特首：“50年不变”非指国家对香港主权50年后可变
+　　中新社香港7月16日电（李焯龙 锺晓璐 杨在扬）香港特区行政长官梁振英16日表示，最近有人提出香港在2047年后的地位问题，《基本法》第五条规定50年不变的，是香港的资本主义制度和生活方式，詹皇侵腹家对香....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:11;a:6:{s:4:"data";s:35:"
 			
 			
@@ -231,12 +225,12 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:61:"
-				海南三亚官员抢房案终审宣判:官员退房
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-12/doc-ifxtwihq0065470.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-12/doc-ifxtwihq0065470.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"
+				安倍发言被李克强当场驳斥 现场仅菲外长附和
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:109:"http://go.rss.sina.com.cn/redirect.php?url=http://video.sina.com.cn/p/news/c/doc/2016-07-17/071865287011.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:109:"http://go.rss.sina.com.cn/redirect.php?url=http://video.sina.com.cn/p/news/c/doc/2016-07-17/071865287011.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 23:21:12 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
-				　　“本来就应该属于我们的房子，我们打了8年官司才拿到，太不容易了。”供职于海南省海口市某单位的陈传洪，在今年端午节前得到了一个让他百感交集的消息。根据三亚市中级人民法院作出的(2015)三亚民二终字第311号《民事判决书》，三亚市天涯海角旅游发展有限公司（以下简称“天....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sat, 16 Jul 2016 23:18:07 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:204:"
+				　　一位不具姓名的中国高级外交官7月16日向随团记者透露，刚刚闭幕的蒙古亚欧首脑会议期间，中国代表团坚决打掉了日本有关南海问题的图谋。
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:12;a:6:{s:4:"data";s:35:"
 			
 			
@@ -247,13 +241,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
-				首个网约车司机标准发布 有三类违法记录者禁入
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-12/doc-ifxtwchx8537046.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-12/doc-ifxtwchx8537046.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+				湖南乡政府完不成税收任务 用官员名义贷款填缺
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvw2149022.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvw2149022.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 23:19:39 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:400:"
-				　　原标题：网约车首发"负面清单" 有酒驾记录禁止做滴滴司机
-　　网约车首发“负面清单”，三类违法犯罪人员将被一票否决
-　　羊城晚报讯 记者马化展、林曦报道：昨日，中国互联网协会分享经济工作委员会联合滴滴出行，对外发布移动出行驾驶人员禁入标准，首次明确网约车驾驶人员....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sat, 16 Jul 2016 22:43:03 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:400:"
+				　　原标题：乡政府用个人信息贷款十几年涉及资金8000万
+　　近年来，全国多地出现村镇居民因贷款逾期，造成个人信用问题，在银行信用系统上了“黑名单”。近日，南都记者接到多位湖南居民的报料，称遭遇到了这一问题。
+　　南都记者采访发现，在这些贷款引发的问题中，有些村民是....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:13;a:6:{s:4:"data";s:35:"
 			
 			
@@ -263,13 +257,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"
-				中国电信原董事长常小兵严重违纪 被“双开”
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:109:"http://go.rss.sina.com.cn/redirect.php?url=http://video.sina.com.cn/p/news/c/doc/2016-07-12/071765282043.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:109:"http://go.rss.sina.com.cn/redirect.php?url=http://video.sina.com.cn/p/news/c/doc/2016-07-12/071765282043.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:68:"
+				揭秘论文造假产业链:明码标价博士论文要6万
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-17/doc-ifxuapvw2147685.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-17/doc-ifxuapvw2147685.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 23:17:48 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:402:"
-				　　日前，经中共中央批准，中共中央纪委对中国电信集团公司原党组书记、董事长常小兵严重违纪问题进行了立案审查。
-　　经查，常小兵严重违反政治纪律，干扰中央专项巡视工作，没有认真履行全面从严治党主体责任，对中央巡视组反馈的问题整改落实不力；严重违反中央八项规定精 神....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sat, 16 Jul 2016 20:48:30 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
+				　　参考消息网7月17日报道 外媒称，中国学术界论文造假事件近年呈高发态势，而这背后早已形成一条庞大的产业链。
+　　据新加坡《联合早报》网站7月13日报道，央视新闻近日曝光了广东省一家参与论文造假与买卖的公司。这家名为广州名匠文化传播有限公司中山分公司（广州名匠）12日....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:14;a:6:{s:4:"data";s:35:"
 			
 			
@@ -280,10 +274,11 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
-				台千吨舰艇今日抵达太平岛 蔡英文面临严峻考验
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-12/doc-ifxtwitr1999030.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-12/doc-ifxtwitr1999030.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+				江苏长江干流潮位全线回涨 南京镇江河段超警戒
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-17/doc-ifxuapvs8615626.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-17/doc-ifxuapvs8615626.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 23:17:17 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:399:"
-				　　原标题：台千吨舰艇今日抵达太平岛 蔡英文将面临严峻考验
-　　[环球时报驻台北特约记者 陈明宇]南海仲裁案的裁决结果今天出炉，岛内蓝绿阵营11日就“是否放弃U形线”以及“结果有几种可能”展开激烈辩论。虽然“海巡署长”李仲威为之前撤走百吨巡防艇辩解，声称不会打破与越南....
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:10:{s:6:"server";s:5:"nginx";s:4:"date";s:29:"Tue, 12 Jul 2016 01:33:18 GMT";s:12:"content-type";s:8:"text/xml";s:14:"content-length";s:5:"17168";s:13:"last-modified";s:29:"Tue, 12 Jul 2016 01:32:19 GMT";s:7:"expires";s:29:"Tue, 12 Jul 2016 01:35:18 GMT";s:13:"cache-control";s:11:"max-age=120";s:13:"accept-ranges";s:5:"bytes";s:3:"age";s:2:"46";s:7:"x-cache";s:18:"HIT from localhost";}s:5:"build";s:14:"20121030175911";}
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sat, 16 Jul 2016 19:26:28 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
+				　　原标题：江苏长江干流潮位全线回涨
+　　南京、镇江河段超警戒0.8米至1.0米；太湖、秦淮河等河湖水位继续回落
+　　记者16日从江苏防汛部门获悉，受长江来水和潮汛共同影响，江苏长江干流潮位全线回涨，太湖、秦淮河等河湖水位继续回落。江苏省防指调度水利工程继续全力抢排洪涝....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:10:{s:12:"content-type";s:8:"text/xml";s:14:"content-length";s:5:"16625";s:13:"accept-ranges";s:5:"bytes";s:6:"server";s:5:"nginx";s:4:"date";s:29:"Sun, 17 Jul 2016 06:45:02 GMT";s:13:"last-modified";s:29:"Sun, 17 Jul 2016 06:42:07 GMT";s:7:"expires";s:29:"Sun, 17 Jul 2016 06:47:02 GMT";s:13:"cache-control";s:11:"max-age=120";s:3:"age";s:3:"105";s:7:"x-cache";s:18:"HIT from localhost";}s:5:"build";s:14:"20121030175911";}

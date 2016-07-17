@@ -68,6 +68,8 @@
             <button class="entry-newwindow"><?PHP echo \F3::get('lang_open_window')?></button>
             <button class="entry-next"><?PHP echo \F3::get('lang_next')?></button>
         </div>
+        <div><a href="/html/<?PHP echo $this->item['id']; ?>">阅读原文</a></div>
+        <script type="text/javascript">$(this).parents('.entry').lazyLoadImages();</script>
     </div>
     
     <!-- toolbar -->

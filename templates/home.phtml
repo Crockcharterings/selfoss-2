@@ -52,7 +52,6 @@
     <link rel="stylesheet" href="<?PHP echo \helpers\View::getGlobalCssFileName(); ?>" />
 
 </head>
-
 <body class="
     <?PHP echo $this->publicMode===true ? "publicmode" : ""; ?>
     <?PHP echo $this->loggedin===true ? "loggedin" : "notloggedin"; ?> 
@@ -86,25 +85,89 @@
         data-html_title="<?PHP echo trim(\F3::get('html_title')); ?>"></span>
 
     <!-- menue open for smartphone -->
+    <style type="text/css">
+        #nav-mobile-login {
+            position:absolute;
+            width:29px;
+            height:29px;
+            background:url(images/nav-mobile-settings.png) no-repeat center;
+            background-size:29px 29px;
+            padding:11px 21px 11px 15px;
+        }
+        #nav-mobile-logo {
+            position:absolute;
+            width:1px;
+            height:1px;
+            left:50%;
+            top:5px;
+            margin-left:-48px;
+            background:no-repeat;
+            background-size:1px 1px;
+        }
+        #nav-mobile-logo span {
+            color: white;
+            position: relative;
+            left: 25px;
+            top: 5px;
+            display: none;
+        }
+        #nav-mobile {
+            position:relative;
+            display:block;
+            background:#191718;
+            border-bottom:3px solid #3d6d69;
+            width:100%;
+            height:50px;
+            position: fixed;
+            z-index: 100;
+            top: 1;
+        }
+
+        .entry-smartphone-share {
+            display: none;
+        }
+        span.unread-count.unread {
+            background-color: #E74C3C;
+            border-radius: 30px;
+            color: white !important;
+            font-size:0.6em !important;
+            font-weight: normal;
+            min-width: 8px;
+            padding: 0 5px 0 5px;
+            margin-left: 5px;
+            vertical-align:baseline !important;
+            display: inline !important;
+            width: 20px;
+        }
+    </style>
+
     <div id="nav-mobile">
-        <div id="nav-mobile-settings1">&#xe626;</div>
+        <?php session_start(); if (!empty($_SESSION['nickname'])) { ?>
+            <a href="/guid/logout"><div id="nav-mobile-login"></div></a>
+        <?php } else { ?>
+            <a href="/guid"><div id="nav-mobile-login"></div></a>
+        <?php } ?>
         <div id="nav-mobile-logo">
-            陈波
-            <!-- <span class="unread-count<?PHP //echo $this->statsUnread>0 ? ' unread' : ''; ?>"><?PHP //echo $this->statsUnread; ?></span> -->
+            <?php if (!empty($_SESSION['nickname'])) { ?>
+                <span class="unread-count<?PHP echo $this->statsUnread>0 ? ' unread' : ''; ?>"><?PHP echo $_SESSION['nickname']; ?></span>
+            <?php } else { ?>
+                <span class="unread-count unread">微播</span>
+            <?php } ?>
         </div>
-        <div id="nav-mobile-settings">&#xe678;</div>
-        
+        <div id="nav-mobile-settings"></div>
     </div>
     
     <!-- navigation -->
     <div id="nav" role="navigation">
-        <!-- <div id="nav-logo"></div>
-        <button id="nav-mark"><?PHP //echo \F3::get('lang_markread')?></button> -->
-<?PHP echo \F3::get('lang_alltags')?>
+        <!-- <div id="nav-logo"></div> -->
+        <button id="nav-mark"><?PHP //echo \F3::get('lang_markread')?></button>
+
         <?PHP $active = (\F3::get('homepage')) ? \F3::get('homepage') : 'newest' ?>
-<!--         <h2 id="nav-filter-title"><?PHP //echo \F3::get('lang_filter') ?></h2>
- -->        <ul id="nav-filter">
-            <li id="nav-filter-newest" class="nav-filter-newest<?PHP if($active=='newest') : ?> active<?PHP endif; ?>" role="link" tabindex="0"></li>
+        <h2 id="nav-filter-title" style="display:none"><?PHP echo \F3::get('lang_filter') ?></h2>
+        <ul id="nav-filter" style="display:none">
+            <li id="nav-filter-newest" class="nav-filter-newest<?PHP if($active=='newest') : ?> active<?PHP endif; ?>" role="link" tabindex="0"><?PHP echo \F3::get('lang_newest')?> <span><?PHP echo $this->statsAll; ?></span></li>
+            <li id="nav-filter-unread" class="nav-filter-unread<?PHP if($active=='unread') : ?> active<?PHP endif; ?>" role="link" tabindex="0"><?PHP echo \F3::get('lang_unread')?> <span class="unread-count<?PHP echo $this->statsUnread>0 ? ' unread' : ''; ?>"><?PHP echo $this->statsUnread; ?></span></li>
+            <li id="nav-filter-starred" class="nav-filter-starred<?PHP if($active=='starred') : ?> active<?PHP endif; ?>" role="link" tabindex="0"><?PHP echo \F3::get('lang_starred') ?> <span><?PHP echo $this->statsStarred; ?></span></li>
         </ul>
 
         <hr>
@@ -115,9 +178,9 @@
             <li class="active nav-tags-all" role="link" tabindex="0"><?PHP echo \F3::get('lang_alltags')?></li>
             <?PHP echo $this->tags; ?>
         </ul>
-        <h2 id="nav-sources-title" class="nav-sources-collapsed" tabindex="0" aria-haspopup="true" aria-expanded="false"><?PHP echo \F3::get('lang_sources') ?></h2>
+        <h2 id="nav-sources-title" class="nav-sources-collapsed" tabindex="0" aria-haspopup="true" aria-expanded="false"><?PHP //echo \F3::get('lang_sources') ?></h2>
         <ul id="nav-sources">
-            <?PHP echo $this->sources; ?>
+            <?PHP //echo $this->sources; ?>
         </ul>
         </div>
         
@@ -125,13 +188,13 @@
         
         <!-- navigation search input just for smartphone version -->
         <div id="nav-search" role="search">
-            <input type="search" id="nav-search-term"> <input type="button" id="nav-search-button" value="<?PHP echo \F3::get('lang_searchbutton')?>">
+            <input  style="display:none" type="search" id="nav-search-term"> <input style="display:none" type="button" id="nav-search-button" value="<?PHP echo \F3::get('lang_searchbutton')?>">
             <hr>
         </div>
         
         <?PHP if($this->loggedin===true && \F3::get('auth')->enabled()===false) : ?>
         <button id="nav-refresh" title="<?PHP echo trim(\F3::get('lang_refreshbutton')); ?>" class="nologin"></button>
-        <button id="nav-settings" title="<?PHP echo trim(\F3::get('lang_settingsbutton')); ?>" class="nologin"></button>
+        <button  style="display:none" id="nav-settings" title="<?PHP echo trim(\F3::get('lang_settingsbutton')); ?>" class="nologin"></button>
         <?PHP endif; ?>
         
         <?PHP if($this->loggedin===true && \F3::get('auth')->enabled()===true) : ?>
@@ -144,7 +207,7 @@
         <button id="nav-login" title="<?PHP echo trim(\F3::get('lang_loginbutton')); ?>"></button>
         <?PHP endif; ?>
         
-        <a id="nav-copyright" href="http://selfoss.aditu.de" target="_blank">selfoss <?PHP echo \F3::get('version'); ?></a>
+        <a  style="display:none" id="nav-copyright" href="http://selfoss.aditu.de" target="_blank">selfoss <?PHP echo \F3::get('version'); ?></a>
     </div>
     
     <!-- search -->
@@ -166,7 +229,7 @@
     <!-- content -->
     <div id="content" role="main">
         <?PHP echo $this->content; ?>
-    </div> 
+    </div>
     
     <div class="stream-error"><?PHP echo trim(\F3::get('lang_streamerror')); ?></div>
 

@@ -43,7 +43,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			社会新闻-社会万象
 		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:48:"http://news.sina.com.cn/society/2013/index.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:5:"zh-cn";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:3:"ttl";a:1:{i:0;a:5:{s:4:"data";s:1:"5";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:58:"
 			Copyright 1996 - 2016 SINA Inc. All Rights Reserved
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 12 Jul 2016 01:29:34 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:7:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 06:29:37 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:7:"
 			
 		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"item";a:20:{i:0;a:6:{s:4:"data";s:35:"
 			
@@ -55,12 +55,11 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
-				小伙骑电动车被线缆勒住脖子当场挂翻 生命垂危
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-12/doc-ifxtwiht3587095.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-12/doc-ifxtwiht3587095.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+				的哥桥上劝下欲轻生女学生 一年后收到结婚请柬
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvs8637168.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvs8637168.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-社会万象
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 12 Jul 2016 01:24:48 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:401:"
-				受伤的张义斌来到现场，看着垂落的线缆仍心有余悸。
-　　7月9日凌晨3时许，郑州小伙朱哲亮骑电动车带着朋友张义斌回家途中，被华山路与岗坡路交叉口南侧路中间垂落的线缆勒住脖子挂翻。朱哲亮当场摔得仰躺在地上不能动弹，坐在车后的张义斌被摔得昏迷不醒。目前，骑车的小朱因颅脑....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 06:18:49 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:401:"
+				　　生活报7月17日讯 不再喧嚣的夜里，只有出租车还在街路上疾驰。在一些人眼中，夜班出租车司机似乎生活在不同的世界里，别人已经困得直打哈欠，他们却兴奋地侃着各种奇闻趣事，似乎更加张扬、挑剔、放肆。可在很多夜班出租车司机眼中，其实乘客才是卸下面具还原本我的人，因为他....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:35:"
 			
 			
@@ -70,14 +69,15 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"
-				5岁男童小区喷泉中疑似触电夭折 家长索赔80万
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-12/doc-ifxtwihq0074516.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-12/doc-ifxtwihq0074516.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:71:"
+				女子拾荒照顾脑瘫侄女21年 盼能有免费住所(图)
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvw2164531.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvw2164531.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-社会万象
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 12 Jul 2016 01:19:58 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
-				出事的圆形喷泉池处于停喷状态，已被拉上了警戒带。
-　　核心提示|上个月，郑州“山顶・御鑫城”小区西门口，一名5岁男童在喷泉池中疑似触电，不幸夭折。母亲救援时也受伤，幸而保命。此事在社交平台被持续刷屏，孩子安全教育问题引发了广泛关注和讨论。
-　　7月10日上午，大河报....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 05:43:55 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:394:"
+				女子和脑瘫儿侄女
+　　原标题：海口女子拾荒照顾脑瘫侄女21年 盼能有免费住所
+　　本报报道过的2014年“感动海南”十大人物候选人乔雅琴照顾脑瘫侄女21年不言弃，如今因付不起房租盼帮助
+　　这是一个悲伤的故事：21年前的一场车祸，只有5个月大的女婴被抛出车窗，母亲走了，她的....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:35:"
 			
 			
@@ -87,13 +87,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"
-				考古系90后妹子另类实习:钻古墓抚摸千年遗骸
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-12/doc-ifxtwihq0072826.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-12/doc-ifxtwihq0072826.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:68:"
+				女子车站等车被公交撞致十级伤残　获赔30万
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvs8634841.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvs8634841.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-社会万象
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 12 Jul 2016 01:00:57 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:402:"
-				　　在成都市文物考古研究院实习的考古系研究生，为你现身讲述“探墓秘籍”
-　　地球物理学、古生物学、法医学、考古学……每到毕业季，这些“高冷”专业的就业和实习去处便成为网络热门话题。而一向自带神秘光环的考古专业也让不少关注者会好奇：学考古要学看罗盘吗?发掘古墓有无....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 05:12:33 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
+				　　东南网7月17日讯（海峡导报记者 陈捷 通讯员集法宣）她是一个不幸的女孩，站在公交车站点等车，没想到“飞来横祸”，一辆公交车竟撞了上来。这件倒霉事，就发生在女孩小李的身上。
+　　2015年年初，小李在集美区一公交车站点等车时，一辆驶向站点的公交车没有停住，竟然迅速滑....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:35:"
 			
 			
@@ -103,15 +103,15 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
-				工厂偷排污水酸性直逼盐酸 称没草活只因水温高
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-12/doc-ifxtwiht3584455.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-12/doc-ifxtwiht3584455.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"
+				两名女乘客抢劫男司机 称出于朋友情谊(图)
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvs8634644.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvs8634644.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-社会万象
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 12 Jul 2016 00:52:31 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
-				　　花都化工厂排放污水酸性超标导致河道寸草不生，整条河道变成黄褐色，记者取样调查。 南都记者 高贵彬 摄
-经检测，液体酸性严重超标。南都记者 高贵彬 摄
-　　原标题：工厂偷排污水 酸性直逼盐酸
-　　在广州市花都区炭步镇的四角围，一家化工厂的围墙外面有6个排污口，排出来的....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 05:07:29 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:397:"
+				女乘客抢劫男司机
+女乘客受审画面
+　　原标题：&nbsp;网友：两个霸道的女汉子
+　　沈阳出租车司机李师傅的车上来了两个年轻女乘客。她们称要到沈北新区某小区。到了目的地，坐在后面的女子突然用电线勒住李师傅的脖子，另一个女孩掏出一把水果刀威胁李师傅，并抢走了李师傅身上带....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:35:"
 			
 			
@@ -121,13 +121,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"
-				一家三代义务扫公厕52年 常被误认为清洁工
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-12/doc-ifxtwiht3582221.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-12/doc-ifxtwiht3582221.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:51:"
+				妻子嫌丈夫不上进一气之下投河
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvs8634228.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvs8634228.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-社会万象
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 12 Jul 2016 00:17:49 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:401:"
-				　　一手按住冲水键，一手用扫把将蹲坑里的粪便推进下水道，一股刺鼻的气味在空气中四处流窜，谢强不禁憋了一口气。
-　　“在生命弥留之际，爷爷还要家里人作出保证，在他去世之后，继续清扫公厕。”如今，在武汉铁路局武东车站上班的谢强每逢休息，都会帮奶奶刘忠兰和爸爸谢常清....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 04:58:50 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:392:"
+				　　原标题：命悬一线！嫌丈夫不上进女子投河 民警奋力救人
+　　中安在线7月17日讯&nbsp;据安徽商报消息 “当时河水已经淹没过女子的半张脸，民警冒着大雨果断跳入河中，把她拖住，一步步游向河岸。”7月15日16：30许，汪警官一身淤泥爬上了塘西河岸边。“不好啦，徽州大道这边的....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:35:"
 			
 			
@@ -137,15 +137,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"
-				小伙警务站门前拿刀欲割喉轻生 曾报警找女友
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-12/doc-ifxtwihq0060528.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-12/doc-ifxtwihq0060528.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:71:"
+				6旬老人与好友较劲学车 生病住院做梦还在挂挡
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvs8633642.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvs8633642.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-社会万象
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 21:12:15 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:395:"
-				　　一个小伙跑到警务工作站门口，挥刀吵闹着要轻生。现代快报记者了解到，原来他是为情所困，跑到警察面前轻生，是希望警方能帮他将女友找回来。
-　　现代快报/ZAKER南京记者 陶维洲 通讯员 秦公轩
-　　小伙警务站前挥刀轻生
-　　今年6月下旬的一天晚上，南京市公安局秦淮分局夫....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 04:40:30 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:392:"
+				　　原标题：黑龙江花甲老人驾考迨隆耙宦峥稹 生病住院做梦还在挂挡
+　　生活报7月17日讯 每一个汽车“有本儿族”，都有一段难忘的考证岁月。来自哈尔滨市公安交通管理局驾管处的统计显示：哈市每年20万考取驾照的新手司机中，有1.4万名是60-70岁的老年人。相较于那些“记性好”....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:35:"
 			
 			
@@ -155,13 +153,16 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"
-				全球最大偷情网站威胁用户：退费就寄信到家
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-12/doc-ifxtwiht3574478.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-12/doc-ifxtwiht3574478.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:72:"
+				男子持菜刀袭击过往车辆 一奥迪车“被砍”(图)
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvs8633393.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvs8633393.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-社会万象
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 20:57:29 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:387:"
-				　　参考消息网7月12日报道 台媒称，全球最大偷情网站Ashley Madison承认，之前使用电子机器人提升女性用户数量，吸引男性用户使用。
-　　台湾ETtoday东森新闻云网站7月11日报道，用户不满想退费时，这个号称“保密至上的”网站客服却威胁，会将相关信息寄到家中，让许多注册网站....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 04:33:41 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:394:"
+				事发现场　　
+男子被捕
+　　原标题：男子南门外持刀袭击过往车辆 一奥迪车“被砍”
+　　华商报讯 &nbsp; 昨日，一男子在南门外持刀袭击过往车辆，随后该男子被执勤辅警控制带到派出所，此事并未造成人员伤亡。目前，碑林警方正在调查男子的动机。
+　　昨日中午12时许，交警碑林大....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:35:"
 			
 			
@@ -171,16 +172,14 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"
-				老翁与撞者人发生口角掏出小刀挥舞吓坏乘客
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-12/doc-ifxtwitr1987113.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-12/doc-ifxtwitr1987113.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:64:"
+				富豪遭12人打死 曾穿7斤重黄金T恤炫富(图)
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvs8630281.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvs8630281.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-社会万象
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 19:22:11 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:394:"
-				　　原标题：九旬阿伯太火爆 公交挥刀 司机停车忙疏散 乘客夺刀
-　　文/广州日报记者 申卉
-　　图/广州日报记者 苏俊杰
-　　 因拥挤发生口角 事件中无人受伤
-　　昨天早上，正值上班高峰期，B9路公交车在行驶途中，由于上车时拥挤乘客间发生口角，一名年过九旬的老汉从口袋掏出一....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 03:11:43 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:391:"
+				普盖曾指穿黄金战衣是他的梦想。
+　　原标题：印度一富豪遭12人活活打死 曾穿7斤重黄金T恤炫富
+　　据港媒报道，爱金成狂的印度宾布里富豪普盖（Datta Phuge）周四遇袭身亡，12名嫌犯手持镰刀和石头对其痛殴，普盖送医后死亡。警方随后拘捕5名疑犯，其中一人为普盖的侄儿，事件怀....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:35:"
 			
 			
@@ -190,13 +189,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:63:"
-				四万人众筹买下地球最美海滩当国家公园
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-12/doc-ifxtwihq0058869.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-12/doc-ifxtwihq0058869.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"
+				卫生院输液瓶中现死蚂蚁 食药监部门介入(图)
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvs8629995.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvs8629995.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-社会万象
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 19:21:01 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:392:"
-				　　参考消息网7月12日报道 台媒称，新西兰1名男子雄心勃勃发起集资运动，如愿买下新西兰南岛号称“地球最棒”的海滩之后，10日正式捐给国家，划为国家公园。他表示，看到愿望成真，真有点像作梦的感觉。
-　　据台湾“中央社”7月11日综合外电报道，牧师梅杰（Duane Major）今年稍....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 03:02:38 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:402:"
+				　　原标题：输液瓶惊现死蚂蚁 菏泽定陶食药监部门已介入
+　　日前，菏泽定陶区南王店的崔先生向齐鲁晚报反映，其女儿在南王店中心卫生院看病即将输完第一瓶葡萄糖时，发现瓶中有一只死蚂蚁。崔先生担心孩子因输入可能被感染的液体对身体造成损害。该卫生院相关负责人称，双方可协....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:35:"
 			
 			
@@ -206,15 +205,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"
-				女童被邻居接回家后下体红肿 家属称疑遭性侵
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-12/doc-ifxtwitr1986147.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-12/doc-ifxtwitr1986147.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"
+				摆摊老人收百元假钞 追100多米后倒地身亡(图)
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-17/doc-ifxuaiwa7088578.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-17/doc-ifxuaiwa7088578.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-社会万象
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 18:44:40 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
-				　　原标题：邻居帮忙接4岁孙女 放学孩子回来后说下体疼
-　　华商报讯（记者 杨托 实习生 郗盼 韩琳）奶奶太忙，便拜托五旬男邻居接4岁多的孙女放学。奶奶回来后，孩子直喊下体疼。对此，家属说孩子告诉家人被邻居性侵，邻居否认称遭诬陷，大荔警方称仍在调查。
-　　遭遇：
-　　孩....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 03:00:36 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:399:"
+				　　原标题：摆摊老人收百元假钞 追出100多米后身亡
+　　本报讯（记者 汪洋 通讯员 苏东斌）昨日上午，定州市街头上演令人唏嘘一幕：一位摆摊卖自家土产的老太，发现收到一张百元假钞后追赶途中，突然倒地昏迷不醒，最终经抢救无效身亡。目前，定州市警方已介入调查此事，老太家人....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:10;a:6:{s:4:"data";s:35:"
 			
 			
@@ -224,14 +221,14 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"
-				村干部倒渣土堵路企业通行受阻 称系领导命令
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-12/doc-ifxtwchx8523737.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-12/doc-ifxtwchx8523737.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
+				儿子长得像“隔壁老王” 父亲做亲子鉴定非亲生
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvw2155485.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvw2155485.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-社会万象
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 18:43:49 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:394:"
-				　　原标题：村干部倒渣土堵路 企业通行受阻
-
-　　华商报讯（记者 丁瑜）“我们公司修的路莫名被村干部堵了，导致企业生产无法正常开展。”7月8日，陕西鑫迸┮倒司（以下简称鑫迸┮担┮幻负责人向华商报反映，该公司员工在询问宝鸡高新区八鱼镇范家崖村的村干部为何堵路时，双....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 01:30:04 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:401:"
+				　　原标题：悄悄做亲子鉴定　竟非亲子
+　　小小的单间，被两张紧挨着的床占满；墙根儿底下是一排的酒瓶子。
+　　小马（化名）今年35岁，是这个单间的租户，已经从河南老家来沈阳生活了十多年，自己的小饭店刚刚开张半年。此时的他站在门边，两只手来回搓着，望着小月（化名）；而....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:11;a:6:{s:4:"data";s:35:"
 			
 			
@@ -241,14 +238,12 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"
-				广场横幅挂得太低 10岁女孩被铁丝挂倒摔伤
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-12/doc-ifxtwchx8523589.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-12/doc-ifxtwchx8523589.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
+				老人挑菜上车拒买货票 公交司机将一担菜扔下车
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvw2154682.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvw2154682.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-社会万象
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 18:41:44 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:399:"
-				　　原标题：广场横幅挂得太低 10岁女孩被铁丝挂倒摔伤
-
-　　华商报咸阳讯（记者 马新斌）近日，武功县住建局在县城广场上挂横幅宣传平安建设，结果横幅挂得太低，一名路过的10岁女孩不慎被固定横幅的铁丝挂到脖子，摔倒致骨折。目前，该县住建局已承认他们工作存在疏忽，赔偿了女....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 01:12:55 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:393:"
+				　　中安在线7月17日讯 &nbsp; 据安徽商报消息 昨天上午，合肥市民小李在微博里爆料称，当天早晨6点15分左右，一辆驶往合肥市区的25路公交车上出现不和谐的一幕。“一名头发花白的老人挑着菜上车，被要求买货票。老人没应允，公交车司机居然毫不留情把他的东西扔下车。”小李描述....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:12;a:6:{s:4:"data";s:35:"
 			
 			
@@ -258,14 +253,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
-				男子因停车费起纠纷用车堵门 业主埋怨几句被打
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-12/doc-ifxtwiht3573256.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-12/doc-ifxtwiht3573256.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:67:"
+				男子偷2万元逃亡14年 被《好先生》触动自首
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-17/doc-ifxuaiwa7082387.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-17/doc-ifxuaiwa7082387.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-社会万象
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 18:41:40 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:397:"
-				　　华商报讯（记者 张成龙）7月10日，位于西安城北贞观路上的凤鸣华府小区发生一起打架伤人事件，小区一名业主因埋怨一司机用车堵门被打断肋骨。目前，警方已介入调查。
-　　伤者被诊断肋骨骨折、脑震荡
-　　市民王先生是凤鸣华府小区的业主。7月10日下午2时30分，他准备进入小区....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 00:20:56 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
+				　　原标题：男子偷拿单位两万元逃亡14年 孙红雷演绎的“亲情”让他决心“回家”
+　　14年前，泰州男子李某盗窃单位2万元现金后，一直逃亡在外，被警方网上追逃。前段时间热播的电视剧《好先生》，让他迷上了剧中孙红雷扮演的陆远。剧中孙红雷演绎出的“亲情”，让他幡然醒悟，下....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:13;a:6:{s:4:"data";s:35:"
 			
 			
@@ -275,13 +269,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:71:"
-				7岁男孩落入丹江漂400多米 村支书用晾衣竿救起
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-12/doc-ifxtwiht3573223.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-12/doc-ifxtwiht3573223.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:72:"
+				母亲用儿身份证领免费洗衣粉 信息被盗负债20万
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-17/doc-ifxuaiwa7082306.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-17/doc-ifxuaiwa7082306.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-社会万象
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 18:38:55 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:396:"
-				　　华商报商洛讯（记者 曾春）昨晚8时许，提起3个小时前7岁儿子落水被冲走400多米的惊魂一幕，刘师傅说，多亏了救儿子的好心人。这个好心人就是邻村的村支书孙庆红。
-　　商洛市商州区夜村镇李河滩村靠近丹江，连日来降雨导致河水上涨。7月11日，村支书孙庆红一直坐班巡查，直到....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sun, 17 Jul 2016 00:20:38 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:402:"
+				　　原标题：她在超市领了几袋免费洗衣粉 不料身份证复印件被冒用，儿子背债
+　　为了能领取超市的免费洗衣粉，且每张身份证复印件只能领取一袋，淮安一老人家将自己儿子、儿媳的身份证复印件也交给超市促销人员，可让这位母亲想不到的是，她的儿子、儿媳今年准备贷款买房时发现，....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:14;a:6:{s:4:"data";s:35:"
 			
 			
@@ -291,13 +285,14 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:54:"
-				男子不满航班延误扬言炸机场被拘
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-12/doc-ifxtwchx8522540.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-12/doc-ifxtwchx8522540.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"
+				男子用“好友”苹果ID遭锁屏 被勒索800元开锁
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-17/doc-ifxuaiwa7075197.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-17/doc-ifxuaiwa7075197.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-社会万象
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 18:20:22 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:401:"
-				　　原标题：航班延误引不满男子扬言炸机场被拘
-　　京华时报讯（记者张思佳）近日，王某到首都机场接妻子，因航班延误，王某拨打首都机场热线讨说法，在通话中王某情绪激动扬言要炸机场。接线员向首都机场警方报警后，民警找到王某并将其控制，发现王某并无实施爆炸意图只是图一....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sat, 16 Jul 2016 22:39:47 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:396:"
+				　　原标题：“好友”发来苹果ID 手机被锁屏遭勒索800元
+　　商报首席记者 郑友
+　　重庆商报讯 昨日，合川警方通报了一起案件。日前，雷先生的好友发来一个苹果ID，称其手机无法上网，让其帮忙登录试一试。好心的雷先生将ID输入后，手机突然自动关机了。重启后，雷先生发现手机被....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:15;a:6:{s:4:"data";s:35:"
 			
 			
@@ -307,13 +302,17 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
-				男子收藏仿真枪被判刑:知道藏枪违法但舍不得扔
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-12/doc-ifxtwitr1984956.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-12/doc-ifxtwitr1984956.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:59:"
+				91岁远征军老兵辞世 曾血战腾冲40余天
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvs8617423.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvs8617423.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-社会万象
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 18:19:32 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
-				　　原标题：“我知藏枪违法，但扔了又舍不得”
-　　京华时报讯（记者张淑玲）昨天，朝阳法院针对两起非法持有枪支案件公开开庭进行审理。今年30岁的北京人王某是个“枪迷”，他从小爱枪，至今年4月15日被警方查获时，他已收藏仿真枪28支。此外，今年32岁的天津人杜某，为了和朋友....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sat, 16 Jul 2016 21:56:30 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:400:"
+				林金成年轻时候的留影。 
+
+林金成卧病时，看报了解新闻。
+　　只是凋零
+　　抗日远征军的故事，他还没能讲完就匆匆走了。
+　　成都玉林北街的巷子，纵横错杂，保留着老成都的生活气息。林金成常常散步在各处巷子，路过菜市时还会照例买些青菜。周围的街坊邻居大多与他相识，有时走....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:16;a:6:{s:4:"data";s:35:"
 			
 			
@@ -323,15 +322,12 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:65:"
-				女赌徒骗朋友父母买原始股 称5年不能赎回
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-12/doc-ifxtwihq0057947.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-12/doc-ifxtwihq0057947.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:71:"
+				商人村官被指身背2亿巨债跑路 事发前仍在防汛
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvs8617084.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvs8617084.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-社会万象
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 18:18:00 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:394:"
-				　　京华时报讯（记者常鑫）女子沉迷于赌博，身负巨额欠款。为了还债，她谎称认识银行高管，以购买原始股为名，诈骗朋友的父母。近日，海淀公安分局刑侦支队破获一起特大诈骗案，涉案金额80余万元。
-　　&gt;&gt;事主
-　　出于信任掏钱“投资”
-　　今年4月5日，海淀公安分局刑侦....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sat, 16 Jul 2016 21:25:18 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:402:"
+				　　让拥有一定资产的能人、富人走上村干部岗位，曾被当成发展农村经济的捷径，在江苏乃至全国遍地开花。然而，在“老板村官”为农村面貌带来改变的同 时，一些问题也随之暴露。今年5月，南通海门明星村官叶剑生疑因身陷债务纠纷服下化学物品。时隔两个月，常州也发生类似情况，一....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:17;a:6:{s:4:"data";s:35:"
 			
 			
@@ -341,13 +337,12 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:71:"
-				老太横穿马路致3辆车连环追尾 事发后离开现场
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-12/doc-ifxtwihq0057369.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-12/doc-ifxtwihq0057369.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:64:"
+				色狼非礼不成留纸条威胁 被女子设套擒获
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvs8616744.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-17/doc-ifxuapvs8616744.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-社会万象
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 17:38:13 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
-				　　新文化讯（记者 邢阳实习生 梁悦 马玉轩） 11日下午2点02分，在长春市人民大街国盛大酒店附近，先是一声急促的刹车声，紧接着就是“砰”地一声巨响，让很多排队通过斑马线的行人惊出一身冷汗，几秒钟前还顺序通过斑马线的三辆车瞬间撞在了一起。
-　　事发时，马同学正和两位朋....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sat, 16 Jul 2016 21:00:49 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:399:"
+				　　快报讯（记者 蔡梦莹）“加QQ，不然你的丑事都让人知道”，7月15日，家住在南京市鼓楼区新民路附近的小吴，在房门口捡到一张神秘纸条。是谁这样威胁她？原来6天之 前，曾有一个色狼翻窗入室，企图对她动手动脚，但趁乱逃跑了。历经一个星期，小吴略施小计终于把色狼给揪了出来....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:18;a:6:{s:4:"data";s:35:"
 			
 			
@@ -357,16 +352,14 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"
-				健身房私教行业乱象调查:聘请主要看颜值身材
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-12/doc-ifxtwchx8520375.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-12/doc-ifxtwchx8520375.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
+				男子因琐事将妻子岳母杀害 女儿呼救被关进厨房
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-17/doc-ifxuaiwa7063935.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-17/doc-ifxuaiwa7063935.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-社会万象
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 17:20:27 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
-				　　原标题：20岁女孩舒适堡锻炼3小时后猝死
-女孩小李就是在这家舒适堡健身中心猝死
-　　■不少人怀疑私教训练安排不合理，运动过量引发悲剧■舒适堡回应：私教有证，正与家属协商赔偿事宜■私教行业乱象调查：聘请私教主要“看颜值和身材”
-　　晨报记者　邬林桦
-　　见习记者　....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sat, 16 Jul 2016 18:21:25 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
+				　　原标题：把娃关厨房 砍死妻子岳母
+　　华商报汉中讯（记者周金柱）6月25日晚9时许，南郑县青树镇冉家营村发生惨剧：上门女婿罗某因琐事与妻子发生口角，将妻子和岳母残忍杀害。行凶过程中，女儿一度呼救，却被他关进厨房后继续行凶。
+　　7月13日上午，在南郑县青树镇冉家营村....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:19;a:6:{s:4:"data";s:35:"
 			
 			
@@ -376,11 +369,12 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:54:"
-				男子因感情纠纷持刀将两姐妹割喉
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-12/doc-ifxtwitr1981848.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-12/doc-ifxtwitr1981848.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:41:"
+				10岁女孩河道玩耍被冲走
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-17/doc-ifxuaqhu0525075.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-17/doc-ifxuaqhu0525075.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:34:"
 				社会新闻-社会万象
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Mon, 11 Jul 2016 17:01:58 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:401:"
-				　　原标题：因感情纠纷 男子扎伤两姐妹
-　　北京晨报现场新闻（记者 张静雅）昨天早上8点左右，房山区清雅小区内两名女子被一名男子用水果刀割喉。事后，男子自行报警，警方赶到将其当场制服。两名女子被送至附近的医院救治，并无生命危险。警方称系因情感纠纷，涉事男子已被控制....
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:9:{s:6:"server";s:5:"nginx";s:4:"date";s:29:"Tue, 12 Jul 2016 01:34:21 GMT";s:12:"content-type";s:8:"text/xml";s:14:"content-length";s:5:"22277";s:13:"last-modified";s:29:"Tue, 12 Jul 2016 01:30:01 GMT";s:7:"expires";s:29:"Tue, 12 Jul 2016 01:36:21 GMT";s:13:"cache-control";s:11:"max-age=120";s:13:"accept-ranges";s:5:"bytes";s:7:"x-cache";s:19:"MISS from localhost";}s:5:"build";s:14:"20121030175911";}
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sat, 16 Jul 2016 18:21:17 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
+				　　原标题：10岁女孩河道玩耍被冲走
+　　华商报讯（记者张成龙）7月15日，长安区鸣犊街道办库峪河道，一名女孩玩耍时落水被冲走。
+　　家在鸣犊街道的李先生称，落水的孩子是附近村子的，事发时和几个小孩在河边玩耍，由于水流太急突然被冲走，派出所民警和救援队赶到现场打捞，....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:9:{s:6:"server";s:5:"nginx";s:4:"date";s:29:"Sun, 17 Jul 2016 06:47:06 GMT";s:12:"content-type";s:8:"text/xml";s:14:"content-length";s:5:"22271";s:13:"last-modified";s:29:"Sun, 17 Jul 2016 06:30:02 GMT";s:7:"expires";s:29:"Sun, 17 Jul 2016 06:49:06 GMT";s:13:"cache-control";s:11:"max-age=120";s:13:"accept-ranges";s:5:"bytes";s:7:"x-cache";s:19:"MISS from localhost";}s:5:"build";s:14:"20121030175911";}

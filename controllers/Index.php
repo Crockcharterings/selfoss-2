@@ -269,4 +269,34 @@ class Index extends BaseController {
         }
         return $assocTags;
     }
+    public function html()
+    {
+        $this->con();
+    }
+    private function con() {
+        $mysqli = new \mysqli(\F3::get('db_host'), \F3::get('db_username'), \F3::get('db_password'), \F3::get('db_database'));
+        $mysqli->set_charset("utf8");
+        $sql    = "SELECT * FROM items";
+        $result = mysqli_query($mysqli, $sql);
+        while($row = mysqli_fetch_array($result))
+        {
+            echo $row['id'] . " " . $row['title'];
+            echo "<br />";
+            $this->createHtml($row);
+        }
+        mysqli_close($mysqli);        
+    }
+    private function createHtml($row)
+    {
+        $myfile = fopen("data/html/".$row['id'].".html", "w") or die("Unable to open file!");
+        $html = sprintf("<html><head><title>%s</title></head><body>%s</body></html>",$row['title'], $row['content']);
+        fwrite($myfile, $html);
+        fclose($myfile);
+        return;
+    }
+    public function show()
+    {
+        $id = \F3::get('PARAMS["id"]');
+        echo $this->view->render('data/html/'.$id.'.html');
+    }
 }

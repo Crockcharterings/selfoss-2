@@ -3249,9 +3249,6 @@ body.publicmode.notloggedin .entry-unread {
         border-bottom:3px solid #3d6d69;
         width:100%;
         height:50px;
-        position:fixed;
-        z-index: 100;
-        top:0;
     }
     
         #nav-mobile-logo {
@@ -3274,28 +3271,12 @@ body.publicmode.notloggedin .entry-unread {
         }
 
         #nav-mobile-settings {
-        	font-family: 'iconfont';
-        	color:#fff;
-        	font-size: 30px;
             position:absolute;
-            /*width:29px;
-            height:29px;*/
+            width:29px;
+            height:29px;
             left:100%;
             margin-left:-66px;
-            /*background:url(images/nav-mobile-settings.png) no-repeat center;*/
-            background-size:29px 29px;
-            padding:11px 21px 11px 15px;
-        }
-       #nav-mobile-settings1 {
-        	font-family: 'iconfont';
-        	color:#fff;
-        	font-size: 26px;
-            position:absolute;
-            /*width:29px;
-            height:29px;*/
-            left:100%;
-            margin-left:-370px;
-            /*background:url(images/nav-mobile-settings.png) no-repeat center;*/
+            background:url(images/nav-mobile-settings.png) no-repeat center;
             background-size:29px 29px;
             padding:11px 21px 11px 15px;
         }
