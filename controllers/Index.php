@@ -290,7 +290,7 @@ class Index extends BaseController {
     private function createHtml($row)
     {
         $myfile = fopen("data/html/".$row['id'].".html", "w") or die("Unable to open file!");
-        $html = sprintf("<html><head><title>%s</title></head><body>%s</body></html>",$row['title'], $row['content']);
+        $html = sprintf("<html><head><title>%s</title></head><body><style type='text/css'>img{display:block;margin:0 auto;}p{font-size: 28px;}</style>%s</body></html>",$row['title'], $row['content']);
         fwrite($myfile, $html);
         fclose($myfile);
         return;
