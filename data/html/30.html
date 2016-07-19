@@ -1,5 +1,208 @@
-<html><head><title>特朗普与副总统竞选搭档彭斯首次正式同台亮相</title></head><body>&#12288;&#12288;&#21407;&#26631;&#39064;&#65306;&#29305;&#26391;&#26222;&#19982;&#21103;&#24635;&#32479;&#31454;&#36873;&#25645;&#26723;&#24429;&#26031;&#39318;&#27425;&#27491;&#24335;&#21516;&#21488;&#20142;&#30456;
-&#36164;&#26009;&#22270; &#21776;&#32435;&#24503;&#12539;&#29305;&#26391;&#26222;&#12290;
-&#12288;&#12288;&#20013;&#26032;&#31038;&#32445;&#32422;7&#26376;16&#26085;&#30005;&#29305;&#26391;&#26222;&#19982;&#21103;&#24635;&#32479;&#31454;&#36873;&#25645;&#26723;&#24429;&#26031;&#39318;&#27425;&#27491;&#24335;&#21516;&#21488;&#20142;&#30456;
-&#12288;&#12288;&#20013;&#26032;&#31038;&#35760;&#32773;&#37011;&#25935;
-&#12288;&#12288;&ldquo;&#20170;&#22825;&#25105;&#22312;&#27492;&#21521;&#22823;&#23478;&#20171;&#32461;&#25105;&#30340;&#31454;&#36873;&#25645;&#26723;&#21644;&#30333;&#23467;&#25645;&#26723;&#65292;&#25105;&#20204;&#23558;&#19968;&#36215;&#20462;&#27491;&#24050;&#34987;&#25805;&#32437;&#30340;&#31995;&#32479;&#65292;&#20351;&#32654;&#22269;&#37325;&#26032;&#23433;&#20840;&#12289;....</body></html>
+<html><head><title>环湖赛行人突然闯入比赛 导致大面积选手摔车</title></head><body><style type='text/css'>img{display:block;margin:0 auto;}p{font-size: 28px;}</style>环湖赛行人突然闯入比赛 导致大面积选手摔车|环青岛湖国际自行车赛|突发事故|摔车_新浪视频
+  
+  ');&#13;
+  }&#13;
+  else{&#13;
+    window.baidureferrer = false;&#13;
+    document.write(''+&#13;
+    ''+&#13;
+    '');&#13;
+  }&#13;
+	
+	
+	
+        	
+    
+    <div>
+      <p>
+        </p><h2 title="环湖赛行人突然闯入比赛 导致大面积选手摔车">环湖赛行人突然闯入比赛 导致大面积选手摔车</h2>
+      
+      
+      <div>
+        
+        <div>
+          
+          
+          <div>
+              
+              <p>按住此条可拖动</p>
+          </div>
+        </div>
+      </div>
+
+<div>
+                	
+
+
+        
+                
+        <div>
+    		<p> </p><h3>新闻 - 热门视频</h3> 
+ 				<div>
+						<div>
+						<p>正在加载...请稍等~</p>
+						</div>
+				</div>
+				</div>
+
+
+
+      </div>
+      
+      
+      <div>
+        
+        <div>
+  <div>
+    
+    <div>
+      <div>
+      分享到：
+      
+      
+        
+      
+        
+      </div>
+      
+    </div>
+      </div>
+  
+    
+</div>        
+        
+        
+        <div>
+  <p>&#13;
+    </p><h3>视频信息</h3><i title="播放量"><i>0</i>&#13;
+  
+  
+  
+  	
+        &#13;
+                    发布时间：<em>2016年07月18日13:40</em>          来源：新浪视频        
+  	    
+        
+    &#13;
+          简介：&#13;
+      <em>&#13;
+      &#13;
+         
+     
+
+		</em></i></div>
+		
+  </div>
+  
+</div>
+
+');
+        targetBox.delegate('a[action-type=comment]','click',function(e){
+            SUDA.uaTrack('video2', 'pinglun');
+          $('body,html').animate({scrollTop:$('#J_Comment_Wrap').offset().top - 10}, '300'); 
+            e.preventDefault();
+          })
+          
+        }
+      })(SVK);
+    }
+  });
+window.$widget &amp;&amp; window.$widget.push({
+  id: 'J_Comment_Wrap',
+  require: [
+    'http://ent.sina.com.cn/470/2014/0324/comment.2.min.css',
+    'http://ent.sina.com.cn/470/2014/0324/comment.2.min.js'
+    ],
+ //   isDepend: true,
+  requireParams: [
+    {
+      styleCharset: 'gb2312'
+    },
+    {
+      scriptCharset: 'gb2312'
+    }
+  ],
+  loadTime: 'firstView',
+  exports: function(box){
+      var $ = window.___sinacMNT___;
+      try{
+        var userControl = SVK.common.userInfo.userControl;
+        var loginSuccess = SVK.common.channel.loginChannel.login;
+        var loginCallback = function(){
+          //用户点击评论框的退出按钮且退出成功后触发此事件
+          $.custEvent.add($,'ce_logout',function(){
+              location.href = userControl.logoutURL();
+          });
+        };
+        var firelogin = function(){
+          if(!loginSuccess.fired()){
+            userControl.resetLogin();
+            loginSuccess.fire();
+          }
+        };
+        userControl.getUserInfo(function(user){
+          if(user){
+            //已登录
+            loginCallback();
+          }
+          else{
+            //未登录
+            var channelFun = function(){
+              $.login.synStatus(); //通知评论组件登录
+              loginCallback();
+            };
+            loginSuccess.add(channelFun);
+            //如果用户sso登录成功，但是未开通微博，则触发此事件
+            $.custEvent.add($,'ce_login',function(){
+              loginSuccess.remove(channelFun);
+              firelogin();
+            });
+            //如果用户开通微博并登录成功，则触发此事件
+            $.custEvent.add($,'ce_weiboLogin',function(){
+              loginSuccess.remove(channelFun);
+              firelogin();
+            });
+            
+          }
+        });
+      }catch(e){}
+      /**
+      * 初始化评论列表
+      * @param 依次为：评论容器id,评论框参数，评论列表参数
+      */
+      var commentlist = new $.cmnt.FormList('J_Comment_Wrap',{
+         channel:$SCOPE['video']['channel'], //频道channel
+         newsid:$SCOPE['video']['newsid'], //newsid 后台走评论系统生成的评论id
+         encoding:'utf-8', //指定评论显示的内容编码
+         parent: ''
+      },{
+          channel:$SCOPE['video']['channel'], //频道channel
+          newsid:$SCOPE['video']['newsid'], //newsid 后台走评论系统生成的评论id
+          encoding:'utf-8', //指定评论显示的内容编码
+          group: 0, //因为我们是一个视频对应一个评论，所以为0；为1的话是相对于一个组来说的，里面会有多个视频
+          page: 1, //首次加载显示第几页
+          pageSize: 20, //每页显示多少条评论
+          hotPageNum:3 //最热门评论默认显示几条
+     });
+  }
+});
+
+
+<ins>
+
+      
+    
+    
+    
+    &#13;
+&#13;
+&#13;
+&#13;
+    
+  
+  
+  
+    
+  
+  
+  </ins></body></html>
