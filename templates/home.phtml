@@ -90,7 +90,7 @@
             position:absolute;
             width:29px;
             height:29px;
-            background:url(images/nav-mobile-settings.png) no-repeat center;
+            background:url(images/nav-user.png) no-repeat center;
             background-size:29px 29px;
             padding:11px 21px 11px 15px;
         }
@@ -126,7 +126,7 @@
         .entry-smartphone-share {
             display: none;
         }
-        span.unread-count.unread {
+        span.unread-count1.unread1 {
             background-color: #E74C3C;
             border-radius: 30px;
             color: white !important;
@@ -149,9 +149,9 @@
         <?php } ?>
         <div id="nav-mobile-logo">
             <?php if (!empty($_SESSION['nickname'])) { ?>
-                <span class="unread-count<?PHP echo $this->statsUnread>0 ? ' unread' : ''; ?>"><?PHP echo $_SESSION['nickname']; ?></span>
+                <span class="unread-count1 unread1"><?PHP echo $_SESSION['nickname']; ?></span>
             <?php } else { ?>
-                <span class="unread-count unread">微播</span>
+                <span class="unread-count1 unread1">微播</span>
             <?php } ?>
         </div>
         <div id="nav-mobile-settings"></div>
@@ -166,7 +166,7 @@
         <h2 id="nav-filter-title" style="display:none"><?PHP echo \F3::get('lang_filter') ?></h2>
         <ul id="nav-filter" style="display:none">
             <li id="nav-filter-newest" class="nav-filter-newest<?PHP if($active=='newest') : ?> active<?PHP endif; ?>" role="link" tabindex="0"><?PHP echo \F3::get('lang_newest')?> <span><?PHP echo $this->statsAll; ?></span></li>
-            <li id="nav-filter-unread" class="nav-filter-unread<?PHP if($active=='unread') : ?> active<?PHP endif; ?>" role="link" tabindex="0"><?PHP echo \F3::get('lang_unread')?> <span class="unread-count<?PHP echo $this->statsUnread>0 ? ' unread' : ''; ?>"><?PHP echo $this->statsUnread; ?></span></li>
+            <li id="nav-filter-unread" class="nav-filter-unread<?PHP if($active=='unread') : ?> active<?PHP endif; ?>" role="link" tabindex="0"><?PHP echo \F3::get('lang_unread')?> <span class="unread-count<?PHP echo $this->statsUnread>0 ? ' unread' : ''; ?>">微播</span></li>
             <li id="nav-filter-starred" class="nav-filter-starred<?PHP if($active=='starred') : ?> active<?PHP endif; ?>" role="link" tabindex="0"><?PHP echo \F3::get('lang_starred') ?> <span><?PHP echo $this->statsStarred; ?></span></li>
         </ul>
 

@@ -1,3 +1,208 @@
-<html><head><title>律师任全牛亲笔信:向“考拉”和警察道歉(图)</title></head><body>&#12288;&#12288;&#21407;&#26631;&#39064;&#65306;&#20219;&#20840;&#29275;&#24459;&#24072;&#20146;&#31508;&#33268;&#27465;&#20449;&#26333;&#20809;&#65306;&#21518;&#24724;&#35787;&#27585;&ldquo;&#32771;&#25289;&rdquo;&#21644;&#27665;&#35686;
-&#12288;&#12288;&#20013;&#22269;&#38271;&#23433;&#32593;7&#26376;15&#26085;&#35759; &#22312;&#21271;&#20140;&#38155;&#38160;&#24459;&#25152;&#20027;&#20219;&#21608;&#19990;&#23792;&#31561;&#22235;&#20154;&#22240;&#28041;&#23244;&#39072;&#35206;&#22269;&#23478;&#25919;&#26435;&#32618;&#34987;&#22825;&#27941;&#26816;&#26041;&#25552;&#36215;&#20844;&#35785;&#24403;&#26085;&#65292;&#28041;&#38155;&#38160;&#24459;&#25152;&#26696;&#30340;&ldquo;&#20154;&#26435;&#24459;&#24072;&rdquo;&#22899;&#21161;&#29702;&#36213;&#23041;&#65288;&#32593;&#21517;&ldquo;&#32771;&#25289;&rdquo;&#65289;&#35785;&#27827;&#21335;&#24459;&#24072;&#20219;&#20840;&#29275;&#21517;&#35465;&#20405;&#26435;&#26696;&#20063;&#26377;&#20102;&#26032;&#36827;&#23637;&#12290;
-&#12288;&#12288;7&#26376;1....</body></html>
+<html><head><title>他拍谁，谁就有一生中最好的照片</title></head><body><style type='text/css'>img{display:block;margin:0 auto;}p{font-size: 28px;}</style>他拍谁，谁就有一生中最好的照片|摄影师|女神|明星_新浪视频
+  
+  ');&#13;
+  }&#13;
+  else{&#13;
+    window.baidureferrer = false;&#13;
+    document.write(''+&#13;
+    ''+&#13;
+    '');&#13;
+  }&#13;
+	
+	
+	
+        	
+    
+    <div>
+      <p>
+        </p><h2 title="他拍谁，谁就有一生中最好的照片">他拍谁，谁就有一生中最好的照片</h2>
+      
+      
+      <div>
+        
+        <div>
+          
+          
+          <div>
+              
+              <p>按住此条可拖动</p>
+          </div>
+        </div>
+      </div>
+
+<div>
+                	
+
+
+        
+                
+        <div>
+    		<p> </p><h3>新闻 - 热门视频</h3> 
+ 				<div>
+						<div>
+						<p>正在加载...请稍等~</p>
+						</div>
+				</div>
+				</div>
+
+
+
+      </div>
+      
+      
+      <div>
+        
+        <div>
+  <div>
+    
+    <div>
+      <div>
+      分享到：
+      
+      
+        
+      
+        
+      </div>
+      
+    </div>
+      </div>
+  
+    
+</div>        
+        
+        
+        <div>
+  <p>&#13;
+    </p><h3>视频信息</h3><i title="播放量"><i>0</i>&#13;
+  
+  
+  
+  	
+        &#13;
+                    发布时间：<em>2016年07月21日12:10</em>          来源：新浪视频        
+  	    
+        
+    &#13;
+          简介：&#13;
+      <em>&#13;
+      &#13;
+         
+     
+
+		</em></i></div>
+		
+  </div>
+  
+</div>
+
+');
+        targetBox.delegate('a[action-type=comment]','click',function(e){
+            SUDA.uaTrack('video2', 'pinglun');
+          $('body,html').animate({scrollTop:$('#J_Comment_Wrap').offset().top - 10}, '300'); 
+            e.preventDefault();
+          })
+          
+        }
+      })(SVK);
+    }
+  });
+window.$widget &amp;&amp; window.$widget.push({
+  id: 'J_Comment_Wrap',
+  require: [
+    'http://ent.sina.com.cn/470/2014/0324/comment.2.min.css',
+    'http://ent.sina.com.cn/470/2014/0324/comment.2.min.js'
+    ],
+ //   isDepend: true,
+  requireParams: [
+    {
+      styleCharset: 'gb2312'
+    },
+    {
+      scriptCharset: 'gb2312'
+    }
+  ],
+  loadTime: 'firstView',
+  exports: function(box){
+      var $ = window.___sinacMNT___;
+      try{
+        var userControl = SVK.common.userInfo.userControl;
+        var loginSuccess = SVK.common.channel.loginChannel.login;
+        var loginCallback = function(){
+          //用户点击评论框的退出按钮且退出成功后触发此事件
+          $.custEvent.add($,'ce_logout',function(){
+              location.href = userControl.logoutURL();
+          });
+        };
+        var firelogin = function(){
+          if(!loginSuccess.fired()){
+            userControl.resetLogin();
+            loginSuccess.fire();
+          }
+        };
+        userControl.getUserInfo(function(user){
+          if(user){
+            //已登录
+            loginCallback();
+          }
+          else{
+            //未登录
+            var channelFun = function(){
+              $.login.synStatus(); //通知评论组件登录
+              loginCallback();
+            };
+            loginSuccess.add(channelFun);
+            //如果用户sso登录成功，但是未开通微博，则触发此事件
+            $.custEvent.add($,'ce_login',function(){
+              loginSuccess.remove(channelFun);
+              firelogin();
+            });
+            //如果用户开通微博并登录成功，则触发此事件
+            $.custEvent.add($,'ce_weiboLogin',function(){
+              loginSuccess.remove(channelFun);
+              firelogin();
+            });
+            
+          }
+        });
+      }catch(e){}
+      /**
+      * 初始化评论列表
+      * @param 依次为：评论容器id,评论框参数，评论列表参数
+      */
+      var commentlist = new $.cmnt.FormList('J_Comment_Wrap',{
+         channel:$SCOPE['video']['channel'], //频道channel
+         newsid:$SCOPE['video']['newsid'], //newsid 后台走评论系统生成的评论id
+         encoding:'utf-8', //指定评论显示的内容编码
+         parent: ''
+      },{
+          channel:$SCOPE['video']['channel'], //频道channel
+          newsid:$SCOPE['video']['newsid'], //newsid 后台走评论系统生成的评论id
+          encoding:'utf-8', //指定评论显示的内容编码
+          group: 0, //因为我们是一个视频对应一个评论，所以为0；为1的话是相对于一个组来说的，里面会有多个视频
+          page: 1, //首次加载显示第几页
+          pageSize: 20, //每页显示多少条评论
+          hotPageNum:3 //最热门评论默认显示几条
+     });
+  }
+});
+
+
+<ins>
+
+      
+    
+    
+    
+    &#13;
+&#13;
+&#13;
+&#13;
+    
+  
+  
+  
+    
+  
+  
+  </ins></body></html>

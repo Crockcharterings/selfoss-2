@@ -153,3 +153,116 @@ C:\wamp\www\selfoss\index.php:102
 07-17-16 12:12:38 Error Unimplemented method for mysql: numberOfUnreadForTag
 07-17-16 12:15:54 Error ftrss - Failed loading page
 07-17-16 12:20:37 Error ftrss - Failed loading page
+07-21-16 6:51:40 Error failed to retrieve image http://www.sinaimg.cn/favicon.ico,<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding 
+07-21-16 6:59:26 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-21-16 7:05:26 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-21-16 7:09:03 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-21-16 7:09:35 Error mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+C:\wamp64\www\selfoss\controllers\Login.php:31
+C:\wamp64\www\selfoss\controllers\Login.php:19
+C:\wamp64\www\selfoss\index.php:102
+
+07-21-16 7:11:26 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-21-16 7:17:26 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-21-16 7:25:20 Error HTTP 404 (GET /login/logout)
+C:\wamp64\www\selfoss\index.php:102
+
+07-21-16 7:30:35 Error ftrss - Failed loading page
+07-21-16 7:30:36 Error failed to retrieve image http://www.sinaimg.cn/favicon.ico,<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+07-21-16 7:32:26 Error ftrss - Failed extracting content
+07-21-16 7:32:27 Error ftrss - Failed extracting content
+07-21-16 7:32:28 Error ftrss - Failed extracting content
+07-21-16 7:32:30 Error ftrss - Failed extracting content
+07-21-16 7:32:31 Error ftrss - Failed extracting content
+07-21-16 7:32:32 Error ftrss - Failed extracting content
+07-21-16 7:32:33 Error ftrss - Failed extracting content
+07-21-16 7:32:34 Error ftrss - Failed extracting content
+07-21-16 7:32:37 Error ftrss - Failed extracting content
+07-21-16 7:32:40 Error ftrss - Failed extracting content
+07-21-16 7:32:40 Error ftrss - Failed extracting content
+07-21-16 7:32:42 Error ftrss - Failed extracting content
+07-21-16 7:32:44 Error ftrss - Failed extracting content
+07-21-16 7:32:48 Error ftrss - Failed extracting content
+07-21-16 7:32:50 Error ftrss - Failed extracting content
+07-21-16 7:32:51 Error ftrss - Failed extracting content
+07-21-16 7:32:52 Error ftrss - Failed extracting content
+07-21-16 7:32:53 Error ftrss - Failed extracting content
+07-21-16 7:32:54 Error ftrss - Failed extracting content
+07-21-16 7:32:54 Error ftrss - Failed extracting content
+07-21-16 7:32:58 Error ftrss - Failed extracting content
+07-21-16 7:32:59 Error ftrss - Failed extracting content
+07-21-16 7:33:00 Error ftrss - Failed extracting content
+07-21-16 7:33:01 Error ftrss - Failed extracting content
+07-21-16 7:33:02 Error ftrss - Failed extracting content
+07-21-16 7:33:03 Error ftrss - Failed extracting content
+07-21-16 7:33:03 Error ftrss - Failed extracting content
+07-21-16 7:40:55 Error A session had already been started - ignoring session_start()
+C:\wamp64\www\selfoss\templates\home.phtml:151
+C:\wamp64\www\selfoss\helpers\View.php:79
+C:\wamp64\www\selfoss\controllers\Index.php:90
+C:\wamp64\www\selfoss\index.php:102
+
+07-21-16 7:54:39 Error Fatal error: syntax error, unexpected ','
+
+07-21-16 7:54:44 Error Fatal error: syntax error, unexpected ','
+
+07-21-16 7:57:14 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-21-16 8:03:14 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-21-16 8:11:36 Error failed to retrieve image http://www.sinaimg.cn/favicon.ico,<html>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding 
+07-21-16 8:11:43 Error Undefined index: dat
+C:\wamp64\www\selfoss\controllers\Index.php:293
+C:\wamp64\www\selfoss\controllers\Index.php:286
+C:\wamp64\www\selfoss\controllers\Index.php:202
+C:\wamp64\www\selfoss\index.php:102
+
+07-21-16 8:12:08 Error Undefined index: dat
+C:\wamp64\www\selfoss\controllers\Index.php:293
+C:\wamp64\www\selfoss\controllers\Index.php:286
+C:\wamp64\www\selfoss\controllers\Index.php:202
+C:\wamp64\www\selfoss\index.php:102
+
+07-21-16 8:16:30 Error Undefined index: dat
+C:\wamp64\www\selfoss\controllers\Index.php:293
+C:\wamp64\www\selfoss\controllers\Index.php:286
+C:\wamp64\www\selfoss\controllers\Index.php:202
+C:\wamp64\www\selfoss\index.php:102
+
+07-21-16 8:16:35 Error Undefined index: dat
+C:\wamp64\www\selfoss\controllers\Index.php:293
+C:\wamp64\www\selfoss\controllers\Index.php:286
+C:\wamp64\www\selfoss\controllers\Index.php:202
+C:\wamp64\www\selfoss\index.php:102
+
+07-21-16 8:25:31 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-21-16 8:35:31 Error Unimplemented method for mysql: numberOfUnreadForTag
