@@ -297,3 +297,4 @@ C:\wamp\www\selfoss\controllers\Index.php:201
 C:\wamp\www\selfoss\index.php:102
 
 07-24-16 8:58:55 Error ftrss - Failed extracting content
+07-24-16 9:23:11 Error Unimplemented method for mysql: numberOfUnreadForTag
