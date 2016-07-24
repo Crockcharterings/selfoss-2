@@ -300,7 +300,7 @@ class Index extends BaseController {
     <link href="/../css/topic.css" rel="stylesheet" media="screen">
     <link href="/../css/activity.css" rel="stylesheet" media="screen">
     <link href="/../css/vip.css" rel="stylesheet" media="screen"></head><div class="article-content">
-<body><p><h2>%s</h2></p><p>%s</p>%s</body></div></html>',$row['title'],$row['title'],$row['datetime'] . '源自<a href="'.$row['link'].'">' . $row['author'] . '</a>', $row['content']);
+<body><p><h2>%s</h2></p>%s</body></div></html>',$row['title'],$row['title'], $row['content']);
         fwrite($myfile, $html);
         fclose($myfile);
         return;
