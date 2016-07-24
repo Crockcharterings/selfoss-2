@@ -290,7 +290,17 @@ class Index extends BaseController {
     private function createHtml($row)
     {
         $myfile = fopen("data/html/".$row['id'].".html", "w") or die("Unable to open file!");
-        $html = sprintf("<html><head><title>%s</title></head><body><style type='text/css'>img{display:block;margin:0 auto;}p{font-size: 28px;}</style><p>%s</p><p>%s</p>%s</body></html>",$row['title'],$row['author'],$row['datetime'] . '源自<a href="'.$row['link'].'">' . $row['author'] . '</a>', $row['content']);
+        $html = sprintf('<html><head><title>%s</title><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta content="black" name="apple-mobile-web-app-status-bar-style">
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="format-detection" content="email=no"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="m.css" rel="stylesheet" media="screen">
+    <link href="topic.css" rel="stylesheet" media="screen">
+    <link href="activity.css" rel="stylesheet" media="screen">
+    <link href="vip.css" rel="stylesheet" media="screen"></head><div class="article-content">
+<body><p>%s</p><p>%s</p>%s</body></div></html>',$row['title'],$row['author'],$row['datetime'] . '源自<a href="'.$row['link'].'">' . $row['author'] . '</a>', $row['content']);
         fwrite($myfile, $html);
         fclose($myfile);
         return;

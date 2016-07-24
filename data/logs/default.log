@@ -266,3 +266,34 @@ C:\wamp64\www\selfoss\index.php:102
 
 07-21-16 8:25:31 Error Unimplemented method for mysql: numberOfUnreadForTag
 07-21-16 8:35:31 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-24-16 8:49:55 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-24-16 8:53:35 Error file_put_contents(data/favicons/7b4f16d4d12c7d282251cbaf20acced7.png): failed to open stream: No such file or directory
+C:\wamp\www\selfoss\helpers\ContentLoader.php:309
+C:\wamp\www\selfoss\helpers\ContentLoader.php:182
+C:\wamp\www\selfoss\helpers\ContentLoader.php:46
+C:\wamp\www\selfoss\controllers\Index.php:201
+C:\wamp\www\selfoss\index.php:102
+
+07-24-16 8:54:00 Error file_put_contents(data/favicons/7b4f16d4d12c7d282251cbaf20acced7.png): failed to open stream: No such file or directory
+C:\wamp\www\selfoss\helpers\ContentLoader.php:309
+C:\wamp\www\selfoss\helpers\ContentLoader.php:182
+C:\wamp\www\selfoss\helpers\ContentLoader.php:46
+C:\wamp\www\selfoss\controllers\Index.php:201
+C:\wamp\www\selfoss\index.php:102
+
+07-24-16 8:54:54 Error ftrss - Failed loading page
+07-24-16 8:54:54 Error file_put_contents(data/favicons/7b4f16d4d12c7d282251cbaf20acced7.png): failed to open stream: No such file or directory
+C:\wamp\www\selfoss\helpers\ContentLoader.php:309
+C:\wamp\www\selfoss\helpers\ContentLoader.php:182
+C:\wamp\www\selfoss\helpers\ContentLoader.php:46
+C:\wamp\www\selfoss\controllers\Index.php:201
+C:\wamp\www\selfoss\index.php:102
+
+07-24-16 8:55:14 Error file_put_contents(data/favicons/7b4f16d4d12c7d282251cbaf20acced7.png): failed to open stream: No such file or directory
+C:\wamp\www\selfoss\helpers\ContentLoader.php:309
+C:\wamp\www\selfoss\helpers\ContentLoader.php:182
+C:\wamp\www\selfoss\helpers\ContentLoader.php:46
+C:\wamp\www\selfoss\controllers\Index.php:201
+C:\wamp\www\selfoss\index.php:102
+
+07-24-16 8:58:55 Error ftrss - Failed extracting content
