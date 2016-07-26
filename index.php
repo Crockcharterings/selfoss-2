@@ -51,6 +51,7 @@ $f3->set('css', $css);
 
 // all users
 $f3->route('GET /',           'controllers\Index->home');     // html
+$f3->route('GET /admin',           'controllers\Index->adminhome');     // html
 $f3->route('POST /',          'controllers\Index->home');     // html
 $f3->route('GET /password',   'controllers\Index->password'); // html
 $f3->route('POST /password',  'controllers\Index->password'); // html

@@ -305,3 +305,9 @@ C:\wamp\www\selfoss\index.php:102
 07-24-16 9:59:11 Error Unimplemented method for mysql: numberOfUnreadForTag
 07-24-16 10:05:11 Error Unimplemented method for mysql: numberOfUnreadForTag
 07-24-16 10:19:00 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-26-16 7:05:59 Error include(data/html/178.html): failed to open stream: No such file or directory
+C:\wamp64\www\selfoss\helpers\View.php:79
+C:\wamp64\www\selfoss\helpers\View.php:79
+C:\wamp64\www\selfoss\controllers\Index.php:381
+C:\wamp64\www\selfoss\index.php:103
+

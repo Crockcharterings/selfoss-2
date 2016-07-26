@@ -188,13 +188,13 @@
         
         <!-- navigation search input just for smartphone version -->
         <div id="nav-search" role="search">
-            <input style="display:none" type="search" id="nav-search-term"> <input style="display:none" type="button" id="nav-search-button" value="<?PHP echo \F3::get('lang_searchbutton')?>">
+            <input  style="display:none" type="search" id="nav-search-term"> <input style="display:none" type="button" id="nav-search-button" value="<?PHP echo \F3::get('lang_searchbutton')?>">
             <hr>
         </div>
         
         <?PHP if($this->loggedin===true && \F3::get('auth')->enabled()===false) : ?>
-        <button style="display:none" id="nav-refresh" title="<?PHP echo trim(\F3::get('lang_refreshbutton')); ?>" class="nologin"></button>
-        <button style="display:none" id="nav-settings" title="<?PHP echo trim(\F3::get('lang_settingsbutton')); ?>" class="nologin"></button>
+        <button id="nav-refresh" title="<?PHP echo trim(\F3::get('lang_refreshbutton')); ?>" class="nologin"></button>
+        <button id="nav-settings" title="<?PHP echo trim(\F3::get('lang_settingsbutton')); ?>" class="nologin"></button>
         <?PHP endif; ?>
         
         <?PHP if($this->loggedin===true && \F3::get('auth')->enabled()===true) : ?>

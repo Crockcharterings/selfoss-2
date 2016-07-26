@@ -90,7 +90,77 @@ class Index extends BaseController {
         echo $this->view->render('templates/home.phtml');
     }
     
-    
+    public function adminhome() {
+        // check login
+        $this->authentication();
+        
+        // parse params
+        $options = array();
+        if (\F3::get('homepage')!='')
+            $options = array( 'type' => \F3::get('homepage') );
+        
+        // use ajax given params?
+        if(count($_GET)>0)
+            $options = $_GET;
+        
+        // get search param
+        if(isset($options['search']) && strlen($options['search'])>0)
+            $this->view->search = $options['search'];
+        
+        // load tags
+        $tagsDao = new \daos\Tags();
+        $tags = $tagsDao->getWithUnread();
+        
+        // load items
+        $itemsHtml = $this->loadItems($options, $tags);
+        $this->view->content = $itemsHtml;
+        
+        // load stats
+        $itemsDao = new \daos\Items();
+        $stats = $itemsDao->stats();
+        $this->view->statsAll = $stats['total'];
+        $this->view->statsUnread = $stats['unread'];
+        $this->view->statsStarred = $stats['starred'];
+
+        if ($tagsDao->hasTag("#")) {
+        foreach ($tags as $tag) {
+            if (strcmp($tag["tag"], "#") !== 0) {
+                continue;
+            }
+            $this->view->statsUnread -= $tag["unread"];
+        }
+    }
+
+        // prepare tags display list
+        $tagsController = new \controllers\Tags();
+        $this->view->tags = $tagsController->renderTags($tags);
+        
+        if(isset($options['sourcesNav']) && $options['sourcesNav'] == 'true' ) {
+            // prepare sources display list
+            $sourcesDao = new \daos\Sources();
+            $sources = $sourcesDao->getWithUnread();
+            $sourcesController = new \controllers\Sources();
+            $this->view->sources = $sourcesController->renderSources($sources);
+        } else
+            $this->view->sources = '';
+        
+        // ajax call = only send entries and statistics not full template
+        if(isset($options['ajax'])) {
+            $this->view->jsonSuccess(array(
+                "entries"  => $this->view->content,
+                "all"      => $this->view->statsAll,
+                "unread"   => $this->view->statsUnread,
+                "starred"  => $this->view->statsStarred,
+                "tags"     => $this->view->tags,
+                "sources"  => $this->view->sources
+            ));
+        }
+        
+        // show as full html page
+        $this->view->publicMode = \F3::get('auth')->isLoggedin()!==true && \F3::get('public')==1;
+        $this->view->loggedin = \F3::get('auth')->isLoggedin()===true;
+        echo $this->view->render('templates/adminhome.phtml');
+    }
     /**
      * password hash generator
      * html
