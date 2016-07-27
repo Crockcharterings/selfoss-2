@@ -361,6 +361,12 @@ class Index extends BaseController {
     {
         $myfile = fopen("data/html/".$row['id'].".html", "w") or die("Unable to open file!");
         $footer = '<!--add by lushulin-->
+        <div style="width:100%;"> 
+ <p style="text-align:center;font-size:15px;color:#000;">该文章版权为原网站所有，本站不对原文章的版权负责。  
+ <a href="'.$row['link'].'"> 
+ <font color="#009">阅读原文</font></p> 
+ </a> 
+ </div> 
  <hr style="border:1 dashed #EEEEEE" color="#EEEEEE">  
     <div style="width:100%;">
          <p style="text-align:left;font-size:15px;">精选阅读</p>
@@ -402,7 +408,6 @@ class Index extends BaseController {
      </a>
      </li>
 </ul>
-该文章版权为原网站所有，本站不对原文章的版权负责。<a href="'.$row['link'].'" target="_blank">阅读原文</a>       
 <footer>
     <ul>
     <li></li>
