@@ -360,6 +360,61 @@ class Index extends BaseController {
     private function createHtml($row)
     {
         $myfile = fopen("data/html/".$row['id'].".html", "w") or die("Unable to open file!");
+        $footer = '<!--add by lushulin-->
+ <hr style="border:1 dashed #EEEEEE" color="#EEEEEE">  
+    <div style="width:100%;">
+         <p style="text-align:left;font-size:15px;">精选阅读</p>
+    </div>
+<ul class="article-feed-ul">
+    <li>
+    <a href="http://ddt.zoosnet.net/LR/Chatpre.aspx?id=DDT59463097&amp;lng=cn&amp;e=waitui">
+    <div class="article-md-img-box">
+        <img src="./未解之谜——是什么损害了宇航员的视力_files/ad.jpg">
+    </div>
+      <div class="article-info-box">
+            <div class="article-md-title">满脸坑豆怎么办？马上拥有大S一样的美白皮肤</div>
+       </div>
+             <div class="mod-hot">推广</div>
+     </a>
+     </li>
+     
+    <li>
+    <a href="http://ddt.zoosnet.net/LR/Chatpre.aspx?id=DDT59463097&amp;lng=cn&amp;e=waitui">
+    <div class="article-md-img-box">
+        <img src="http://tianda.chinacloudsites.cn/ad1.jpg" style="display: none !important;">
+    </div>
+      <div class="article-info-box">
+            <div class="article-md-title">冯小刚的白是另类白，你若也有，请马上咨询</div>
+       </div>
+             <div class="mod-hot">推广</div>
+     </a>
+     </li>
+     
+    <li>
+    <a href="http://ddt.zoosnet.net/LR/Chatpre.aspx?id=DDT59463097&amp;lng=cn&amp;e=waitui">
+    <div class="article-md-img-box">
+        <img src="http://tianda.chinacloudsites.cn/ad2.jpg" style="display: none !important;">
+    </div>
+      <div class="article-info-box">
+            <div class="article-md-title">今年的阳光特别烈，如何才能淡定面对</div>
+       </div>
+             <div class="mod-hot">推广</div>
+     </a>
+     </li>
+</ul>
+                
+<footer>
+    <ul>
+    <li></li>
+    </ul>
+    <div class="copyright-box">
+        ©2016 微播网络
+    </div>
+</footer>
+<!--end-->';
+        $header = '<a href="http://dwz.cn/3OMdZ3">
+<div style="width:100%;height:120px;background-image:url(http://tianda.chinacloudsites.cn/bg.jpg);background-repeat:no-repeat;">
+</div></a>';
         $html = sprintf('<html><head><title>%s</title><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
     <meta content="black" name="apple-mobile-web-app-status-bar-style">
@@ -370,7 +425,7 @@ class Index extends BaseController {
     <link href="/../css/topic.css" rel="stylesheet" media="screen">
     <link href="/../css/activity.css" rel="stylesheet" media="screen">
     <link href="/../css/vip.css" rel="stylesheet" media="screen"></head><div class="article-content">
-<body><p><h2>%s</h2></p>%s</body></div></html>',$row['title'],$row['title'], $row['content']);
+<body>%s<p><h2>%s</h2></p>%s%s</body></div></html>', $row['title'], $header, $row['title'], $row['content'], $footer);
         fwrite($myfile, $html);
         fclose($myfile);
         return;
