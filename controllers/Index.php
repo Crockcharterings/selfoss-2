@@ -369,7 +369,7 @@ class Index extends BaseController {
     <li>
     <a href="http://ddt.zoosnet.net/LR/Chatpre.aspx?id=DDT59463097&amp;lng=cn&amp;e=waitui">
     <div class="article-md-img-box">
-        <img src="./未解之谜——是什么损害了宇航员的视力_files/ad.jpg">
+            <img src="http://tianda.chinacloudsites.cn/ad.jpg">
     </div>
       <div class="article-info-box">
             <div class="article-md-title">满脸坑豆怎么办？马上拥有大S一样的美白皮肤</div>
