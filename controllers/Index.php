@@ -429,8 +429,8 @@ class Index extends BaseController {
     <link href="/../css/m.css" rel="stylesheet" media="screen">
     <link href="/../css/topic.css" rel="stylesheet" media="screen">
     <link href="/../css/activity.css" rel="stylesheet" media="screen">
-    <link href="/../css/vip.css" rel="stylesheet" media="screen"></head><div class="article-content">
-<body>%s<p><h2>%s</h2></p>%s%s</body></div><script src="http://iwebo.portal.net.cn/tongji/tianda.js"></script></html>', $row['title'], $header, $row['title'], $row['content'], $footer);
+    <link href="/../css/vip.css" rel="stylesheet" media="screen"></head>%s<div class="article-content">
+<body><p><h2>%s</h2></p>%s%s</body></div><script src="http://iwebo.portal.net.cn/tongji/tianda.js"></script></html>', $row['title'], $header, $row['title'], $row['content'], $footer);
         fwrite($myfile, $html);
         fclose($myfile);
         return;
