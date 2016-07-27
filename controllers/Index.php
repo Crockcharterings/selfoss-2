@@ -381,7 +381,7 @@ class Index extends BaseController {
     <li>
     <a href="http://ddt.zoosnet.net/LR/Chatpre.aspx?id=DDT59463097&amp;lng=cn&amp;e=waitui">
     <div class="article-md-img-box">
-        <img src="http://tianda.chinacloudsites.cn/ad1.jpg" style="display: none !important;">
+        <img src="http://tianda.chinacloudsites.cn/ad1.jpg">
     </div>
       <div class="article-info-box">
             <div class="article-md-title">冯小刚的白是另类白，你若也有，请马上咨询</div>
@@ -393,7 +393,7 @@ class Index extends BaseController {
     <li>
     <a href="http://ddt.zoosnet.net/LR/Chatpre.aspx?id=DDT59463097&amp;lng=cn&amp;e=waitui">
     <div class="article-md-img-box">
-        <img src="http://tianda.chinacloudsites.cn/ad2.jpg" style="display: none !important;">
+        <img src="http://tianda.chinacloudsites.cn/ad2.jpg">
     </div>
       <div class="article-info-box">
             <div class="article-md-title">今年的阳光特别烈，如何才能淡定面对</div>
