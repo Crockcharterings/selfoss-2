@@ -402,7 +402,7 @@ class Index extends BaseController {
      </a>
      </li>
 </ul>
-                
+该文章版权为原网站所有，本站不对原文章的版权负责。<a href="'.$row['link'].'" target="_blank">阅读原文</a>       
 <footer>
     <ul>
     <li></li>

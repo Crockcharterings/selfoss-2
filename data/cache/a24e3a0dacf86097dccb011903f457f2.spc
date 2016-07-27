@@ -38,7 +38,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			国内要闻列表
 		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:44:"http://news.sina.com.cn/491/2008/0827/1.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:5:"zh-cn";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:3:"ttl";a:1:{i:0;a:5:{s:4:"data";s:1:"5";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:58:"
 			Copyright 1996 - 2016 SINA Inc. All Rights Reserved
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 06:07:04 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:7:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 09:52:03 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:7:"
 			
 		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"item";a:15:{i:0;a:6:{s:4:"data";s:35:"
 			
@@ -49,14 +49,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:72:"
-				上海发布今夏第2个高温红色预警：最高可达40度
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-27/doc-ifxuhukv7640015.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-27/doc-ifxuhukv7640015.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
+				徐州规划局被曝集体提前下班 回应称为赶通勤车
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-27/doc-ifxuhukz1204677.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-27/doc-ifxuhukz1204677.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 05:48:00 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:388:"
-				　　原标题：上海今夏第2个高温红色预警发布：最高可达40℃左右
-
-　　东方网7月27日消息 &nbsp; 上海中心气象台2016年07月27日13时12分发布高温红色预警信号：受副热带高压影响，目前本市气温正快速上升，预计今天中心城区、松江、闵行的最高气温可达40℃左右，高温橙色预警信号更....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 09:47:05 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:399:"
+				　　原标题：徐州规划局被曝集体提前下班 工作人员回应称为赶通勤车
+　　新京报快讯(记者贾世煜)近日，徐州市规划局多名工作人员提前近1小时下班回家一事，经江苏媒体报道后引发舆论关注。今日下午，徐州市规划局相关工作人员对新京报记者回应称，这些工作人员之所以提前下班，是....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:35:"
 			
 			
@@ -66,12 +65,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:67:"
-				蔡英文民调狂跌 被指“政权”崩塌指日可待
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:109:"http://go.rss.sina.com.cn/redirect.php?url=http://video.sina.com.cn/p/news/c/doc/2016-07-27/134465299249.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:109:"http://go.rss.sina.com.cn/redirect.php?url=http://video.sina.com.cn/p/news/c/doc/2016-07-27/134465299249.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
+				海南东方调查“选举现场记者被打”事件:未围殴
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-27/doc-ifxuhukz1204434.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-27/doc-ifxuhukz1204434.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 05:44:51 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:255:"
-				　　最新岛内民调显示，蔡英文上台两个月后，民调与就职时相比已大跌14%。有岛内学者认为，蔡英文民意支持率下跌，与她拒不承认“九二共识”有关，导致台湾民众对未来心生担忧。
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 09:45:03 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
+				　　东方成立调查组调查“选举现场记者被打”事件
+　　南海网、南海网客户端东方7月27日消息（南海网记者邓松）7月26日，有微博发文称，有记者在东方“两委”选举现场遭公安副局长殴打。事件发生后，东方市成立了由该市纪委、组织部、宣传部、政法委等部门组成的联合调查组，就此....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:35:"
 			
 			
@@ -81,17 +81,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:71:"
-				中方谴责越南边检污损中国护照：无耻懦夫(图)
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-27/doc-ifxuhukv7633127.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-27/doc-ifxuhukv7633127.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
+				北京二中院引入百姓评理团 助“清官断家务事”
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-27/doc-ifxuhukz1202822.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-27/doc-ifxuhukz1202822.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 04:45:06 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:392:"
-				　　原标题：中国向越方提出交涉：污损中国护照是无耻的懦夫行为
-
-网站截图
-被污损的护照
-被污损的中国护照&nbsp;
-　　新京报快讯 &nbsp; 今天上午，中国驻胡志明市总领事馆向胡志明市外办提出交涉，指出污损中国护照有损中国公民国格、人格，是无耻的懦夫行为，中方表示愤慨、蔑....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 09:33:00 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:401:"
+				　　新华社北京7月27日电（记者涂铭、熊琳）“除了财产分割和子女抚养问题以外，实践中，家事审判工作的难点之一就是双方的情感对立。当事人在失败的婚姻中产生的心理失衡和受到的伤害，给案结事了带来难度。”北京市第二中级人民法院副院长王金山说。
+　　北京市第二中级人民法院....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:35:"
 			
 			
@@ -101,14 +97,14 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"
-				河北省委书记赵克志到井陉县慰问受灾民众
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-27/doc-ifxuhukz1161041.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-27/doc-ifxuhukz1161041.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:52:"
+				北京现今年第三例H7N9禽流感病例
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-27/doc-ifxuhukz1194174.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-27/doc-ifxuhukz1194174.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 04:39:04 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:399:"
-				　　原标题：赵克志在井陉县看望慰问受灾群众时强调 大力弘扬抗震精神 全力做好 受灾群众安置和灾后重建工作
-
-　　7月26日，省委书记、省人大常委会主任赵克志到井陉县实地查看灾情，慰问受灾群众，检查受灾群众安置和灾后重建工作。这是赵克志在被洪水冲毁的中建一局、中铁十一局....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 08:42:01 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:392:"
+				　　原标题：北京现今年第三例H7N9禽流感病例
+　　新京报快讯(记者戴轩)北京市疾控中心消息，昨日(7月26日)北京发现一男子感染H7N9禽流感病例，目前患者病情危重，正在北京某医院接受隔离治疗。
+　　据介绍，患者占某，男，36岁，现住址为河北省廊坊市燕郊某小区，发病前在外省有....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:35:"
 			
 			
@@ -118,13 +114,14 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"
-				山西新任47名县委书记 骆惠宁:做廉洁从政表率
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-27/doc-ifxuhukv7631264.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-27/doc-ifxuhukv7631264.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
+				湖南张家界原副市长程丹峰被提公诉 系苏荣女婿
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-27/doc-ifxuhukz1192318.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-27/doc-ifxuhukz1192318.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 04:33:40 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:397:"
-				　　原标题：骆惠宁在与新任县委书记集体谈话时强调：解放思想 开拓进取 做好表率
-　　本报讯（记者 左燕东）7月26日，省委书记骆惠宁与47名新任县委书记进行集体谈话。他强调，要坚定地以习总书记系列重要讲话精神为指引，牢牢把握正确方向，解放思想，开拓进取，毫不动摇坚持党....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 08:30:20 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:397:"
+				　　原标题：湖南检察机关依法对程丹峰涉嫌利用影响力受贿案提起公诉
+　　2016年7月27日，湖南省张家界市原市委常委、副市长程丹峰涉嫌利用影响力受贿一案，经湖南省人民检察院指定管辖，由株洲市人民检察院依法向株洲市中级人民法院提起公诉。
+　　检察机关在审查起诉阶段依法告....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:35:"
 			
 			
@@ -134,13 +131,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:62:"
-				台湾花莲县发生4.4级地震 震源深度5千米
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-27/doc-ifxuifip3652667.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-27/doc-ifxuifip3652667.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:71:"
+				专家分析日福利院案:类似事件少 犯罪心理明显
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-27/doc-ifxuhukz1191689.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-27/doc-ifxuhukz1191689.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 04:25:08 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:259:"
-				　　原标题：台湾花莲县发生4.4级地震 震源深度5千米
-　　中新网7月27日电 据中国地震台网正式测定：7月27日12时02分在台湾花莲县(北纬24.32度，东经121.72度)发生4.4级地震，震源深度5千米。
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 08:27:25 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:395:"
+				　　原标题：专家析日福利院凶杀案：类似事件难寻 犯罪心理明显
+　　中国网新闻7月27日讯 据日本媒体报道，7月26日凌晨，一名男子闯入日本神奈川县相模原市残障人士福利院“津久井山百合园”内持刀行凶，造成至少19人死亡、26人重伤，危害规模之大震惊日本社会。日本桐荫横滨大学....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:35:"
 			
 			
@@ -150,14 +147,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:58:"
-				中国南方高温天气将至少持续到7月底
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-27/doc-ifxuhukz1158717.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-27/doc-ifxuhukz1158717.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:60:"
+				多地高温达41℃ 劳动者可领取高温津贴
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-27/doc-ifxuhukv7661472.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-27/doc-ifxuhukv7661472.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 04:23:29 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:391:"
-				　　原标题：中国南方高温天气将至少持续到7月底
-　　7月26日，杭州市民“全副武装”出行。当日，浙江省气象台发布高温橙色预警，杭州最高气温为39.4℃。自7月20日以来该省高温已持续7天，有40个县市最高气温超过38℃。中新社记者 何蒋勇 摄
-　　中新社北京7月27日电 （陈溯）中央....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 08:17:05 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:396:"
+				　　原标题：政解|多地高温达41℃，领不到高温津贴怎么办?
+　　新京报快讯(记者吴为)今天是三伏天的“中伏”，“三伏”是一年中最热的日子，而“中伏”的特点是“湿热”，全国多地都如笼罩在“大蒸笼”中。中央气象台7月27日6时继续发布高温橙色预警：浙江中北部、安徽东部、江苏....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:35:"
 			
 			
@@ -167,15 +163,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:49:"
-				2022冬奥会将有直升机参与急救
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-27/doc-ifxuhukv7629923.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-27/doc-ifxuhukv7629923.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:68:"
+				湖南10名省管干部为亲属经商提供便利被通报
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-27/doc-ifxuifip3689011.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-27/doc-ifxuifip3689011.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 04:21:29 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:394:"
-				　　原标题：2022冬奥会将有直升机参与急救
-　　新京报快讯（记者戴轩）记者今日了解到，2022年冬奥会上，北京999急救中心将出动直升机参与急救。
-　　999 急救中心副院长田振彪表示，之所以出动直升机是由于冬奥场馆的特殊位置。
-　　田振彪介绍，冬奥场馆多位于延庆、张家口的山....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 08:14:12 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:397:"
+				　　原标题：湖南10名省管干部为亲属经商谋利 交通厅3人被通报
+　　中新网7月27日电 据湖南省纪委网站消息，党的十八大以来，湖南省纪委查处党员领导干部利用职权或职务上的影响为亲属经商办企业提供便利谋取利益的案件，10名省管党员领导干部被查处，其中有9人已被移送司法机关依....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:35:"
 			
 			
@@ -185,13 +179,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"
-				石家庄主城区因供水公司失误多日供水异常
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-27/doc-ifxuhukz1157230.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-27/doc-ifxuhukz1157230.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:59:"
+				湖南攸县载31人大巴侧翻已致两死多伤
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-27/doc-ifxuhukz1189318.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-27/doc-ifxuhukz1189318.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 04:09:23 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:397:"
-				　　新华社石家庄7月27日电（记者朱峰）石家庄市供水公司26日深夜发出道歉信，就石家庄市连续几天用水紧张甚至停水，向全体市民表示歉意，并表示公司负有不可推卸的责任，将深刻反思。
-　　7月20日下午，石家庄市供水水源地岗南、黄壁庄水库上游受山洪影响，大量泥沙涌入库区，原....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 08:12:35 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:391:"
+				　　27日中午12点18分左右，在湖南省攸县S339路段上，一辆载有31名乘客的大巴在下坡时发生侧翻。记者从攸县有关部门证实，目前事故已确定造成2人死亡，多人受伤。
+　　据初步调查，事故车辆载有17名成年人，14名未成年人。到当日16时，侧翻事故已经造成2名成年人死亡，另有多人受....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:35:"
 			
 			
@@ -201,12 +195,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:51:"
-				英雄战震灾――唐山大地震纪实
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:109:"http://go.rss.sina.com.cn/redirect.php?url=http://video.sina.com.cn/p/news/c/doc/2016-07-27/114065299031.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:109:"http://go.rss.sina.com.cn/redirect.php?url=http://video.sina.com.cn/p/news/c/doc/2016-07-27/114065299031.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:72:"
+				环保严重失信企业将受31部门惩 限制拿地与融资
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-27/doc-ifxuhukv7659459.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-27/doc-ifxuhukv7659459.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 03:40:19 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:51:"
-				英雄战震灾――唐山大地震纪实
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 08:01:04 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:399:"
+				　　原标题：政解|环保严重失信企业将受31部门惩戒，限制拿地、限制融资
+　　新京报快讯(记者王硕)今后，企业在环保领域存在严重失信行为，企业自身及其主要负责人将受到环保部、发改委、中国人民银行等31部门的联合惩戒。惩戒措施包括：限制取得政府供应土地、限制取得生产许可证....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:10;a:6:{s:4:"data";s:35:"
 			
 			
@@ -216,13 +211,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:71:"
-				商务部:国力增强 中国将逐步增加对外援助规模
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-27/doc-ifxuhukz1149629.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-27/doc-ifxuhukz1149629.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
+				北京市规划委:人大等高校试点“拆墙”报道不实
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-27/doc-ifxuhukv7659456.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-27/doc-ifxuhukv7659456.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 03:23:22 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
-				　　新华社北京7月26日电（记者 王优玲）商务部西亚非洲司商务参赞舒骆玫26日说，随着国力增强，中国将会逐步增加对外援助的规模，包括对非援助。
-　　舒骆玫在商务部举行的专题新闻发布会上说，总的来说，对非援助是在中国力所能及的前提下量力而行的，对非援助在中国整个GDP中占....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 08:01:03 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
+				　　原标题：北京将在人民大学、北科大等高校试点“拆墙”? 市规委：报道不实 规划意图为推进路网管控
+　　新京报快讯(记者赵实 沙璐)7月27日，有媒体报道称，为推广开放街区制，北京规划在人民大学、北科大、北航等位于海淀区的高校试点“拆墙”，一时间引起公众热议。当日下午，....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:11;a:6:{s:4:"data";s:35:"
 			
 			
@@ -232,14 +227,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"
-				教育部：鼓励中小学实现校园无线网络全覆盖
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-27/doc-ifxuifip3629817.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-07-27/doc-ifxuifip3629817.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
+				王毅谈东亚合作系列外长会:有人挑刺但开得成功
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-27/doc-ifxuhukz1183876.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-27/doc-ifxuhukz1183876.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 02:40:37 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
-				　　原标题：教育部：鼓励中小学实现校园无线网络全覆盖
-资料图。 图片来源：CFP视觉中国
-　　中新网7月27日电 据教育部网站消息，近日，教育部印发《关于新形势下进一步做好普通中小学装备工作的意见》（简称《意见》）。《意见》针对当前存在的装备标准体系不健全，区域、城乡、....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 07:35:01 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
+				　　当地时间2016年7月26日，外交部长王毅在结束老挝万象东亚合作系列外长会之际，应询向中方媒体介绍了此次系列外长会有关情况和成果。
+　　王毅说，每年的东亚合作系列外长会都很热闹，27个国家的外长聚在一起，各种想法恐怕都有。但我相信绝大多数国家是抱着合作的愿望而来，当....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:12;a:6:{s:4:"data";s:35:"
 			
 			
@@ -249,14 +243,14 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:55:"
-				唐山地震婴儿名字背后的动人故事 
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-27/doc-ifxuhukz1141734.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-27/doc-ifxuhukz1141734.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:67:"
+				兰州3小时发生3处路面塌陷 2车“中招”被陷
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-27/doc-ifxuhuma7812405.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-27/doc-ifxuhuma7812405.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 02:29:40 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:395:"
-				　　新华网石家庄7月26日新媒体专电（记者李俊义　任丽颖　高博）40年前的唐山大地震中，有一个特殊的群体，他们在废墟上诞生，代表着新生，给人以希望，同时也将自己的命运同1976年的大地震紧紧地连接起来。今年，他们40岁了。
-　　　　“震”字辈的孩子
-　　“震军、震红、震雨....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 07:23:26 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:390:"
+				　　原标题：兰州市3小时3处路面塌陷 2车“中招”被陷
+7月27日，兰州渭源路附近一井盖周围塌陷。 兰州市交警支队交通指挥中心官方微博图 摄
+　　中新网兰州7月27日电 (史静静)27日，兰州市交警支队交通指挥中心官方微博披露，9时至11时，甘肃兰州3处路面发生塌陷，导致两辆过往车....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:13;a:6:{s:4:"data";s:35:"
 			
 			
@@ -266,14 +260,16 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"
-				山东8市因高温已有6人死亡 至少有126人中暑
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-27/doc-ifxuhukv7611861.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-07-27/doc-ifxuhukv7611861.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"
+				“国内最大民营博物馆”1年欠千万 馆长失联 
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-27/doc-ifxuhukv7652214.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-07-27/doc-ifxuhukv7652214.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 02:23:21 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:387:"
-				　　原标题：受高温影响！山东8市已有6人死亡
-　　高温天气以来8市至少有126人中暑
-　　齐鲁晚报7月26日讯（记者 王小蒙 李倩 康宇 吕增霞 解岩 路伟 王尚磊 高祥 刘腾腾 王开元 实习生 刘春雨 于梦竹 郭骁男 肖[）据记者不完全统计， 在济南包括济南市立医院和市立五院在内的7家....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 07:12:32 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:399:"
+				　　原标题：“国内最大民营博物馆”馆长失联了
+　　其名下公司或已关门或已转让，其本人官司缠身
+　　王飞翔 刘筱亚
+　　深圳晚报记者 王飞翔 实习生 刘筱亚
+　　在民间博物馆中，号称“国内最大民营博物馆”的深圳隆盛博物馆称得上是一个“传奇”。这份传奇来自多次重金回购“海....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:14;a:6:{s:4:"data";s:35:"
 			
 			
@@ -283,11 +279,15 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
-				蔡英文上台后民调狂跌 连发灾难被讽八字不够重
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-27/doc-ifxuhuma7781459.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-27/doc-ifxuhuma7781459.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:72:"
+				北京迎来高温天气 市民护城河扎堆“野泳”(图)
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-27/doc-ifxuhukv7652108.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-07-27/doc-ifxuhukv7652108.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 02:17:26 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:399:"
-				　　原标题：蔡英文上台两月民调狂跌 连发灾难被讽“德不配位”
-　　【环球时报驻台北特约记者 魏允平 环球时报记者 毕方圆】最新岛内民调显示，蔡英文上台两个月后，民调与就职时相比已大跌14%。有岛内学者认为，蔡英文民意支持率下跌，与她拒不承认“九二共识”有关，导致台湾民....
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:10:{s:12:"content-type";s:8:"text/xml";s:14:"content-length";s:5:"16410";s:13:"accept-ranges";s:5:"bytes";s:6:"server";s:5:"nginx";s:4:"date";s:29:"Wed, 27 Jul 2016 06:11:47 GMT";s:13:"last-modified";s:29:"Wed, 27 Jul 2016 06:08:03 GMT";s:7:"expires";s:29:"Wed, 27 Jul 2016 06:13:47 GMT";s:13:"cache-control";s:11:"max-age=120";s:3:"age";s:2:"10";s:7:"x-cache";s:18:"HIT from localhost";}s:5:"build";s:14:"20121030175911";}
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 27 Jul 2016 07:11:11 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:392:"
+				护城河，市民游泳
+护城河，市民游泳
+护城河，市民游泳
+市民赤膊步行
+　　原标题：北京高温 市民扎堆“野泳”
+　　新京报快讯 &nbsp; 7月27日，随着连日阴雨天气的过去，北京又迎来了高温天气。天气晴朗，阳光直射，最高气温接近35度。记者在东南二环附近护城河看到不少市民不顾河....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:9:{s:6:"server";s:5:"nginx";s:4:"date";s:29:"Wed, 27 Jul 2016 09:52:26 GMT";s:12:"content-type";s:8:"text/xml";s:14:"content-length";s:5:"17086";s:13:"last-modified";s:29:"Wed, 27 Jul 2016 09:52:05 GMT";s:7:"expires";s:29:"Wed, 27 Jul 2016 09:54:26 GMT";s:13:"cache-control";s:11:"max-age=120";s:13:"accept-ranges";s:5:"bytes";s:7:"x-cache";s:19:"MISS from localhost";}s:5:"build";s:14:"20121030175911";}
