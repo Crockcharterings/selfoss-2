@@ -359,6 +359,8 @@ class Index extends BaseController {
     }
     private function createHtml($row)
     {
+        $guid = 0;
+        if(isset($_SESSION['guid'])) $guid = $_SESSION['guid'];
         $myfile = fopen("data/html/".$row['id'].".html", "w") or die("Unable to open file!");
         $footer = '<!--add by lushulin-->
         <div style="width:100%;"> 
@@ -435,7 +437,7 @@ class Index extends BaseController {
     <link href="/../css/vip.css" rel="stylesheet" media="screen">
 
     </head>%s<div class="article-content">
-<body><p><h2>%s</h2></p>%s%s</body></div><span value="%s"></span><script src="http://iwebo.portal.net.cn/tongji/tianda.js"></script></html>', $row['title'], $header, $row['title'], $row['content'], $footer, $_SESSION['guid']);
+<body><p><h2>%s</h2></p>%s%s</body></div><span value="%s"></span><script src="http://iwebo.portal.net.cn/tongji/tianda.js"></script></html>', $row['title'], $header, $row['title'], $row['content'], $footer, $guid);
         fwrite($myfile, $html);
         fclose($myfile);
         return;

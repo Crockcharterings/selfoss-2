@@ -319,3 +319,24 @@ C:\wamp64\www\selfoss\index.php:103
 07-27-16 15:33:38 Error Unimplemented method for mysql: numberOfUnreadForTag
 07-27-16 15:39:38 Error Unimplemented method for mysql: numberOfUnreadForTag
 07-27-16 15:45:38 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-28-16 14:26:18 Error failed to retrieve image http://news.sina.com.cn/favicon.ico,
+07-28-16 14:26:29 Error ftrss - Failed loading page
+07-28-16 14:26:39 Error ftrss - Failed loading page
+07-28-16 14:30:04 Error Undefined index: guid
+C:\wamp\www\selfoss\controllers\Index.php:439
+C:\wamp\www\selfoss\controllers\Index.php:356
+C:\wamp\www\selfoss\controllers\Index.php:272
+C:\wamp\www\selfoss\index.php:103
+
+07-28-16 14:30:16 Error Undefined index: guid
+C:\wamp\www\selfoss\controllers\Index.php:439
+C:\wamp\www\selfoss\controllers\Index.php:356
+C:\wamp\www\selfoss\controllers\Index.php:272
+C:\wamp\www\selfoss\index.php:103
+
+07-28-16 14:31:35 Error A session had already been started - ignoring session_start()
+C:\wamp\www\selfoss\controllers\Index.php:362
+C:\wamp\www\selfoss\controllers\Index.php:356
+C:\wamp\www\selfoss\controllers\Index.php:272
+C:\wamp\www\selfoss\index.php:103
+
