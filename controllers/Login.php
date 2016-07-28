@@ -17,6 +17,7 @@ class Login extends BaseController {
 		if ($_POST) {
 			$guid = $_POST['guid'];
 			$_SESSION['nickname'] = $this->getGuid($guid);
+			$_SESSION['guid'] = $guid;
 			header("Location:/");
 		} else {
 	        echo $this->view->render('templates/guid.phtml');
