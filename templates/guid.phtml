@@ -31,25 +31,42 @@
         <link rel="stylesheet" href="css/fonts.css" />
     <?PHP endif; ?>
     <link rel="stylesheet" href="<?PHP echo \helpers\View::getGlobalCssFileName(); ?>" />
-
+    <link href="/bs/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
-    <form action="/guid" method="post">
-    <ul id="login">
-        <li>
-            <h1>selfoss login</h1>
-        </li>
-        <li>
-            <label for="username">请输入GUID</label> 
-            <input type="text" name="guid">
-        </li>
-<!--         <li>
-            <label for="password"></label>
-            <input type="password" name="password" id="password">
-        </li> -->
-        <li class="button"><label>&nbsp;</label><input type="submit"/></li>
-        <li class="button"><label>&nbsp;</label><a href="/guid/logout">退出</a></li>
-    </ul>
-    </form>
+    <div class="container-fluid">
+        <div style="margin-top:40%">
+            <form action="/guid" method="post">
+                <div class="form-group">
+                    <?php if (!empty($_SESSION['nickname'])) { ?>
+                        <div class="alert alert-info">
+                            <div class="row">
+                                <div class="col-xs-2"></div>
+                                <div class="col-xs-8">
+                                    <p>Guid：<?php echo $_SESSION['guid']; ?></p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-xs-2"></div>
+                                <div class="col-xs-8">
+                                    <p>公司缩写：<?php echo $_SESSION['nickname']; ?></p>
+                                </div>
+                            </div>
+                        </div>
+                    <?php } else { ?>
+                        <label style="width:100%" for="guid">请输入GUID</label>
+                        <input id="guid" name="guid" class="form-control" placeholder="请输入GUID">
+                    <?php } ?>
+                </div>
+                <div class="text-center">
+                    <?php if (!empty($_SESSION['nickname'])) { ?>
+                        <a href="/guid/logout" class="btn btn-warning">退出</a>
+                    <?php } else { ?>
+                        <button type="submit" class="btn btn-info">登陆</button>
+                    <?php } ?>
+                </div>
+            </form>
+        </div>
+    </div>
 </body>
 </html>

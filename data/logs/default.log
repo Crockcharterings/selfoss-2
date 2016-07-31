@@ -340,3 +340,29 @@ C:\wamp\www\selfoss\controllers\Index.php:356
 C:\wamp\www\selfoss\controllers\Index.php:272
 C:\wamp\www\selfoss\index.php:103
 
+07-28-16 14:42:15 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-28-16 14:45:06 Error Undefined index: guid
+C:\wamp\www\selfoss\controllers\Login.php:17
+C:\wamp\www\selfoss\index.php:103
+
+07-28-16 14:48:01 Error A session had already been started - ignoring session_start()
+C:\wamp\www\selfoss\controllers\Index.php:363
+C:\wamp\www\selfoss\controllers\Index.php:356
+C:\wamp\www\selfoss\controllers\Index.php:272
+C:\wamp\www\selfoss\index.php:103
+
+07-28-16 14:48:17 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-30-16 13:35:01 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-30-16 13:41:01 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-30-16 14:34:35 Error A session had already been started - ignoring session_start()
+C:\wamp\www\selfoss\templates\guid.phtml:46
+C:\wamp\www\selfoss\helpers\View.php:79
+C:\wamp\www\selfoss\controllers\Login.php:23
+C:\wamp\www\selfoss\index.php:103
+
+07-30-16 15:14:05 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-30-16 15:20:05 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-30-16 15:26:05 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-30-16 15:32:05 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-30-16 15:38:05 Error Unimplemented method for mysql: numberOfUnreadForTag
+07-30-16 15:44:05 Error Unimplemented method for mysql: numberOfUnreadForTag

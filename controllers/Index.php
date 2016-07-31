@@ -364,7 +364,7 @@ class Index extends BaseController {
         $myfile = fopen("data/html/".$row['id'].".html", "w") or die("Unable to open file!");
         $footer = '<!--add by lushulin-->
         <div style="width:100%;"> 
- <p style="text-align:center;font-size:15px;color:#000;">该文章版权为原网站所有，本站不对原文章的版权负责。  
+ <p style="text-align:center;font-size:15px;color:#000;">'. $_SESSION['nickname'].'该文章版权为原网站所有，本站不对原文章的版权负责。  
  <a href="'.$row['link'].'"> 
  <font color="#009">阅读原文</font></p> 
  </a> 

@@ -36,7 +36,7 @@
 
     <!--  RSS Feed -->
     <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="feed" />
-    
+    <!-- <link href="/bs/css/bootstrap.min.css" rel="stylesheet"> -->
     <!-- icons -->
     <link rel="apple-touch-icon-precomposed" href="icon-128x128.png" />
     <link rel="icon" type="image/png" href="icon-32x32.png" />
@@ -142,13 +142,9 @@
     </style>
 
     <div id="nav-mobile">
-        <?php session_start(); if (!empty($_SESSION['nickname'])) { ?>
-            <a href="/guid/logout"><div id="nav-mobile-login"></div></a>
-        <?php } else { ?>
-            <a href="/guid"><div id="nav-mobile-login"></div></a>
-        <?php } ?>
+        <a href="/guid"><div id="nav-mobile-login"></div></a>
         <div id="nav-mobile-logo">
-            <?php if (!empty($_SESSION['nickname'])) { ?>
+            <?php session_start(); if (!empty($_SESSION['nickname'])) { ?>
                 <span class="unread-count1 unread1"><?PHP echo $_SESSION['nickname']; ?></span>
             <?php } else { ?>
                 <span class="unread-count1 unread1">微播</span>
@@ -235,7 +231,15 @@
 
     <!-- fullscreen popup -->
     <div id="fullscreen-entry"></div>
-    
     <script src="<?PHP echo \helpers\View::getGlobalJsFileName(); ?>"></script>
+    <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          ...
+        </div>
+      </div>
+    </div>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/bs/js/bootstrap.min.js"></script>
 </body>
 </html>
