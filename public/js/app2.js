@@ -5,6 +5,8 @@ if(typeof(JsInterface) != "undefined"){
 	JsInterface.setPageTitle(title);        
 	JsInterface.setPageDesc(desc);        
 	JsInterface.setPageLogo(img);
-	JsInterface.getVersion();
-	JsInterface.OpenBrowserWithUrl(apkurl);
+	var ver = JsInterface.getVersion();
+    if (ver > version) {
+        JsInterface.OpenBrowserWithUrl(apkurl);
+    };
 }

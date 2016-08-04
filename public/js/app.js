@@ -4,3 +4,4 @@ url = window.location.href;
 img = "http://iwebo.portal.net.cn/tongji/icon_small.png";
 guid = $('span').attr('value');
 apkurl = "http://portal.net.cn:8888/19/iwebo.apk";
+version = "0.1";
