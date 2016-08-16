@@ -35,7 +35,7 @@
 </head>
 <body>
     <div class="container-fluid">
-        <div style="margin-top:40%">
+        <div style="margin-top:0%">
             <form action="/guid" method="post">
                 <div class="form-group">
                     <?php if (!empty($_SESSION['nickname'])) { ?>
@@ -61,6 +61,7 @@
                 <div class="text-center">
                     <?php if (!empty($_SESSION['nickname'])) { ?>
                         <a href="/guid/logout" class="btn btn-warning">退出</a>
+                        <button class="btn btn-info" onclick="javascript:window.parent.location.href='/'">关闭窗口</button>
                     <?php } else { ?>
                         <button type="submit" class="btn btn-info">登陆</button>
                     <?php } ?>

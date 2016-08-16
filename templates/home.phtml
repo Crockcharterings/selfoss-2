@@ -142,7 +142,11 @@
     </style>
 
     <div id="nav-mobile">
-        <a href="/guid"><div id="nav-mobile-login"></div></a>
+<!--        <a href="/guid">-->
+<!--            <div id="nav-mobile-login"></div>-->
+<!--        </a>-->
+        <div id="nav-mobile-login"></div>
+
         <div id="nav-mobile-logo">
             <?php session_start(); if (!empty($_SESSION['nickname'])) { ?>
                 <span class="unread-count1 unread1"><?PHP echo $_SESSION['nickname']; ?></span>
@@ -241,5 +245,17 @@
     </div>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="/bs/js/bootstrap.min.js"></script>
+<!--    <div id="model" style="background-color: #0da3fa;display: none;position: fixed;left: 0;right: 0;margin:auto;top:150px;text-align: center" width="100px" height="100px">-->
+<!--        <iframe src="/guid"></iframe>-->
+<!--    </div>-->
+    <iframe id="model" src="/guid" style="background-color: #0da3fa;display: none;position: fixed;left: 0;right: 0;margin:auto;top:150px;text-align: center" width="200px" height="200px">
+<!--        <iframe src="/guid"></iframe>-->
+    </iframe>
+<script>
+    $('#nav-mobile-login').click(function () {
+        $('#model').css('display','block');
+    })
+
+</script>
 </body>
 </html>

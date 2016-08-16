@@ -368,3 +368,53 @@ C:\wamp\www\selfoss\index.php:103
 07-30-16 15:44:05 Error Unimplemented method for mysql: numberOfUnreadForTag
 07-31-16 11:28:27 Error Unimplemented method for mysql: numberOfUnreadForTag
 08-04-16 6:42:19 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-16-16 7:17:32 Error Fatal error: syntax error, unexpected 'http' (T_STRING)
+
+08-16-16 7:17:35 Error Fatal error: syntax error, unexpected 'http' (T_STRING)
+
+08-16-16 7:17:35 Error Fatal error: syntax error, unexpected 'http' (T_STRING)
+
+08-16-16 7:17:36 Error Fatal error: syntax error, unexpected 'http' (T_STRING)
+
+08-16-16 7:17:37 Error Fatal error: syntax error, unexpected 'http' (T_STRING)
+
+08-16-16 7:17:38 Error Fatal error: syntax error, unexpected 'http' (T_STRING)
+
+08-16-16 7:17:40 Error Fatal error: syntax error, unexpected 'http' (T_STRING)
+
+08-16-16 7:18:51 Error mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+C:\wamp64\www\selfoss\controllers\Login.php:32
+C:\wamp64\www\selfoss\controllers\Login.php:19
+C:\wamp64\www\selfoss\index.php:103
+
+08-16-16 7:22:03 Error mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+C:\wamp64\www\selfoss\controllers\Login.php:32
+C:\wamp64\www\selfoss\controllers\Login.php:19
+C:\wamp64\www\selfoss\index.php:103
+
+08-16-16 7:29:06 Error Undefined index: company_name_s
+C:\wamp64\www\selfoss\controllers\Login.php:34
+C:\wamp64\www\selfoss\controllers\Login.php:19
+C:\wamp64\www\selfoss\index.php:103
+
+08-16-16 7:29:14 Error Undefined index: company_name_s
+C:\wamp64\www\selfoss\controllers\Login.php:34
+C:\wamp64\www\selfoss\controllers\Login.php:19
+C:\wamp64\www\selfoss\index.php:103
+
+08-16-16 7:39:23 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-16-16 7:49:23 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-16-16 7:55:23 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-16-16 8:01:23 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-16-16 8:07:23 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-16-16 8:38:39 Error Fatal error: Call to undefined function load_img_resources()
+
+08-16-16 8:46:35 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-16-16 8:52:04 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-16-16 8:52:16 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-16-16 9:03:18 Error file_put_contents(C:\wamp64\www\selfoss/public/all-v2.15.js): failed to open stream: Invalid argument
+C:\wamp64\www\selfoss\helpers\View.php:156
+C:\wamp64\www\selfoss\helpers\View.php:25
+C:\wamp64\www\selfoss\controllers\BaseController.php:29
+C:\wamp64\www\selfoss\index.php:103
+

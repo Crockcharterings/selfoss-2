@@ -15,10 +15,12 @@ class Login extends BaseController {
 	{
 		session_start();
 		if ($_POST) {
+
 			$guid = $_POST['guid'];
 			$_SESSION['nickname'] = $this->getGuid($guid);
 			$_SESSION['guid'] = $guid;
-			header("Location:/");
+//			header("Location:/");
+            echo '<script>window.parent.location.href="/"</script>';
 		} else {
 	        echo $this->view->render('templates/guid.phtml');
 		}

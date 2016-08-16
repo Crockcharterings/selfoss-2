@@ -38,7 +38,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			国内要闻列表
 		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:44:"http://news.sina.com.cn/491/2008/0827/1.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:5:"zh-cn";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:3:"ttl";a:1:{i:0;a:5:{s:4:"data";s:1:"5";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"copyright";a:1:{i:0;a:5:{s:4:"data";s:58:"
 			Copyright 1996 - 2016 SINA Inc. All Rights Reserved
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Thu, 4 Aug 2016 01:42:03 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:7:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 16 Aug 2016 08:02:07 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:7:"
 			
 		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"item";a:15:{i:0;a:6:{s:4:"data";s:35:"
 			
@@ -49,13 +49,14 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:71:"
-				中国游客巴黎遭抢3人受伤 中方促法国尽快破案
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-08-04/doc-ifxuszpp2836295.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-08-04/doc-ifxuszpp2836295.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
+				上海水上飞机事故排除故障可能 将核实机组资质
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-16/doc-ifxuxnak0387005.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-16/doc-ifxuxnak0387005.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Thu, 4 Aug 2016 00:58:43 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:381:"
-				　　原标题：中国游客巴黎遭抢 驻法使馆促法国警方尽快破案
-　　中新网8月4日电 据中国驻法国大使馆网站消息，8月2日晨，法国当地时间8时左右，由北京神舟国际旅行社组织的力欧假期旅行团27名团员在法兰西岛95省(VAL D’OISE)戈内斯市(GONESSE)Campanile酒店门前遭多名蒙面歹徒袭....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 16 Aug 2016 07:56:37 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:399:"
+				金山水上飞机事故调查:排除故障可能
+　　原标题：金山水上飞机事故调查：排除故障可能 将核实机组资质 　
+　　东方网记者王佳妮、曹磊8月16日报道：关于金山水上飞机事故的调查进展，东方网记者从今天下午举行的市政府新闻发布会上获悉，事故调查处目前已初步完成现场调查取证工作....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:35:"
 			
 			
@@ -65,13 +66,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:66:"
-				周世锋涉嫌颠覆国家政权案今日在天津开庭
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-04/doc-ifxutfpf1178900.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-04/doc-ifxutfpf1178900.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"
+				外交部副部长:解决南海钥匙掌握在当事国手里
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-08-16/doc-ifxuxhas2060026.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-08-16/doc-ifxuxhas2060026.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Thu, 4 Aug 2016 00:56:44 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:396:"
-				　　原标题：周世锋涉嫌颠覆国家政权案一审在津公开开庭审理
-　　新华社天津8月4日电 4日上午8时30分，周世锋案在天津市第二中级人民法院一审公开开庭审理。周世锋系原北京锋锐律师事务所主任，今年7月15日被天津市人民检察院第二分院以涉嫌颠覆国家政权罪提起公诉。人大代表、政....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 16 Aug 2016 07:26:30 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:399:"
+				　　原标题：刘振民：解决南海问题的“钥匙”要掌握在当事国自己手里
+　　中新社满洲里8月16日电 （记者 马德林）“面对当前日益复杂的南海局势，特别是外部势力的干预，中国和东盟国家越来越认识到，要把解决南海问题的‘钥匙’掌握在自己手里。”中国外交部副部长刘振民16日在内....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:35:"
 			
 			
@@ -81,14 +82,14 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:64:"
-				“巴铁”兑现承诺上路试行 首秀仅跑300米
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-04/doc-ifxutfpc4404936.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-04/doc-ifxutfpc4404936.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:71:"
+				台军战车翻覆致3人死亡 军方：两处逃生口受阻
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-08-16/doc-ifxuxhas2058039.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-08-16/doc-ifxuxhas2058039.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Thu, 4 Aug 2016 00:52:47 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:396:"
-				　　原标题：“巴铁”兑现承诺上路试行 首秀仅仅“跑”了300米
-　　今年6月底，《每日经济新闻》记者曾对引发各界关注的治堵黑科技“巴铁”进行了系列调查报道。尽管这一发明曾被美国《时代周刊》评为“2010年世界科学技术领域最佳、最重大突破的发明之一”，但却一直饱受争议。
-....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 16 Aug 2016 07:02:54 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:391:"
+				　　原标题：台军战车翻覆致3人死亡 军方：两处逃生口受阻
+图为2012年CM11战车参加演习。（台湾“中央社”档案照片）
+　　中新网8月16日电 据台湾联合新闻网报道，台陆军八军团564旅上午在屏东恒春三军联训基地进行年度汉光演习─联勇实弹射击预演时，上午10时30分，发生战车翻覆3....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:35:"
 			
 			
@@ -98,13 +99,15 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"
-				山东官员被控受贿550万 辩称400万系借款有借条
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-04/doc-ifxutfpc4404746.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-04/doc-ifxutfpc4404746.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:68:"
+				食药监总局:2020年基本完成食药法律法规修订
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-08-16/doc-ifxuxnpy9713305.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-08-16/doc-ifxuxnpy9713305.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Thu, 4 Aug 2016 00:50:35 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:390:"
-				　　原标题：枣庄一贪官被控受贿550万 辩称：400万是借款有借条
-　　案发前，今年48岁的李振（化名）是山东省枣庄市某单位负责招商引资工作的处长（副处级），2015年4月因涉嫌受贿罪被检察机关立案查处。据公诉机关指控，2011年至2015年期间，李振在担任枣庄市某职能部门负责人期....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 16 Aug 2016 07:00:29 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:394:"
+				　　原标题：食药监总局：2020年基本完成食品药品法律法规修订
+
+　　资料图 中新社发 李慧思 摄
+　　中新网8月16日电 据食药监总局网站消息，食药监总局近日发布《关于全面加强食品药品监管系统法治建设的实施意见》，《意见》指出，到2020年，食品、药品、医疗器械、化妆品法律法....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:35:"
 			
 			
@@ -114,14 +117,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
-				深圳科创委原处长被控受贿 曾为获轻判实名举报
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-04/doc-ifxutfpf1177454.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-04/doc-ifxutfpf1177454.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"
+				长征五号开始海上运输 将在海南文昌执行首飞
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-16/doc-ifxuxnah3650278.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-16/doc-ifxuxnah3650278.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Thu, 4 Aug 2016 00:40:28 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
-				　　原标题：被控受贿366万 科创委原处长受审
-　　其承认控罪并表示案发后曾委托律师向纪委举报，希望凭“立功”表现获轻判
-　　南都讯 记者李亚坤　深圳市科技创新委员会社会发展与基础研究处原处长李振光涉嫌受贿366万元一案，昨日在深圳市中级人民法院开庭审理。李振光承认控罪....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 16 Aug 2016 06:56:12 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:398:"
+				　　新华社南京8月16日电（李国利、魏龙）远望号火箭运输船队16日上午驶离中国卫星海上测控部码头，开始执行长征五号首飞火箭的吊装和海上运输任务。
+　　长征五号火箭是我国自主研制的新一代重型运载火箭，即将从海南文昌航天发射场发射升空。据介绍，由远望21号、22号船组成的火....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:35:"
 			
 			
@@ -131,15 +133,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:61:"
-				江苏:携管制器具进入医疗机构将被拘留
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-08-04/doc-ifxuszpp2833244.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-08-04/doc-ifxuszpp2833244.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:68:"
+				e租宝案移送审查起诉 北京市一分检依法受理
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-08-16/doc-ifxuxnah3649524.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/s/wh/2016-08-16/doc-ifxuxnah3649524.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Thu, 4 Aug 2016 00:20:33 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:401:"
-				　　原标题：携管制器具进入医疗机构将被拘留
-　　患者一言不合就出手伤人，多次发生的伤医事件引起了社会关注。记者从省卫生计生委获悉，为保障医务人员和患者人身安全，决定在全省范围内开展为期1年的严厉打击涉医违法犯罪专项行动。
-　　殴打医务人员不能拖延处理
-　　根据专项....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 16 Aug 2016 06:48:11 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:394:"
+				　　原标题：e租宝案移送审查起诉 北京市一分检依法受理
+　　正义网北京8月16日电（记者 杨柳） &nbsp;记者今天从北京市人民检察院了解到，备受关注的“e租宝案”有了最新进展，e租宝实际控制人钰诚国际控股集团有限公司涉嫌集资诈骗罪，董事长、董事局主席丁宁、总裁张敏等11人涉....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:35:"
 			
 			
@@ -149,15 +149,19 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
-				北师大获捐古陶瓷被疑赝品 律师称将组专家筛选
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-04/doc-ifxutfpc4401680.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-04/doc-ifxutfpc4401680.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:71:"
+				山东迎暴雨天气 济南5小时降下340个“大明湖”
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-16/doc-ifxuxnah3649185.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-16/doc-ifxuxnah3649185.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Thu, 4 Aug 2016 00:15:04 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:396:"
-				　　原标题：北师大校友邱季端的委托律师回应所捐古陶瓷“赝品”质疑
-　　6000件古陶瓷将组专家团队来筛选
-　　北师大接受校友捐赠的6000件古陶瓷是否真的存在赝品？近日，北师大校友邱季端向母校捐赠古陶瓷一事，因此种质疑而沸沸扬扬。
-　　邱季端的委托律师―――大成律师事务....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 16 Aug 2016 06:44:24 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:394:"
+				　　原标题：山东多地迎来暴雨天气 济南5小时降下340个“大明湖”
+暴雨中行车，应低速档缓慢行驶，及时打开雨刮器、警示灯、防雾灯。（记者 王宗阳 摄）
+济南济泺路成丰桥监控画面　　
+济南济泺路成丰桥监控画面
+
+
+
+　　大众网8月16日讯 连续多日的桑拿天过后，山东部分地区终于迎....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:35:"
 			
 			
@@ -167,14 +171,14 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:63:"
-				今日东北内蒙古局地破40℃ 明后天将降温
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-04/doc-ifxutfpf1175095.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-04/doc-ifxutfpf1175095.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:71:"
+				我国对奥运金牌选手奖励缩水:上届50万本届20万
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-16/doc-ifxuxnah3648753.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-16/doc-ifxuxnah3648753.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Thu, 4 Aug 2016 00:11:16 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:394:"
-				　　原标题：内蒙古东北局地达40℃ 明后天高温缓解
-　　中国天气网讯 今天(4日)，北方多地仍以晴热为主，内蒙古大部、东北地区中南部、新疆吐鲁番盆地等地的部分地区有35℃以上高温天气，局部可达37～40℃。明后天，上述地区高温天气将缓解。
-　　昨天，北方的高温继续发展增多，....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 16 Aug 2016 06:39:17 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:397:"
+				　　原标题：我国对金牌选手的奖励缩水：上届50万元本届20万元
+　　奖金变化是对金牌价值的重新审视
+　　对参赛选手来说，奥运金牌不只是一份荣誉，随之而来的还有经济奖励，一块奥运金牌能为运动员带来多少奖金呢？新加坡为奥运金牌拍出了约合563万元人民币的高额奖金，而中国为....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:35:"
 			
 			
@@ -184,12 +188,14 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"
-				实拍广东警方台风天横扫假币窝点 缴获千万元
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:109:"http://go.rss.sina.com.cn/redirect.php?url=http://video.sina.com.cn/p/news/c/doc/2016-08-04/075865308525.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:109:"http://go.rss.sina.com.cn/redirect.php?url=http://video.sina.com.cn/p/news/c/doc/2016-08-04/075865308525.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:65:"
+				台军演战车翻覆致3死 同款型号涉贪污弊案
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-08-16/doc-ifxuxhas2056343.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-08-16/doc-ifxuxhas2056343.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Wed, 3 Aug 2016 23:58:25 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:338:"
-				广东省公安厅8月2日通报，在该厅指挥协调下，茂名警方开展代号为“妮妲”的打击假币犯罪专案收网行动，在茂名、东莞两地捣毁制假币窝点5个，抓获犯罪嫌疑人7名，缴获假币1100多万元以及假币印刷纸、刷板机等作案工具一批。图为缴获的假币。
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 16 Aug 2016 06:37:54 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:390:"
+				　　原标题：台军汉光预演发生事故 坠溪战车同款型号涉贪污弊案
+图为2012年CM11战车参加演习。（台湾“中央社”档案照片）
+　　中新网8月16日电 据台湾联合新闻网报道，台陆军八军团564旅今天在屏东执行联勇操演的实弹测考，CM11战车行经便道，疑天雨路滑，直接翻覆5公尺的网纱溪....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:35:"
 			
 			
@@ -199,12 +205,15 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:75:"
-				长沙橘子洲被撤销5A景区 有大量&quot;黑车&quot;揽客
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:109:"http://go.rss.sina.com.cn/redirect.php?url=http://video.sina.com.cn/p/news/c/doc/2016-08-04/075465308521.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:109:"http://go.rss.sina.com.cn/redirect.php?url=http://video.sina.com.cn/p/news/c/doc/2016-08-04/075465308521.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
+				济南齐鲁制药厂大雨中着火 附近学校已组织撤离
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-16/doc-ifxuxnak0380076.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-16/doc-ifxuxnak0380076.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Wed, 3 Aug 2016 23:54:02 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:241:"
-				　　国家旅游局今日宣布撤销湖南省长沙市橘子洲旅游区5A级旅游景区质量等级。旅游安全、环境卫生、服务质量等方面严重不达标，成为此次橘子洲旅游区被撤5A的主要原因。
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 16 Aug 2016 06:37:53 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:399:"
+				　　原标题：大雨中的济南齐鲁制药厂着火了！现场黑烟滚滚
+
+
+　网友爆料，今天上午10点多，在齐鲁制药厂附近上班的他看见起大火了，滚滚黑烟蹿入天空。从网友在着火现场附近拍摄的照片看，现场黑色的浓烟滚滚冒出。“好像着火的是齐鲁制药厂的一个防爆车间，这个车间里面放的都是....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:10;a:6:{s:4:"data";s:35:"
 			
 			
@@ -214,14 +223,15 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
-				军媒证实北京牌照私家车撞步战车 当事为女司机
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-04/doc-ifxutfpf1173283.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-04/doc-ifxutfpf1173283.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:61:"
+				台湾战车演习中坠河2人生还3人死亡(图)
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-08-16/doc-ifxuxnpy9711727.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2016-08-16/doc-ifxuxnpy9711727.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Wed, 3 Aug 2016 23:50:09 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:399:"
-				　　原标题：荒唐，私家车随意穿插任务军车车队 好险，剐蹭装甲车险酿大祸害己损军
-　　■段云龙　赵大永
-　　近日，网上流传的一段视频引发网友热议，一辆地方女驾驶员驾驶的北京牌照橘黄色“JEEP指南者”与解放军某部轮式步战车发生碰撞。不少网友针对此 事发表议论，网友小马如....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 16 Aug 2016 06:34:58 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:391:"
+				　　原标题：台军战车翻覆：1人经抢救情况稳定 3人宣告死亡
+图为2012年CM11战车参加演习。（台湾“中央社”档案照片）
+　　中新网8月16日电 据台湾“中央社”报道，台陆军564旅今天在操演时，战车翻覆入网纱溪，车上共5人，驾驶成功逃生，其余4人送医抢救，目前有1人状况稳定。
+　....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:11;a:6:{s:4:"data";s:35:"
 			
 			
@@ -231,13 +241,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
-				媒体揭空中巴士疑理财骗局 总设计师仅小学文化
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-04/doc-ifxutfpc4398647.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-04/doc-ifxutfpc4398647.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:71:"
+				2100万农民工今年接受技能培训 可选择培训内容
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-08-16/doc-ifxuxnpy9711440.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-08-16/doc-ifxuxnpy9711440.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Wed, 3 Aug 2016 23:40:55 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:399:"
-				　　相信我们大家每个人都已经听说过“e租宝”事件。这个当年被各大主流媒体热捧的融资平台，打着年收益平均14%的惊人数字，成功忽悠了大量普通的中国人给他投资，结果血本无归！其中90%的受害者，都是老年人，损失的都是他们的养老金！
-　　可今天，我们却看到很多媒体并没有吸取....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 16 Aug 2016 06:30:15 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:395:"
+				　　原标题：政解|2100万人次农民工今年接受技能培训 可自己选择培训内容
+　　新京报快讯 （记者吴为） 8月16日，人社部相关负责人对今年《政府工作报告》提出的“完成2100万人次以上农民工职业技能提升培训任务”进行解读时表示，培训旨在稳定农民工就业、提高农民工收入水平，将....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:12;a:6:{s:4:"data";s:35:"
 			
 			
@@ -247,12 +257,13 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:65:"
-				中国南海网正式开通 部分资料系首次公开 
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:109:"http://go.rss.sina.com.cn/redirect.php?url=http://video.sina.com.cn/p/news/c/doc/2016-08-04/070865308481.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:109:"http://go.rss.sina.com.cn/redirect.php?url=http://video.sina.com.cn/p/news/c/doc/2016-08-04/070865308481.html";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
+				北京通州启动车辆普查 专家：或为有位购车摸底
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-08-16/doc-ifxuxnpy9711081.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-08-16/doc-ifxuxnpy9711081.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Wed, 3 Aug 2016 23:08:05 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:354:"
-				　　8月3日，中国南海网正式上线开通，网站上公开了包括西沙群岛和黄岩岛地图等珍贵资料。 国家海洋局新闻发言人石青峰表示，中国南海网将全面介绍中国的南海政策、南海主张、历史证据、法理依据和国际合作等方面内容，及时传递中国观点和中国态度。
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 16 Aug 2016 06:24:59 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:395:"
+				　　原标题：政解|通州启动车辆普查 专家：或为“有位购车”摸底
+　　新京报快讯 （记者王硕） &nbsp;16日，为给北京城市副中心规划编制提供基础保障，通州区宣布将启动人口、产业、房屋、车辆、土地基础数据普查工作。其中，在对车辆的普查中，通州区发改委表示，普查不局限于车....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:13;a:6:{s:4:"data";s:35:"
 			
 			
@@ -262,14 +273,14 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:72:"
-				媒体：中国城市内涝问题比发达国家难解决得多
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/zs/2016-08-04/doc-ifxutfpf1166181.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/zs/2016-08-04/doc-ifxutfpf1166181.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:73:"
+				台当局：官员登太平岛很正常 不需事先告诉美国
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-08-16/doc-ifxuxnpy9710387.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-08-16/doc-ifxuxnpy9710387.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Wed, 3 Aug 2016 21:11:18 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:397:"
-				　　原标题：我国城市内涝灾害频发折射的城市扩张问题
-　　作者：刘佳骏
-　　近些年来，我国诸多大中城市频繁发生严重的城市内涝灾害，2000年以来，平均每年发生200多起不同程度的城市内涝灾害，不仅严重影响了城市的正常生活秩序，也造成了严重的生命财产损失，引起了社会各界的....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 16 Aug 2016 06:14:32 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:399:"
+				　　原标题：台涉外部门：当局官员登上太平岛很正常 不需事先告诉美国
+目前由台湾当局实际控制的南沙太平岛
+　　[环球网综合报道]据台湾“中央社”8月16日报道，台当局内政部门负责人叶俊荣与“海巡署署长”李仲威、“地政司”官员，还有高雄市政府及长期关注气候变迁议题的专家学....
 			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:14;a:6:{s:4:"data";s:35:"
 			
 			
@@ -279,14 +290,11 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 			
 			
 			
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:71:"
-				河北涿鹿教科局长辞职:树敌太多 教改推不下去
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-04/doc-ifxutfpf1165194.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:108:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/nd/2016-08-04/doc-ifxutfpf1165194.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"
+				台警方破获专骗大陆人诈骗集团 逮捕10名疑犯
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-08-16/doc-ifxuxnpy9710378.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:15:"WWW.SINA.COM.CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:105:"http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2016-08-16/doc-ifxuxnpy9710378.shtml";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:21:"
 				国内要闻
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Wed, 3 Aug 2016 20:09:55 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:396:"
-				2014年10月，涿鹿县德育工作研讨会，郝金伦与学生互动。图/涿鹿教育信息网
-本报8月1日报道郝金伦辞职背后教改风波的版面。
-　　■ 对话人物
-　　郝金伦
-　　河北省涿鹿县教育和科技局原局长，任内实施了“三疑三探”等多项教学改革，因为家长们担心孩子成绩受影响，争议与质疑始终....
-			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:9:{s:6:"server";s:5:"nginx";s:4:"date";s:29:"Thu, 04 Aug 2016 01:43:51 GMT";s:12:"content-type";s:8:"text/xml";s:14:"content-length";s:5:"16854";s:13:"last-modified";s:29:"Thu, 04 Aug 2016 01:42:06 GMT";s:7:"expires";s:29:"Thu, 04 Aug 2016 01:45:51 GMT";s:13:"cache-control";s:11:"max-age=120";s:13:"accept-ranges";s:5:"bytes";s:7:"x-cache";s:19:"MISS from localhost";}s:5:"build";s:14:"20121030175911";}
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 16 Aug 2016 06:14:27 GMT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:394:"
+				　　原标题：台中警方破获专骗大陆人诈骗集团 逮捕10名疑犯
+　　[环球网综合报道]据台湾联合新闻网8月16日报道，以一名25岁刘姓男子为首的台湾诈骗集团，在台中市丰原区、北屯区设立电信诈骗机房，专门诈骗大陆地区民众，台中警方获报后15日兵分多路前往查缉，逮捕刘姓男子等10人....
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:10:{s:12:"content-type";s:8:"text/xml";s:14:"content-length";s:5:"17092";s:13:"accept-ranges";s:5:"bytes";s:6:"server";s:5:"nginx";s:4:"date";s:29:"Tue, 16 Aug 2016 08:06:49 GMT";s:13:"last-modified";s:29:"Tue, 16 Aug 2016 08:02:12 GMT";s:7:"expires";s:29:"Tue, 16 Aug 2016 08:08:49 GMT";s:13:"cache-control";s:11:"max-age=120";s:3:"age";s:2:"40";s:7:"x-cache";s:18:"HIT from localhost";}s:5:"build";s:14:"20121030175911";}
