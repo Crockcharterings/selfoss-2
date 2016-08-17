@@ -418,3 +418,21 @@ C:\wamp64\www\selfoss\helpers\View.php:25
 C:\wamp64\www\selfoss\controllers\BaseController.php:29
 C:\wamp64\www\selfoss\index.php:103
 
+08-16-16 9:10:39 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-17-16 8:18:11 Error Undefined variable: company_name_s
+C:\wamp64\www\selfoss\controllers\Login.php:39
+C:\wamp64\www\selfoss\controllers\Login.php:20
+C:\wamp64\www\selfoss\index.php:103
+
+08-17-16 8:22:09 Error Undefined offset: 0
+C:\wamp64\www\selfoss\daos\mysql\Database.php:125
+C:\wamp64\www\selfoss\daos\Tags.php:30
+C:\wamp64\www\selfoss\controllers\Index.php:39
+C:\wamp64\www\selfoss\index.php:103
+
+08-17-16 8:22:12 Error Undefined offset: 0
+C:\wamp64\www\selfoss\daos\mysql\Database.php:125
+C:\wamp64\www\selfoss\daos\Tags.php:30
+C:\wamp64\www\selfoss\controllers\Index.php:39
+C:\wamp64\www\selfoss\index.php:103
+
