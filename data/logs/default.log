@@ -436,3 +436,8 @@ C:\wamp64\www\selfoss\daos\Tags.php:30
 C:\wamp64\www\selfoss\controllers\Index.php:39
 C:\wamp64\www\selfoss\index.php:103
 
+08-17-16 9:27:57 Error Undefined index: company_name_s
+C:\wamp64\www\selfoss\controllers\Login.php:36
+C:\wamp64\www\selfoss\controllers\Login.php:20
+C:\wamp64\www\selfoss\index.php:103
+

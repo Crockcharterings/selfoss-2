@@ -33,7 +33,7 @@ class Login extends BaseController {
         $result = mysqli_query($mysqli, $sql);
         while($row = mysqli_fetch_array($result))
         {
-        	$company_name_s = $row['company_name_s'];
+        	$company_name_s = $row['abbreviation'];
         }
         mysqli_close($mysqli); 
         return $company_name_s;
