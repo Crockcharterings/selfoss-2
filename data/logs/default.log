@@ -519,3 +519,15 @@ C:\wamp64\www\selfoss\index.php:103
 08-19-16 2:45:37 Error Unimplemented method for mysql: numberOfUnreadForTag
 08-19-16 2:51:37 Error Unimplemented method for mysql: numberOfUnreadForTag
 08-19-16 2:57:36 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-19-16 6:02:21 Error Undefined index: guid
+C:\wamp64\www\selfoss\templates\home.phtml:259
+C:\wamp64\www\selfoss\helpers\View.php:79
+C:\wamp64\www\selfoss\controllers\Index.php:90
+C:\wamp64\www\selfoss\index.php:103
+
+08-19-16 6:02:24 Error Undefined index: guid
+C:\wamp64\www\selfoss\templates\home.phtml:259
+C:\wamp64\www\selfoss\helpers\View.php:79
+C:\wamp64\www\selfoss\controllers\Index.php:90
+C:\wamp64\www\selfoss\index.php:103
+
