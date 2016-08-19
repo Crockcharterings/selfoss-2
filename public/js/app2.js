@@ -10,3 +10,7 @@ if(typeof(JsInterface) != "undefined"){
         JsInterface.OpenBrowserWithUrl(apkurl);
     };
 }
+url0 = $('iframe').eq(0).attr('src');
+url1 = $('iframe').eq(1).attr('src');
+$('iframe').eq(0).attr('src', guid+url0)
+$('iframe').eq(1).attr('src', guid+url1)

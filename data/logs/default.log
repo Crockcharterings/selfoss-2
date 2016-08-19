@@ -441,3 +441,78 @@ C:\wamp64\www\selfoss\controllers\Login.php:36
 C:\wamp64\www\selfoss\controllers\Login.php:20
 C:\wamp64\www\selfoss\index.php:103
 
+08-18-16 11:34:06 Error include(data/html/1059.html): failed to open stream: No such file or directory
+C:\wamp64\www\selfoss\helpers\View.php:79
+C:\wamp64\www\selfoss\helpers\View.php:79
+C:\wamp64\www\selfoss\controllers\Index.php:407
+C:\wamp64\www\selfoss\index.php:103
+
+08-18-16 11:34:36 Error PDOStatement::execute(): MySQL server has gone away
+C:\wamp64\www\selfoss\libs\f3\db\sql.php:163
+C:\wamp64\www\selfoss\daos\mysql\Items.php:127
+C:\wamp64\www\selfoss\helpers\ContentLoader.php:185
+C:\wamp64\www\selfoss\helpers\ContentLoader.php:46
+C:\wamp64\www\selfoss\controllers\Index.php:271
+C:\wamp64\www\selfoss\index.php:103
+
+08-18-16 11:34:54 Error error loading feed content for 雷锋: cURL error 28: Operation timed out after 10000 milliseconds with 53226 bytes received
+08-18-16 11:35:05 Error PDOStatement: Got a packet bigger than 'max_allowed_packet' bytes
+C:\wamp64\www\selfoss\daos\mysql\Items.php:127
+C:\wamp64\www\selfoss\helpers\ContentLoader.php:185
+C:\wamp64\www\selfoss\helpers\ContentLoader.php:46
+C:\wamp64\www\selfoss\controllers\Index.php:271
+C:\wamp64\www\selfoss\index.php:103
+
+08-18-16 11:36:08 Error error loading feed content for 雷锋: cURL error 28: Operation timed out after 10000 milliseconds with 61418 bytes received
+08-18-16 11:36:12 Error PDOStatement: Got a packet bigger than 'max_allowed_packet' bytes
+C:\wamp64\www\selfoss\daos\mysql\Items.php:127
+C:\wamp64\www\selfoss\helpers\ContentLoader.php:185
+C:\wamp64\www\selfoss\helpers\ContentLoader.php:46
+C:\wamp64\www\selfoss\controllers\Index.php:271
+C:\wamp64\www\selfoss\index.php:103
+
+08-19-16 1:25:33 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-19-16 1:36:27 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-19-16 1:38:23 Error Undefined variable: company_name_s
+C:\wamp64\www\selfoss\controllers\Login.php:39
+C:\wamp64\www\selfoss\controllers\Login.php:20
+C:\wamp64\www\selfoss\index.php:103
+
+08-19-16 1:38:32 Error Undefined variable: company_name_s
+C:\wamp64\www\selfoss\controllers\Login.php:39
+C:\wamp64\www\selfoss\controllers\Login.php:20
+C:\wamp64\www\selfoss\index.php:103
+
+08-19-16 1:39:42 Error Undefined variable: company_name_s
+C:\wamp64\www\selfoss\controllers\Login.php:39
+C:\wamp64\www\selfoss\controllers\Login.php:20
+C:\wamp64\www\selfoss\index.php:103
+
+08-19-16 1:44:46 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-19-16 1:52:17 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-19-16 1:58:17 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-19-16 2:08:38 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-19-16 2:14:13 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-19-16 2:14:57 Error include(data/html/1101.html): failed to open stream: No such file or directory
+C:\wamp64\www\selfoss\helpers\View.php:79
+C:\wamp64\www\selfoss\helpers\View.php:79
+C:\wamp64\www\selfoss\controllers\Index.php:407
+C:\wamp64\www\selfoss\index.php:103
+
+08-19-16 2:18:16 Error PDOStatement::execute(): MySQL server has gone away
+C:\wamp64\www\selfoss\libs\f3\db\sql.php:163
+C:\wamp64\www\selfoss\daos\mysql\Items.php:127
+C:\wamp64\www\selfoss\helpers\ContentLoader.php:185
+C:\wamp64\www\selfoss\helpers\ContentLoader.php:46
+C:\wamp64\www\selfoss\controllers\Index.php:271
+C:\wamp64\www\selfoss\index.php:103
+
+08-19-16 2:23:46 Error include(data/html/a.html): failed to open stream: No such file or directory
+C:\wamp64\www\selfoss\helpers\View.php:79
+C:\wamp64\www\selfoss\helpers\View.php:79
+C:\wamp64\www\selfoss\controllers\Index.php:407
+C:\wamp64\www\selfoss\index.php:103
+
+08-19-16 2:27:38 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-19-16 2:33:36 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-19-16 2:39:36 Error Unimplemented method for mysql: numberOfUnreadForTag
