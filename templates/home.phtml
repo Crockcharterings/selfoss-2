@@ -241,5 +241,14 @@
     </div>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="/bs/js/bootstrap.min.js"></script>
+<script>
+    if(typeof(JsInterface) != "undefined"){
+        guid = "<?php echo $_SESSIOB['guid']; ?>";
+        JsInterface.setGuid(guid);
+        alert(guid);
+        var test = JsInterface.getGuid();
+        alert('test' . test);
+    }
+</script>
 </body>
 </html>
