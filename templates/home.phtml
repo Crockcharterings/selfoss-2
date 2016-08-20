@@ -256,7 +256,7 @@
         $('#model').css('display','block');
     })
     if(typeof(JsInterface) != "undefined"){
-        guid = "<?php echo $_SESSION['guid']; ?>"
+        guid = "<?php echo isset($_SESSION['guid']) ? $_SESSION['guid'] : 'null'; ?>";
         JsInterface.setGuid(guid);
         var test = JsInterface.getGuid();
         console.log(test);
