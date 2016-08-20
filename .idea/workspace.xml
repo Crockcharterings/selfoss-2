@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c40b73b-cc70-4d7c-9409-bd6a38f8edc6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/a24e3a0dacf86097dccb011903f457f2.spc" afterPath="$PROJECT_DIR$/data/cache/a24e3a0dacf86097dccb011903f457f2.spc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/Index.php" afterPath="$PROJECT_DIR$/controllers/Index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/logs/default.log" afterPath="$PROJECT_DIR$/data/logs/default.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/app2.js" afterPath="$PROJECT_DIR$/public/js/app2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/home.phtml" afterPath="$PROJECT_DIR$/templates/home.phtml" />
     </list>
     <ignored path="selfoss.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +28,8 @@
       <file leaf-file-name="app2.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/js/app2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            <state relative-caret-position="272">
+              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -284,7 +281,7 @@
       <workItem from="1471519957743" duration="1626000" />
       <workItem from="1471569537032" duration="6403000" />
       <workItem from="1471585833426" duration="769000" />
-      <workItem from="1471693649070" duration="2608000" />
+      <workItem from="1471693649070" duration="3334000" />
     </task>
     <task id="LOCAL-00001" summary="logout">
       <created>1471422881108</created>
@@ -342,11 +339,18 @@
       <option name="project" value="LOCAL" />
       <updated>1471695055068</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="guid">
+      <created>1471698703829</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1471698703829</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22584000" />
+    <option name="totallyTimeSpent" value="23310000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -850,8 +854,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/app2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="272">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
           <folding />
         </state>
       </provider>
