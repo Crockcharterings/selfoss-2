@@ -1,5 +1,5 @@
 if(typeof(JsInterface) != "undefined"){
-	var guid = JsInterface.getGuid();  
+	qguid = JsInterface.getGuid();  
 	// JsInterface.setGuid(guid);
 	JsInterface.setPageUrl(url);        
 	JsInterface.setPageTitle(title);        
@@ -8,3 +8,9 @@ if(typeof(JsInterface) != "undefined"){
 	JsInterface.getVersion();
 	JsInterface.OpenBrowserWithUrl(apkurl);
 }
+var spread_url = $('#spread').attr('src');
+var poster_url = $('#poster').attr('src');
+alert(spread_url)
+alert(poster_url)
+$('#spread').attr('src', spread_url+qguid);
+$('#poster').attr('src', poster_url+qguid);

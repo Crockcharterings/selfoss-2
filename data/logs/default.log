@@ -532,3 +532,20 @@ C:\wamp64\www\selfoss\controllers\Index.php:90
 C:\wamp64\www\selfoss\index.php:103
 
 08-20-16 14:05:49 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-20-16 14:11:51 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-20-16 14:17:50 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-20-16 14:23:49 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-20-16 14:29:49 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-20-16 14:35:50 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-20-16 14:41:49 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-20-16 14:47:49 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-20-16 14:53:49 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-20-16 14:59:49 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-20-16 15:05:49 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-20-16 15:09:36 Error include(data/html/1117.html): failed to open stream: No such file or directory
+C:\wamp\www\selfoss\helpers\View.php:79
+C:\wamp\www\selfoss\helpers\View.php:79
+C:\wamp\www\selfoss\controllers\Index.php:407
+C:\wamp\www\selfoss\index.php:103
+
+08-20-16 15:10:01 Error ftrss - Failed extracting content

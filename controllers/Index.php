@@ -370,7 +370,7 @@ class Index extends BaseController {
  <font color="#009">阅读原文</font></p> 
  </a> 
  </div> 
- <iframe width="100%" frameborder="0" height="370"  src="'.$url.'/welcome/guid_spread/"></iframe>
+ <iframe width="100%" id="spread" frameborder="0" height="370"  src="'.$url.'/welcome/guid_spread/"></iframe>
 <footer>
     <ul>
     <li></li>
@@ -383,7 +383,7 @@ class Index extends BaseController {
 <script src="/../js/app.js"></script>
 <script src="/../js/app2.js"></script>
 <!--end-->';
-        $header = '<iframe width="100%" frameborder="0" height="120" src="'.$url.'/welcome/guid_poster/"></iframe>';
+        $header = '<iframe width="100%" id="poster" frameborder="0" height="120" src="'.$url.'/welcome/guid_poster/"></iframe>';
         $html = sprintf('<html><head><title>%s</title><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
     <meta content="black" name="apple-mobile-web-app-status-bar-style">
