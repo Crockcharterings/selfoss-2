@@ -15,10 +15,12 @@ class Login extends BaseController {
 	{
 		session_start();
 		if ($_POST) {
+
 			$guid = $_POST['guid'];
 			$_SESSION['nickname'] = $this->getGuid($guid);
 			$_SESSION['guid'] = $guid;
-			header("Location:/");
+//			header("Location:/");
+            echo '<script>window.parent.location.href="/"</script>';
 		} else {
 	        echo $this->view->render('templates/guid.phtml');
 		}
@@ -31,7 +33,7 @@ class Login extends BaseController {
         $result = mysqli_query($mysqli, $sql);
         while($row = mysqli_fetch_array($result))
         {
-        	$company_name_s = $row['company_name_s'];
+        	$company_name_s = $row['abbreviation'];
         }
         mysqli_close($mysqli); 
         return $company_name_s;

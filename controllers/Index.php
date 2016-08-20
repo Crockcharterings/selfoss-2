@@ -11,7 +11,7 @@ namespace controllers;
  * @author     Tobias Zeising <tobias.zeising@aditu.de>
  */
 class Index extends BaseController {
-    
+
     /**
      * home site
      * html
@@ -359,6 +359,7 @@ class Index extends BaseController {
     }
     private function createHtml($row)
     {
+        $url = \F3::get('admin_url');
         $guid = 0;
         if(isset($_SESSION['guid'])) $guid = $_SESSION['guid'];
         $myfile = fopen("data/html/".$row['id'].".html", "w") or die("Unable to open file!");
@@ -369,47 +370,7 @@ class Index extends BaseController {
  <font color="#009">阅读原文</font></p> 
  </a> 
  </div> 
- <hr style="border:1 dashed #EEEEEE" color="#EEEEEE">  
-    <div style="width:100%;">
-         <p style="text-align:left;font-size:15px;">精选阅读</p>
-    </div>
-<ul class="article-feed-ul">
-    <li>
-    <a href="http://ddt.zoosnet.net/LR/Chatpre.aspx?id=DDT59463097&amp;lng=cn&amp;e=waitui">
-    <div class="article-md-img-box">
-            <img src="http://tianda.chinacloudsites.cn/ad.jpg">
-    </div>
-      <div class="article-info-box">
-            <div class="article-md-title">满脸坑豆怎么办？马上拥有大S一样的美白皮肤</div>
-       </div>
-             <div class="mod-hot">推广</div>
-     </a>
-     </li>
-     
-    <li>
-    <a href="http://ddt.zoosnet.net/LR/Chatpre.aspx?id=DDT59463097&amp;lng=cn&amp;e=waitui">
-    <div class="article-md-img-box">
-        <img src="http://tianda.chinacloudsites.cn/ad1.jpg">
-    </div>
-      <div class="article-info-box">
-            <div class="article-md-title">冯小刚的白是另类白，你若也有，请马上咨询</div>
-       </div>
-             <div class="mod-hot">推广</div>
-     </a>
-     </li>
-     
-    <li>
-    <a href="http://ddt.zoosnet.net/LR/Chatpre.aspx?id=DDT59463097&amp;lng=cn&amp;e=waitui">
-    <div class="article-md-img-box">
-        <img src="http://tianda.chinacloudsites.cn/ad2.jpg">
-    </div>
-      <div class="article-info-box">
-            <div class="article-md-title">今年的阳光特别烈，如何才能淡定面对</div>
-       </div>
-             <div class="mod-hot">推广</div>
-     </a>
-     </li>
-</ul>
+ <iframe width="100%" frameborder="0" height="370"  src="'.$url.'/welcome/guid_spread/"></iframe>
 <footer>
     <ul>
     <li></li>
@@ -422,9 +383,7 @@ class Index extends BaseController {
 <script src="/../js/app.js"></script>
 <script src="/../js/app2.js"></script>
 <!--end-->';
-        $header = '<a href="http://dwz.cn/3OMdZ3">
-<div style="width:100%;height:120px;background-image:url(http://tianda.chinacloudsites.cn/bg.jpg);background-repeat:no-repeat;">
-</div></a>';
+        $header = '<iframe width="100%" frameborder="0" height="120" src="'.$url.'/welcome/guid_poster/"></iframe>';
         $html = sprintf('<html><head><title>%s</title><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
     <meta content="black" name="apple-mobile-web-app-status-bar-style">

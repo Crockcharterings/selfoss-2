@@ -367,3 +367,167 @@ C:\wamp\www\selfoss\index.php:103
 07-30-16 15:38:05 Error Unimplemented method for mysql: numberOfUnreadForTag
 07-30-16 15:44:05 Error Unimplemented method for mysql: numberOfUnreadForTag
 07-31-16 11:28:27 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-04-16 6:42:19 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-16-16 7:17:32 Error Fatal error: syntax error, unexpected 'http' (T_STRING)
+
+08-16-16 7:17:35 Error Fatal error: syntax error, unexpected 'http' (T_STRING)
+
+08-16-16 7:17:35 Error Fatal error: syntax error, unexpected 'http' (T_STRING)
+
+08-16-16 7:17:36 Error Fatal error: syntax error, unexpected 'http' (T_STRING)
+
+08-16-16 7:17:37 Error Fatal error: syntax error, unexpected 'http' (T_STRING)
+
+08-16-16 7:17:38 Error Fatal error: syntax error, unexpected 'http' (T_STRING)
+
+08-16-16 7:17:40 Error Fatal error: syntax error, unexpected 'http' (T_STRING)
+
+08-16-16 7:18:51 Error mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+C:\wamp64\www\selfoss\controllers\Login.php:32
+C:\wamp64\www\selfoss\controllers\Login.php:19
+C:\wamp64\www\selfoss\index.php:103
+
+08-16-16 7:22:03 Error mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+C:\wamp64\www\selfoss\controllers\Login.php:32
+C:\wamp64\www\selfoss\controllers\Login.php:19
+C:\wamp64\www\selfoss\index.php:103
+
+08-16-16 7:29:06 Error Undefined index: company_name_s
+C:\wamp64\www\selfoss\controllers\Login.php:34
+C:\wamp64\www\selfoss\controllers\Login.php:19
+C:\wamp64\www\selfoss\index.php:103
+
+08-16-16 7:29:14 Error Undefined index: company_name_s
+C:\wamp64\www\selfoss\controllers\Login.php:34
+C:\wamp64\www\selfoss\controllers\Login.php:19
+C:\wamp64\www\selfoss\index.php:103
+
+08-16-16 7:39:23 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-16-16 7:49:23 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-16-16 7:55:23 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-16-16 8:01:23 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-16-16 8:07:23 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-16-16 8:38:39 Error Fatal error: Call to undefined function load_img_resources()
+
+08-16-16 8:46:35 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-16-16 8:52:04 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-16-16 8:52:16 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-16-16 9:03:18 Error file_put_contents(C:\wamp64\www\selfoss/public/all-v2.15.js): failed to open stream: Invalid argument
+C:\wamp64\www\selfoss\helpers\View.php:156
+C:\wamp64\www\selfoss\helpers\View.php:25
+C:\wamp64\www\selfoss\controllers\BaseController.php:29
+C:\wamp64\www\selfoss\index.php:103
+
+08-16-16 9:10:39 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-17-16 8:18:11 Error Undefined variable: company_name_s
+C:\wamp64\www\selfoss\controllers\Login.php:39
+C:\wamp64\www\selfoss\controllers\Login.php:20
+C:\wamp64\www\selfoss\index.php:103
+
+08-17-16 8:22:09 Error Undefined offset: 0
+C:\wamp64\www\selfoss\daos\mysql\Database.php:125
+C:\wamp64\www\selfoss\daos\Tags.php:30
+C:\wamp64\www\selfoss\controllers\Index.php:39
+C:\wamp64\www\selfoss\index.php:103
+
+08-17-16 8:22:12 Error Undefined offset: 0
+C:\wamp64\www\selfoss\daos\mysql\Database.php:125
+C:\wamp64\www\selfoss\daos\Tags.php:30
+C:\wamp64\www\selfoss\controllers\Index.php:39
+C:\wamp64\www\selfoss\index.php:103
+
+08-17-16 9:27:57 Error Undefined index: company_name_s
+C:\wamp64\www\selfoss\controllers\Login.php:36
+C:\wamp64\www\selfoss\controllers\Login.php:20
+C:\wamp64\www\selfoss\index.php:103
+
+08-18-16 11:34:06 Error include(data/html/1059.html): failed to open stream: No such file or directory
+C:\wamp64\www\selfoss\helpers\View.php:79
+C:\wamp64\www\selfoss\helpers\View.php:79
+C:\wamp64\www\selfoss\controllers\Index.php:407
+C:\wamp64\www\selfoss\index.php:103
+
+08-18-16 11:34:36 Error PDOStatement::execute(): MySQL server has gone away
+C:\wamp64\www\selfoss\libs\f3\db\sql.php:163
+C:\wamp64\www\selfoss\daos\mysql\Items.php:127
+C:\wamp64\www\selfoss\helpers\ContentLoader.php:185
+C:\wamp64\www\selfoss\helpers\ContentLoader.php:46
+C:\wamp64\www\selfoss\controllers\Index.php:271
+C:\wamp64\www\selfoss\index.php:103
+
+08-18-16 11:34:54 Error error loading feed content for 雷锋: cURL error 28: Operation timed out after 10000 milliseconds with 53226 bytes received
+08-18-16 11:35:05 Error PDOStatement: Got a packet bigger than 'max_allowed_packet' bytes
+C:\wamp64\www\selfoss\daos\mysql\Items.php:127
+C:\wamp64\www\selfoss\helpers\ContentLoader.php:185
+C:\wamp64\www\selfoss\helpers\ContentLoader.php:46
+C:\wamp64\www\selfoss\controllers\Index.php:271
+C:\wamp64\www\selfoss\index.php:103
+
+08-18-16 11:36:08 Error error loading feed content for 雷锋: cURL error 28: Operation timed out after 10000 milliseconds with 61418 bytes received
+08-18-16 11:36:12 Error PDOStatement: Got a packet bigger than 'max_allowed_packet' bytes
+C:\wamp64\www\selfoss\daos\mysql\Items.php:127
+C:\wamp64\www\selfoss\helpers\ContentLoader.php:185
+C:\wamp64\www\selfoss\helpers\ContentLoader.php:46
+C:\wamp64\www\selfoss\controllers\Index.php:271
+C:\wamp64\www\selfoss\index.php:103
+
+08-19-16 1:25:33 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-19-16 1:36:27 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-19-16 1:38:23 Error Undefined variable: company_name_s
+C:\wamp64\www\selfoss\controllers\Login.php:39
+C:\wamp64\www\selfoss\controllers\Login.php:20
+C:\wamp64\www\selfoss\index.php:103
+
+08-19-16 1:38:32 Error Undefined variable: company_name_s
+C:\wamp64\www\selfoss\controllers\Login.php:39
+C:\wamp64\www\selfoss\controllers\Login.php:20
+C:\wamp64\www\selfoss\index.php:103
+
+08-19-16 1:39:42 Error Undefined variable: company_name_s
+C:\wamp64\www\selfoss\controllers\Login.php:39
+C:\wamp64\www\selfoss\controllers\Login.php:20
+C:\wamp64\www\selfoss\index.php:103
+
+08-19-16 1:44:46 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-19-16 1:52:17 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-19-16 1:58:17 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-19-16 2:08:38 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-19-16 2:14:13 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-19-16 2:14:57 Error include(data/html/1101.html): failed to open stream: No such file or directory
+C:\wamp64\www\selfoss\helpers\View.php:79
+C:\wamp64\www\selfoss\helpers\View.php:79
+C:\wamp64\www\selfoss\controllers\Index.php:407
+C:\wamp64\www\selfoss\index.php:103
+
+08-19-16 2:18:16 Error PDOStatement::execute(): MySQL server has gone away
+C:\wamp64\www\selfoss\libs\f3\db\sql.php:163
+C:\wamp64\www\selfoss\daos\mysql\Items.php:127
+C:\wamp64\www\selfoss\helpers\ContentLoader.php:185
+C:\wamp64\www\selfoss\helpers\ContentLoader.php:46
+C:\wamp64\www\selfoss\controllers\Index.php:271
+C:\wamp64\www\selfoss\index.php:103
+
+08-19-16 2:23:46 Error include(data/html/a.html): failed to open stream: No such file or directory
+C:\wamp64\www\selfoss\helpers\View.php:79
+C:\wamp64\www\selfoss\helpers\View.php:79
+C:\wamp64\www\selfoss\controllers\Index.php:407
+C:\wamp64\www\selfoss\index.php:103
+
+08-19-16 2:27:38 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-19-16 2:33:36 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-19-16 2:39:36 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-19-16 2:45:37 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-19-16 2:51:37 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-19-16 2:57:36 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-19-16 6:02:21 Error Undefined index: guid
+C:\wamp64\www\selfoss\templates\home.phtml:259
+C:\wamp64\www\selfoss\helpers\View.php:79
+C:\wamp64\www\selfoss\controllers\Index.php:90
+C:\wamp64\www\selfoss\index.php:103
+
+08-19-16 6:02:24 Error Undefined index: guid
+C:\wamp64\www\selfoss\templates\home.phtml:259
+C:\wamp64\www\selfoss\helpers\View.php:79
+C:\wamp64\www\selfoss\controllers\Index.php:90
+C:\wamp64\www\selfoss\index.php:103
+
