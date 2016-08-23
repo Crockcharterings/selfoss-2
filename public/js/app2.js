@@ -1,15 +1,19 @@
 if(typeof(JsInterface) != "undefined"){
-	JsInterface.setGuid(guid);
+	qguid = JsInterface.getGuid(); 
+	if(!qguid) {qguid=null}
+	// JsInterface.setGuid(guid);
 	JsInterface.setPageUrl(url);        
 	JsInterface.setPageTitle(title);        
 	JsInterface.setPageDesc(desc);        
 	JsInterface.setPageLogo(img);
-	var ver = JsInterface.getVersion();
-    if (ver > version) {
-        JsInterface.OpenBrowserWithUrl(apkurl);
-    };
+	JsInterface.getVersion();
+	JsInterface.OpenBrowserWithUrl(apkurl);
+	var spread_url = $('#spread').attr('src');
+	var poster_url = $('#poster').attr('src');
+	alert(spread_url)
+	$('#spread').attr('src', spread_url+qguid);
+	$('#poster').attr('src', poster_url+qguid);
+	var spread_url = $('#spread').attr('src');
+	var poster_url = $('#poster').attr('src');
+	alert(spread_url)
 }
-url0 = $('iframe').eq(0).attr('src');
-url1 = $('iframe').eq(1).attr('src');
-$('iframe').eq(0).attr('src', guid+url0)
-$('iframe').eq(1).attr('src', guid+url1)

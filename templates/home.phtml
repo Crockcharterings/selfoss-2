@@ -255,11 +255,13 @@
     $('#nav-mobile-login').click(function () {
         $('#model').css('display','block');
     })
+    var guid
     if(typeof(JsInterface) != "undefined"){
-        guid = "<?php echo $_SESSION['guid']; ?>"
+        guid = "<?php echo isset($_SESSION['guid']) ? $_SESSION['guid'] : 'null'; ?>";
+        alert(guid);
         JsInterface.setGuid(guid);
         var test = JsInterface.getGuid();
-        console.log(test);
+        alert('guid' + test);
     }
 </script>
 </body>
