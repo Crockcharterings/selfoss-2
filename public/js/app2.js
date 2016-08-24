@@ -3,12 +3,12 @@ if(typeof(JsInterface) != "undefined"){
 	if(!qguid) {
 		qguid=null
 		u = window.location.href;
-		u.split('/');
-		qguid = u[u.length-1];
+		u.split('?');
+		qguid = u[1];
 	}
 	// JsInterface.setGuid(guid);
-	JsInterface.setPageUrl(url+'/'+qguid);
-	alert(url+'/'+qguid)
+	JsInterface.setPageUrl(url+'?'+qguid);
+	alert(url+'?'+qguid)
 	JsInterface.setPageTitle(title);        
 	JsInterface.setPageDesc(desc);        
 	JsInterface.setPageLogo(img);
