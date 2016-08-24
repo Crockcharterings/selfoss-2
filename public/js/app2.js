@@ -16,10 +16,10 @@ if(typeof(JsInterface) != "undefined"){
 
 	var spread_url = $('#spread').attr('src');
 	var poster_url = $('#poster').attr('src');
-	// alert(spread_url) 获取原始url
+	// alert(spread_url) //获取原始url
 	$('#spread').attr('src', spread_url+qguid);
 	$('#poster').attr('src', poster_url+qguid);
 	var spread_url = $('#spread').attr('src');
 	var poster_url = $('#poster').attr('src');
-	alert(spread_url) 拼接url上guid参数
+	alert(spread_url) //拼接url上guid参数
 }
