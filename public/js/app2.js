@@ -15,7 +15,7 @@ if(typeof(JsInterface) != "undefined"){
 	var spread_url = $('#spread').attr('src');
 	var poster_url = $('#poster').attr('src');
 } else {
-	uguid = window.location.href.split('?')[1].split('=')[0];
+	uguid = window.location.href.split('?')[1].split('&')[0];
 	var spread_url = $('#spread').attr('src');
 	var poster_url = $('#poster').attr('src');
 	$('#spread').attr('src', spread_url+uguid);
