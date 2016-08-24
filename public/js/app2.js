@@ -2,8 +2,8 @@ if(typeof(JsInterface) != "undefined"){
 	qguid = JsInterface.getGuid(); 
 	if(!qguid) {qguid=null}
 	// JsInterface.setGuid(guid);
-	JsInterface.setPageUrl(url+'?'+qguid);
-	alert(url+'?'+qguid)
+	JsInterface.setPageUrl(url+'?'+qguid+'?');
+	// alert(url+'?'+qguid)
 	JsInterface.setPageTitle(title);        
 	JsInterface.setPageDesc(desc);        
 	JsInterface.setPageLogo(img);
@@ -15,7 +15,7 @@ if(typeof(JsInterface) != "undefined"){
 	var spread_url = $('#spread').attr('src');
 	var poster_url = $('#poster').attr('src');
 } else {
-	uguid = window.location.href.split('?')[1].split('&')[0];
+	uguid = window.location.href.split('?')[1];
 	var spread_url = $('#spread').attr('src');
 	var poster_url = $('#poster').attr('src');
 	$('#spread').attr('src', spread_url+uguid);
