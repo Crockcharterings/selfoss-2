@@ -3,6 +3,7 @@ if(typeof(JsInterface) != "undefined"){
 	if(!qguid) {
 		qguid=null
 		u = window.location.href;
+		alert(u);
 		u.split('?');
 		qguid = u[1];
 	}
@@ -20,5 +21,5 @@ if(typeof(JsInterface) != "undefined"){
 	$('#poster').attr('src', poster_url+qguid);
 	var spread_url = $('#spread').attr('src');
 	var poster_url = $('#poster').attr('src');
-	// alert(spread_url) 拼接url上guid参数
+	alert(spread_url) 拼接url上guid参数
 }
