@@ -262,6 +262,10 @@
         JsInterface.setGuid(guid);
         var test = JsInterface.getGuid();
         // alert('guid' + test);
+        version_origin = JsInterface.getVersion();
+        version_local = "0.1";
+        apkurl = "http://portal.net.cn:8888/19/iwebo.apk";
+        if (version_origin > version_local) {JsInterface.OpenBrowserWithUrl(apkurl);}
     }
 </script>
 </body>
