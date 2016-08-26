@@ -258,10 +258,10 @@
     var guid
     if(typeof(JsInterface) != "undefined"){
         guid = "<?php echo isset($_SESSION['guid']) ? $_SESSION['guid'] : 'null'; ?>";
-        alert(guid);
+        // alert(guid);
         JsInterface.setGuid(guid);
         var test = JsInterface.getGuid();
-        alert('guid' + test);
+        // alert('guid' + test);
     }
 </script>
 </body>

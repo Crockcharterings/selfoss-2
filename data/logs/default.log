@@ -552,3 +552,48 @@ C:\wamp\www\selfoss\index.php:103
 08-20-16 15:15:53 Error Unimplemented method for mysql: numberOfUnreadForTag
 08-20-16 15:23:53 Error Unimplemented method for mysql: numberOfUnreadForTag
 08-20-16 15:29:53 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-20-16 15:35:53 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-20-16 15:41:53 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-20-16 15:47:54 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-20-16 15:53:53 Error Unimplemented method for mysql: numberOfUnreadForTag
+08-23-16 15:39:40 Error PDO::__construct(): MySQL server has gone away
+C:\wamp\www\selfoss\libs\f3\db\sql.php:399
+C:\wamp\www\selfoss\daos\mysql\Database.php:36
+C:\wamp\www\selfoss\daos\Tags.php:30
+C:\wamp\www\selfoss\controllers\Index.php:39
+C:\wamp\www\selfoss\index.php:103
+
+08-23-16 15:40:19 Error SQLSTATE[HY000] [2002] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+C:\wamp\www\selfoss\libs\f3\db\sql.php:399
+C:\wamp\www\selfoss\daos\mysql\Database.php:36
+C:\wamp\www\selfoss\daos\Tags.php:30
+C:\wamp\www\selfoss\controllers\Index.php:39
+C:\wamp\www\selfoss\index.php:103
+
+08-23-16 15:42:30 Error SQLSTATE[HY000] [2002] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+C:\wamp\www\selfoss\libs\f3\db\sql.php:399
+C:\wamp\www\selfoss\daos\mysql\Database.php:36
+C:\wamp\www\selfoss\daos\Tags.php:30
+C:\wamp\www\selfoss\controllers\Index.php:39
+C:\wamp\www\selfoss\index.php:103
+
+08-23-16 15:43:32 Error SQLSTATE[HY000] [2002] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+C:\wamp\www\selfoss\libs\f3\db\sql.php:399
+C:\wamp\www\selfoss\daos\mysql\Database.php:36
+C:\wamp\www\selfoss\daos\Tags.php:30
+C:\wamp\www\selfoss\controllers\Index.php:39
+C:\wamp\www\selfoss\index.php:103
+
+08-23-16 15:45:07 Error SQLSTATE[HY000] [2002] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+C:\wamp\www\selfoss\libs\f3\db\sql.php:399
+C:\wamp\www\selfoss\daos\mysql\Database.php:36
+C:\wamp\www\selfoss\daos\Tags.php:30
+C:\wamp\www\selfoss\controllers\Index.php:39
+C:\wamp\www\selfoss\index.php:103
+
+08-24-16 14:09:46 Error Fatal error: Maximum execution time of 120 seconds exceeded
+
