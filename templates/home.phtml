@@ -261,6 +261,9 @@
         // alert(guid);
         JsInterface.setGuid(guid);
         var test = JsInterface.getGuid();
+        $.post('guid',{guid:test,ajax:true},function (data) {
+            if (data.ret){ window.parent.location.href="/" }
+        });
         // alert('guid' + test);
         version_origin = JsInterface.getVersion();
         version_local = "0.1";

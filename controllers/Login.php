@@ -19,8 +19,12 @@ class Login extends BaseController {
 			$guid = $_POST['guid'];
 			$_SESSION['nickname'] = $this->getGuid($guid);
 			$_SESSION['guid'] = $guid;
-//			header("Location:/");
-            echo '<script>window.parent.location.href="/"</script>';
+            if (isset($_POST['ajax'])){
+                echo json_encode(array('ret'=>true));
+                return;
+            } else {
+                echo '<script>window.parent.location.href="/"</script>';
+            }
 		} else {
 	        echo $this->view->render('templates/guid.phtml');
 		}
@@ -36,7 +40,7 @@ class Login extends BaseController {
         	$company_name_s = $row['abbreviation'];
         }
         mysqli_close($mysqli); 
-        return $company_name_s;
+        return empty($company_name_s) ? false : $company_name_s;
 	}
 	public function logout()
 	{
