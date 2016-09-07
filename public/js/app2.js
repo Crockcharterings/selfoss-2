@@ -16,6 +16,7 @@ if(typeof(JsInterface) != "undefined"){
 	var poster_url = $('#poster').attr('src');
 } else {
 	uguid = window.location.href.split('?')[1];
+	uguid = '1470879327';
 	var spread_url = $('#spread').attr('src');
 	var poster_url = $('#poster').attr('src');
 	$('#spread').attr('src', spread_url+uguid);

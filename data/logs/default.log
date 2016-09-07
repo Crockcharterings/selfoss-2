@@ -669,3 +669,58 @@ C:\wamp64\www\selfoss\index.php:103
 08-29-16 3:09:54 Error Unimplemented method for mysql: numberOfUnreadForTag
 08-29-16 3:15:54 Error Unimplemented method for mysql: numberOfUnreadForTag
 08-29-16 3:21:54 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-07-16 4:15:28 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-07-16 4:21:28 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-07-16 4:27:28 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-07-16 4:33:28 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-07-16 4:39:28 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-07-16 4:45:28 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-07-16 4:51:57 Error file_put_contents(C:\wamp\www\selfoss/public/all-v2.15.css): failed to open stream: Invalid argument
+C:\wamp\www\selfoss\helpers\View.php:165
+C:\wamp\www\selfoss\helpers\View.php:25
+C:\wamp\www\selfoss\controllers\BaseController.php:29
+C:\wamp\www\selfoss\controllers\Sources.php:209
+C:\wamp\www\selfoss\index.php:103
+
+09-07-16 4:53:37 Error file_put_contents(C:\wamp\www\selfoss/public/all-v2.15.css): failed to open stream: Invalid argument
+C:\wamp\www\selfoss\helpers\View.php:165
+C:\wamp\www\selfoss\helpers\View.php:25
+C:\wamp\www\selfoss\controllers\BaseController.php:29
+C:\wamp\www\selfoss\index.php:103
+
+09-07-16 4:54:54 Error filter error: a
+09-07-16 4:54:59 Error filter error: a
+09-07-16 4:55:01 Error filter error: a
+09-07-16 4:55:05 Error filter error: a
+09-07-16 4:55:07 Error filter error: a
+09-07-16 4:55:10 Error filter error: a
+09-07-16 4:55:13 Error filter error: a
+09-07-16 4:55:15 Error filter error: a
+09-07-16 4:55:17 Error filter error: a
+09-07-16 4:55:27 Error ftrss - Failed loading page
+09-07-16 4:55:27 Error filter error: a
+09-07-16 4:55:28 Error filter error: a
+09-07-16 4:55:30 Error filter error: a
+09-07-16 4:55:33 Error filter error: a
+09-07-16 4:55:36 Error filter error: a
+09-07-16 4:55:38 Error filter error: a
+09-07-16 5:02:38 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-07-16 5:08:38 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-07-16 5:14:38 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-07-16 5:20:56 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-07-16 5:26:38 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-07-16 5:32:38 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-07-16 5:38:38 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-07-16 5:44:38 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-07-16 5:50:38 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-07-16 5:56:38 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-07-16 6:02:38 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-07-16 6:08:38 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-07-16 6:14:38 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-07-16 6:20:38 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-07-16 6:26:38 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-07-16 6:32:38 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-07-16 6:38:38 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-07-16 6:44:38 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-07-16 6:50:38 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-07-16 6:56:38 Error Unimplemented method for mysql: numberOfUnreadForTag
