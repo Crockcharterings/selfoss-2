@@ -404,6 +404,7 @@ class Index extends BaseController {
     public function show()
     {
         $id = \F3::get('PARAMS["id"]');
+        $_SESSION['html'.$id] = 'ko';
         echo $this->view->render('data/html/'.$id.'.html');
     }
 }
