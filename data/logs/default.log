@@ -738,3 +738,122 @@ C:\wamp\www\selfoss\index.php:103
 09-07-16 14:50:11 Error Unimplemented method for mysql: numberOfUnreadForTag
 09-07-16 14:56:10 Error Unimplemented method for mysql: numberOfUnreadForTag
 09-07-16 15:02:10 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 5:48:01 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 5:54:01 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 6:00:01 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 6:06:01 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 6:12:01 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 6:18:01 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 6:24:01 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 6:30:01 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 6:36:01 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 6:42:01 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 6:42:25 Error PDOStatement: Incorrect string value: '\xE9\x97 \xE5\xB9\x95...' for column 'content' at row 1
+C:\wamp64\www\selfoss\daos\mysql\Items.php:127
+C:\wamp64\www\selfoss\helpers\ContentLoader.php:185
+C:\wamp64\www\selfoss\helpers\ContentLoader.php:46
+C:\wamp64\www\selfoss\controllers\Index.php:271
+C:\wamp64\www\selfoss\index.php:103
+
+09-08-16 6:42:32 Error ftrss - Failed extracting content
+09-08-16 6:42:32 Error ftrss - Failed extracting content
+09-08-16 6:42:32 Error ftrss - Failed extracting content
+09-08-16 6:42:33 Error ftrss - Failed extracting content
+09-08-16 6:42:33 Error ftrss - Failed extracting content
+09-08-16 6:42:33 Error ftrss - Failed extracting content
+09-08-16 6:42:33 Error ftrss - Failed extracting content
+09-08-16 6:42:34 Error ftrss - Failed extracting content
+09-08-16 6:42:34 Error ftrss - Failed extracting content
+09-08-16 6:42:34 Error ftrss - Failed extracting content
+09-08-16 6:42:35 Error ftrss - Failed extracting content
+09-08-16 6:42:37 Error ftrss - Failed extracting content
+09-08-16 6:42:38 Error ftrss - Failed extracting content
+09-08-16 6:42:38 Error ftrss - Failed extracting content
+09-08-16 6:42:38 Error ftrss - Failed extracting content
+09-08-16 6:42:39 Error ftrss - Failed extracting content
+09-08-16 6:42:39 Error ftrss - Failed extracting content
+09-08-16 6:42:39 Error ftrss - Failed extracting content
+09-08-16 6:42:40 Error ftrss - Failed extracting content
+09-08-16 6:42:40 Error ftrss - Failed extracting content
+09-08-16 6:42:40 Error ftrss - Failed extracting content
+09-08-16 6:48:21 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 6:54:21 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 7:00:21 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 7:06:21 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 7:12:21 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 7:18:21 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 7:24:21 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 7:30:21 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 7:36:21 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 7:37:41 Error HTTP 404 (GET /htmlid/278/dsad)
+C:\wamp64\www\selfoss\index.php:104
+
+09-08-16 7:37:51 Error HTTP 404 (GET /htmlid/278/11)
+C:\wamp64\www\selfoss\index.php:104
+
+09-08-16 7:42:21 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 7:44:36 Error mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given
+C:\wamp64\www\selfoss\controllers\Index.php:418
+C:\wamp64\www\selfoss\index.php:104
+
+09-08-16 7:48:21 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 7:54:21 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 8:00:21 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 8:06:21 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 8:08:54 Error include(data/html/763.html): failed to open stream: No such file or directory
+C:\wamp64\www\selfoss\helpers\View.php:79
+C:\wamp64\www\selfoss\helpers\View.php:79
+C:\wamp64\www\selfoss\controllers\Index.php:408
+C:\wamp64\www\selfoss\index.php:104
+
+09-08-16 8:09:27 Error ftrss - Failed extracting content
+09-08-16 8:09:28 Error ftrss - Failed extracting content
+09-08-16 8:09:28 Error ftrss - Failed extracting content
+09-08-16 8:09:28 Error ftrss - Failed extracting content
+09-08-16 8:09:31 Error ftrss - Failed extracting content
+09-08-16 8:09:33 Error ftrss - Failed extracting content
+09-08-16 8:09:34 Error ftrss - Failed extracting content
+09-08-16 8:09:34 Error ftrss - Failed extracting content
+09-08-16 8:09:34 Error ftrss - Failed extracting content
+09-08-16 8:09:36 Error ftrss - Failed extracting content
+09-08-16 8:09:36 Error ftrss - Failed extracting content
+09-08-16 8:09:37 Error ftrss - Failed extracting content
+09-08-16 8:09:37 Error ftrss - Failed extracting content
+09-08-16 8:09:37 Error ftrss - Failed extracting content
+09-08-16 8:09:38 Error ftrss - Failed extracting content
+09-08-16 8:09:38 Error ftrss - Failed extracting content
+09-08-16 8:09:38 Error ftrss - Failed extracting content
+09-08-16 8:09:38 Error ftrss - Failed extracting content
+09-08-16 8:09:39 Error ftrss - Failed extracting content
+09-08-16 8:09:43 Error ftrss - Failed extracting content
+09-08-16 8:09:44 Error ftrss - Failed extracting content
+09-08-16 8:09:44 Error ftrss - Failed extracting content
+09-08-16 8:15:51 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 8:21:51 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 8:27:51 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 8:33:52 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-08-16 9:24:19 Error include(data/html/937.html): failed to open stream: No such file or directory
+C:\wamp64\www\selfoss\helpers\View.php:79
+C:\wamp64\www\selfoss\helpers\View.php:79
+C:\wamp64\www\selfoss\controllers\Index.php:408
+C:\wamp64\www\selfoss\index.php:104
+
+09-08-16 9:24:36 Error ftrss - Failed extracting content
+09-08-16 9:30:28 Error Fatal error: syntax error, unexpected '}', expecting ',' or ';'
+
+09-08-16 9:30:47 Error Fatal error: syntax error, unexpected '}', expecting ',' or ';'
+
+09-08-16 9:30:48 Error Fatal error: syntax error, unexpected '}', expecting ',' or ';'
+
+09-08-16 9:31:01 Error Fatal error: syntax error, unexpected '}', expecting ',' or ';'
+
+09-08-16 9:31:19 Error Fatal error: syntax error, unexpected '}', expecting ',' or ';'
+
+09-08-16 9:31:20 Error Fatal error: syntax error, unexpected '}', expecting ',' or ';'
+
+09-08-16 9:31:22 Error Fatal error: syntax error, unexpected '}', expecting ',' or ';'
+
+09-08-16 9:31:36 Error HTTP 404 (GET /home)
+C:\wamp64\www\selfoss\index.php:104
+
+09-08-16 9:37:05 Error Unimplemented method for mysql: numberOfUnreadForTag
