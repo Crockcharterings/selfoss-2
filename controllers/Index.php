@@ -379,6 +379,7 @@ class Index extends BaseController {
         ©2016 微播网络
     </div>
 </footer>
+<span id="htmlid" value="'.$row['id'].'"></span>
 <script src="/../js/jquery-2.1.1.min.js"></script>
 <script src="/../js/app.js"></script>
 <script src="/../js/app2.js"></script>
@@ -404,7 +405,31 @@ class Index extends BaseController {
     public function show()
     {
         $id = \F3::get('PARAMS["id"]');
-        $_SESSION['html'.$id] = 'ko';
         echo $this->view->render('data/html/'.$id.'.html');
+    }
+    public function showid()
+    {
+        $id     = \F3::get('PARAMS["id"]');
+        $guid   = \F3::get('PARAMS["guid"]');
+        $mysqli = new \mysqli(\F3::get('db_host'), \F3::get('db_username'), \F3::get('db_password'), \F3::get('db_database'));
+        $mysqli->set_charset("utf8");
+        $sql    = "SELECT * FROM company where guid = '" . $guid . "'";
+        $result = mysqli_query($mysqli, $sql);
+        while($row = mysqli_fetch_array($result))
+        {
+            if (!empty($row['nums'])) {
+                $data = unserialize($row['nums']);
+                if ($data['time'] == date('Y-m-d', time())) {
+                    $data = serialize( array('time'=>date('Y-m-d'), 'nums' => $data['nums']+1) );
+                    $sql  = "UPDATE company set nums = '".$data."' where guid = '" . $guid . "'";
+                }
+            } else {
+                $data = serialize( array('time'=>date('Y-m-d'), 'nums' => 1) );
+                $sql  = "UPDATE company set nums = '".$data."' where guid = '" . $guid . "'";
+            }
+            var_dump($row);
+            mysqli_query($mysqli, $sql);
+        }
+        mysqli_close($mysqli);  
     }
 }

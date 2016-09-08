@@ -65,6 +65,7 @@ $f3->route('POST /guid',      'controllers\Login->index');    // guid
 $f3->route('GET /guid/logout',      'controllers\Login->logout');    // guid
 $f3->route('GET /html',      'controllers\Index->html');    // html
 $f3->route('GET /html/@id',      'controllers\Index->show');    // html
+$f3->route('GET /htmlid/@id/@guid',      'controllers\Index->showid');    // html
 
 // only for loggedin users or on public mode
 $f3->route('GET /rss',           'controllers\Rss->rss');           // rss
