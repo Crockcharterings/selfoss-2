@@ -31,9 +31,8 @@ htmlid = $('#htmlid').attr('value');
 if (getCookie(htmlid)) {
 } else {
     if(typeof(JsInterface) != "undefined"){
-        qguid = JsInterface.getGuid(); 
-        $.get('/htmlid/'+htmlid+'/'+qguid)
-        alert(qguid);
+        a= JsInterface.getGuid(); 
+        $.get('/htmlid/'+htmlid+'/'+a)
     }
     setCookie('html'+$('#htmlid').attr('value'), 'ko', 1);
 }

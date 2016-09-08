@@ -23,7 +23,11 @@ class Login extends BaseController {
                 echo json_encode(array('ret'=>true));
                 return;
             } else {
-                echo '<script>window.parent.location.href="/?a=a"</script>';
+            	if (!empty($_SESSION['nickname'])) {
+	                echo '<script>window.parent.location.href="/"</script>';
+            	} else {
+            		echo '<script>window.parent.location.href="/?a=a"</script>';
+            	}
             }
 		} else {
 	        echo $this->view->render('templates/guid.phtml');
