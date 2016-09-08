@@ -19,6 +19,9 @@ class Index extends BaseController {
      * @return void
      */
     public function home() {
+        if (isset($_GET['a'])) {
+            echo "<script>alert('该企业号不存在');</script>";
+        }
         // check login
         $this->authentication();
         

@@ -16,7 +16,102 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 		
 		
 		
-	";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:3:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:7:"FOTOMEN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:17:"http://fotomen.cn";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:7:"FOTOMEN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:13:"lastBuildDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 08 Sep 2016 07:52:27 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:5:"zh-CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:29:"http://wordpress.org/?v=3.8.3";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"item";a:5:{i:0;a:6:{s:4:"data";s:42:"
+	";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:3:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:7:"FOTOMEN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:17:"http://fotomen.cn";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:7:"FOTOMEN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:13:"lastBuildDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 08 Sep 2016 08:50:24 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:5:"zh-CN";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:29:"http://wordpress.org/?v=3.8.3";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"item";a:5:{i:0;a:6:{s:4:"data";s:39:"
+		
+		
+		
+		
+		
+				
+		
+		
+		
+
+		
+		
+		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:60:"物理老师用微距摄影展现人眼中的“小宇宙”";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:42:"http://fotomen.cn/2016/09/suren-manvelyan/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:51:"http://fotomen.cn/2016/09/suren-manvelyan/#comments";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 08 Sep 2016 08:50:24 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:2:"MC";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:4:{i:0;a:5:{s:4:"data";s:6:"影廊";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:9:"未分类";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:2;a:5:{s:4:"data";s:6:"艺术";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:3;a:5:{s:4:"data";s:12:"微距摄影";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:27:"http://fotomen.cn/?p=441316";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:11710:"
+							<p>&nbsp;</p>
+<div class="cb-alert cb-white">苏伦·曼维连（Suren Manvelyan）曾经是位怀揣摄影梦想的物理老师，每周都会和其他摄影爱好者交流拍摄经验。几年之后，很多人放弃了梦想，苏伦却始终在坚持。他不但成为了职业摄影师，还没有放弃其它方面的兴趣。这是一个你以为只会在书里或电影里看到的大神级别的人物！</div>
+<p>&nbsp;</p>
+<p >
+<p >
+<p ><a href="http://img.fotomen.cn/2016/09/180664_184057921617392_7212996_n.jpg"><img alt="180664_184057921617392_7212996_n" src="http://img.fotomen.cn/2016/09/180664_184057921617392_7212996_n.jpg" width="525" height="700" /></a></p>
+<p >苏伦肖像，Anahit Martirosyan摄</p>
+<p>&nbsp;</p>
+<p>2006年，苏伦在本地申请了一份摄影师的工作，对方让他去拍摄一个与身体有关的项目。他立刻把握住了这个机会。一年之后，他拿出了自己的拍摄成果，一组文艺复兴范儿的儿童肖像。这组作品成了他在摄影圈的敲门砖。此后，他在众多器材的帮助下，尝试各种类别的摄影，逐渐形成了自己的风格。</p>
+<p>&nbsp;</p>
+<h2 >物理学与天文摄影</h2>
+<p>​</p>
+<p>小时候，苏伦梦想成为一位宇航员。这个梦想在其他地方或许还有实现的可能，但在他的出生地亚美尼亚，未能给他提供这样的条件。当宇航员的梦想破灭后，苏伦转攻物理学，成功拿下博士学位，并获得总统奖。而物理学方面的专业知识，给了他尝试天文摄影的机会。</p>
+<p>&nbsp;</p>
+<p ><a href="http://img.fotomen.cn/2016/09/cosmic-ray-station_0.jpg"><img class="alignnone size-full wp-image-441313" alt="cosmic-ray-station_0" src="http://img.fotomen.cn/2016/09/cosmic-ray-station_0.jpg" width="716" height="800" /></a></p>
+<p >宇宙射线站</p>
+<p>&nbsp;</p>
+<p >“多亏亚美尼亚有迷人的夜景，而且开车不到一小时就能来到合适的观景地。”</p>
+<p>&nbsp;</p>
+<p ><a href="http://img.fotomen.cn/2016/09/the_stone_lake.jpg"><img class="alignnone size-full wp-image-441436" alt="the_stone_lake" src="http://img.fotomen.cn/2016/09/the_stone_lake.jpg" width="720" height="480" /></a></p>
+<p ><a href="http://img.fotomen.cn/2016/09/the_road_to_milky_way.jpg"><img class="alignnone size-full wp-image-441437" alt="the_road_to_milky_way" src="http://img.fotomen.cn/2016/09/the_road_to_milky_way.jpg" width="1019" height="661" /></a></p>
+<p ><a href="http://img.fotomen.cn/2016/09/fb438f8627025.5602c12e5737e.jpg"><img class="alignnone size-full wp-image-441438" alt="fb438f8627025.5602c12e5737e" src="http://img.fotomen.cn/2016/09/fb438f8627025.5602c12e5737e.jpg" width="900" height="467" /></a></p>
+<p ><a href="http://img.fotomen.cn/2016/09/d361038627011.5602c14385749.jpg"><img class="alignnone size-full wp-image-441439" alt="d361038627011.5602c14385749" src="http://img.fotomen.cn/2016/09/d361038627011.5602c14385749.jpg" width="700" height="435" /></a></p>
+<p>&nbsp;</p>
+<p>苏伦是“世界那么大，我想去看看”的坚定实践者，一有机会就带着相机四处出游。因此他的作品中涵盖了多种多样的景象。他会根据天气来推断当天的落日是否值得拍摄：“如果天气一整天都不稳定，时晴时阴，那么这一天的落日可能会很美。”</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2 >音乐与教育</h2>
+<p>&nbsp;</p>
+<p>苏伦十几年前就是位老师，至今仍在教育岗位上。“教职提供了可观的闲暇时间，工作与爱好截然分开，这很重要。有个副业对我来说也很有意义。”曼维连还接受过七年音乐训练，会演奏五种乐器：吉他、大提琴、竖琴、钢琴和长笛。没成为职业摄影师之前，他曾经给人教过八年音乐课。</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2 >微距摄影</h2>
+<p>&nbsp;</p>
+<p>一提起微距摄影，苏伦便双眼放光。这是他最喜爱的摄影种类之一：“通过微距摄影，你能看到肉眼无法发现的事物。不出家门，你就能探索整个微观世界。”微观世界的色彩和纹理让人着迷。对微观世界的探索，随时随地都可展开，这非常对苏伦的胃口。他最著名的组图“Your Beautiful Eyes”便属于微距摄影。</p>
+<p>&nbsp;</p>
+<p ><a href="http://img.fotomen.cn/2016/09/surenmanvelyan-emmagrigoryan-thiternik-fstoppers-lead-image.jpg"><img class="alignnone size-full wp-image-441291" alt="surenmanvelyan-emmagrigoryan-thiternik-fstoppers-lead-image" src="http://img.fotomen.cn/2016/09/surenmanvelyan-emmagrigoryan-thiternik-fstoppers-lead-image.jpg" width="701" height="405" /></a></p>
+<p >Your Beautiful Eyes</p>
+<p>&nbsp;</p>
+<p>作为一个拍摄题材极其广泛的摄影师，苏伦在这个项目上倾注的精力是不同寻常的。这组展示眼睛的构造、纹理和色彩的作品，2010年首发于Behance网站，一发布便获得三百多个zan。三个月后，当苏伦忙完其他事情，回过头来再看这组图的时候，发现每天浏览量都会增加十万到十五万，没过多久总浏览量就突破四百万大关，成为Behance史上最受欢迎的作品之一，并登上《国家地理》、《每日邮报》、《卫报》、BBC等多家重要媒体。</p>
+<p>&nbsp;</p>
+<p ><a style="line-height: 1.5em;" href="http://img.fotomen.cn/2016/09/extreme-close-up-of-human-eye-macro-suren-manvelyan-17.jpg"><img alt="extreme-close-up-of-human-eye-macro-suren-manvelyan-17" src="http://img.fotomen.cn/2016/09/extreme-close-up-of-human-eye-macro-suren-manvelyan-17.jpg" width="569" height="700" /></a></p>
+<p ><a style="line-height: 1.5em;" href="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-14.jpg"><img class="aligncenter" alt="macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-14" src="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-14.jpg" width="800" height="569" /></a></p>
+<p> <a href="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-13.jpg"><img class="aligncenter" alt="macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-13" src="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-13.jpg" width="800" height="800" /></a></p>
+<p><a href="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-12.jpg"><img class="aligncenter" alt="macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-12" src="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-12.jpg" width="800" height="800" /></a></p>
+<p>&nbsp;</p>
+<p><a href="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-11.jpg"><img class="aligncenter" alt="macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-11" src="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-11.jpg" width="800" height="497" /></a></p>
+<p><a href="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-10.jpg"><img class="aligncenter" alt="macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-10" src="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-10.jpg" width="800" height="792" /></a></p>
+<p><a href="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-9.jpg"><img class="aligncenter" alt="macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-9" src="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-9.jpg" width="800" height="830" /></a></p>
+<p><a href="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-8.jpg"><img class="aligncenter" alt="macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-8" src="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-8.jpg" width="800" height="653" /></a></p>
+<p>&nbsp;</p>
+<p><a href="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-7.jpg"><img class="aligncenter" alt="macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-7" src="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-7.jpg" width="800" height="730" /></a></p>
+<p>&nbsp;</p>
+<p><a href="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-6.jpg"><img class="aligncenter" alt="macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-6" src="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-6.jpg" width="800" height="679" /></a></p>
+<p><a href="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-5.jpg"><img class="aligncenter" alt="macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-5" src="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-5.jpg" width="800" height="590" /></a></p>
+<p>&nbsp;</p>
+<p><a href="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-4.jpg"><img class="aligncenter" alt="macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-4" src="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-4.jpg" width="800" height="647" /></a></p>
+<p>&nbsp;</p>
+<p><a href="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-3.jpg"><img class="aligncenter" alt="macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-3" src="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-3.jpg" width="800" height="691" /></a></p>
+<p><a href="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-2.jpg"><img class="aligncenter" alt="macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-2" src="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-2.jpg" width="800" height="621" /></a></p>
+<p><a href="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-1.jpg"><img class="aligncenter" alt="macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-1" src="http://img.fotomen.cn/2016/09/macro-close-up-photos-of-animal-eyes-by-suren-manvelyan-1.jpg" width="800" height="604" /></a> <a href="http://img.fotomen.cn/2016/09/lama.jpg"><img class="aligncenter" alt="lama" src="http://img.fotomen.cn/2016/09/lama.jpg" width="600" height="653" /></a></p>
+<p>&nbsp;</p>
+<blockquote>
+<p >“拍摄这些照片时，我没有什么特殊的目的，完全没想到会这么火。”</p>
+</blockquote>
+<p>&nbsp;</p>
+<p>随着时间推移，苏伦决定继续挖掘这个题材，拍摄动物的眼睛。这需要更多的准备。因为你可以请求一个人老老实实地待着让你拍摄，但动物就不行了。苏伦得到多方的支持与许可，在他人帮忙按住动物的情况下迅速完成拍摄。这些挑战使他成了拍摄这类作品的大师。用他自己的话说：</p>
+<p>&nbsp;</p>
+<blockquote>
+<p >“现在我闭着眼睛都能给眼睛拍照。”</p>
+</blockquote>
+<h2></h2>
+<h2></h2>
+<h2 >未来的计划</h2>
+<p>&nbsp;</p>
+<p>眼下苏伦主要拍摄婚礼，偶尔拍摄星空和风光。他仍然痴迷于动物之眼，希望能得到资助，环游世界，拍摄更多物种的眼睛。这可能会花些时间，但他希望最终能出版两卷本图集，向人们展示这种奇异之美。曼维连不愿公开拍摄这种作品的方法。他还有条规矩：绝不拍摄影师的眼睛。真想知道，如果他愿意拍摄我的眼睛，会是什么样子呢？</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:42:"
 		
 		
 		
@@ -127,7 +222,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 <p >作者：Money  |  编辑：MC</p>
 <p >
 
-				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:45:"
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:45:"
 		
 		
 		
@@ -173,7 +268,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 适马中国唯一官方网站: www.sigma-photo.com.cn<br />
 SIGMA GLOBAL VISION: www.sigma-global.com</p>
 
-				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:42:"
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:42:"
 		
 		
 		
@@ -348,7 +443,7 @@ Untitled200, 2010, by Giovanni Gastel</p>
 <p >
 <p >作者：+7  |  编辑：MC</p>
 
-				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:45:"
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:45:"
 		
 		
 		
@@ -450,219 +545,4 @@ Untitled200, 2010, by Giovanni Gastel</p>
 <p><a href="http://img.fotomen.cn/2016/09/5835.tmp_.png"><img class="alignnone size-full wp-image-441228" alt="5835.tmp" src="http://img.fotomen.cn/2016/09/5835.tmp_.png" width="647" height="971" /></a> <a href="http://img.fotomen.cn/2016/09/AA05.tmp_1.png"><img class="alignnone size-large wp-image-441229" alt="AA05.tmp" src="http://img.fotomen.cn/2016/09/AA05.tmp_1-750x499.png" width="750" height="499" /></a><a href="http://img.fotomen.cn/2016/09/E741.tmp_.png"><img class="alignnone size-large wp-image-441226" alt="E741.tmp" src="http://img.fotomen.cn/2016/09/E741.tmp_-750x499.png" width="750" height="499" /></a></p>
 <p>&nbsp;</p>
 
-				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:39:"
-		
-		
-		
-		
-		
-				
-		
-		
-		
-
-		
-		
-		";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:65:"他边旅行边拍了40个国家的菜市场，准备出一本书";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:34:"http://fotomen.cn/2016/09/markets/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"comments";a:1:{i:0;a:5:{s:4:"data";s:43:"http://fotomen.cn/2016/09/markets/#comments";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 07 Sep 2016 16:49:17 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:2:"MC";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:4:{i:0;a:5:{s:4:"data";s:12:"摄影之友";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:9:"未分类";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:2;a:5:{s:4:"data";s:6:"旅行";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:3;a:5:{s:4:"data";s:6:"集市";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:27:"http://fotomen.cn/?p=441054";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:23460:"
-							<p>&nbsp;</p>
-<div class="cb-alert cb-white">去远方可以说是每个摄影师的梦想，也是去往自由的必经之路。然而对于旅行来讲，难能可贵的是暂时放下手中的相机，去享受、甚至融入一场真挚的旅行，历经那么多风景，友君想问问各位，在你眼中究竟什么样的旅行才算有『<strong>温度』</strong>？</div>
-<p>&nbsp;</p>
-<p >在海边的咖啡馆，看海潮涌来，心绪随之波澜起伏？</p>
-<p >▼</p>
-<p ><a href="http://img.fotomen.cn/2016/09/微信截图_20160821163500.png"><img class="alignnone size-full wp-image-441262" alt="微信截图_20160821163500" src="http://img.fotomen.cn/2016/09/微信截图_20160821163500.png" width="903" height="610" /></a></p>
-<p>&nbsp;</p>
-<p ><span style="line-height: 1.5em;">发现路途中独特的景色，用相机将它收藏？</span></p>
-<p >▼</p>
-<p ><a href="http://img.fotomen.cn/2016/09/83566635701556135.jpg"><img class="alignnone size-full wp-image-441234" alt="83566635701556135" src="http://img.fotomen.cn/2016/09/83566635701556135.jpg" width="1024" height="683" /></a></p>
-<p>&nbsp;</p>
-<p ><span style="line-height: 1.5em;">是在途中邂逅志同道合的驴友？</span></p>
-<p >▼</p>
-<p ><a href="http://img.fotomen.cn/2016/09/90607642535083234.jpg"><img class="alignnone size-full wp-image-441235" alt="90607642535083234" src="http://img.fotomen.cn/2016/09/90607642535083234.jpg" width="1280" height="720" /></a></p>
-<p>&nbsp;</p>
-<p ><span style="line-height: 1.5em;">在晨光浸没的马达加斯加欣赏日出？</span></p>
-<p >▼</p>
-<p ><a href="http://img.fotomen.cn/2016/09/晨光浸没的马达加斯加.jpg"><img class="alignnone size-full wp-image-441270" alt="晨光浸没的马达加斯加" src="http://img.fotomen.cn/2016/09/晨光浸没的马达加斯加.jpg" width="1280" height="720" /></a></p>
-<p>&nbsp;</p>
-<p ><span style="line-height: 1.5em;">在哥伦比亚冰原上，愉快地吃个番茄？</span></p>
-<p >▼</p>
-<p ><a href="http://img.fotomen.cn/2016/09/在哥伦比亚冰原愉快地吃个番茄.jpg"><img class="alignnone size-full wp-image-441257" alt="在哥伦比亚冰原愉快地吃个番茄" src="http://img.fotomen.cn/2016/09/在哥伦比亚冰原愉快地吃个番茄.jpg" width="1280" height="720" /></a></p>
-<p>&nbsp;</p>
-<p >还是在圣保罗的集市，像当地人一样享受特有的闲适？</p>
-<p >▼</p>
-<p ><a href="http://img.fotomen.cn/2016/09/611496809853062705.jpg"><img class="alignnone size-full wp-image-441277" alt="611496809853062705" src="http://img.fotomen.cn/2016/09/611496809853062705.jpg" width="1280" height="720" /></a></p>
-<p style="text-align: left;">关于旅行的温度，一千个人会有一千种答案，对<strong>“无二之旅”</strong>旅行定制公司合伙人<strong>雷涛</strong>来讲，他眼中最有温度的旅行地点是『<strong>集市』。</strong></p>
-<p style="text-align: left;">身为专业旅行定制师，同时也是旅游摄影达人，雷涛对集市有一种特别的情结。集市无处不在、包容万象。它们散落在城市或乡村的各个角落，充满了生活的气息。</p>
-<p ><a href="http://img.fotomen.cn/2016/09/382672163600123226.jpg"><img class="alignnone size-full wp-image-441238" alt="382672163600123226" src="http://img.fotomen.cn/2016/09/382672163600123226.jpg" width="720" height="1280" /></a></p>
-<p ><a href="http://img.fotomen.cn/2016/09/675711487772391617.jpg"><img class="alignnone size-full wp-image-441242" alt="675711487772391617" src="http://img.fotomen.cn/2016/09/675711487772391617.jpg" width="1024" height="670" /></a></p>
-<p ><a href="http://img.fotomen.cn/2016/09/微信截图_20160821163951.png"><img class="alignnone size-full wp-image-441250" alt="微信截图_20160821163951" src="http://img.fotomen.cn/2016/09/微信截图_20160821163951.png" width="833" height="559" /></a></p>
-<p>&nbsp;</p>
-<p style="text-align: left;">——曾经留学、旅居欧洲多年的雷涛，目前已经行走过40多个国家，行程加起来可以绕地球好几圈……</p>
-<p style="text-align: left;">“无二之旅”和雷涛引发了<strong>“旅行定制师”</strong>这个概念的热度，同时，他也在不经意中发起了一种<strong>旅行摄影的新理念：</strong><strong>自然真实、从容逸致。</strong>雷涛透露，目前他正在策划一本『集市主题』的旅行书。下面，就让我们领略一下雷涛眼中的美丽集市。</p>
-<p >毛里求斯首都路易港的集市</p>
-<p >▼</p>
-<p ><a href="http://img.fotomen.cn/2016/09/77332062217276504.jpg"><img class="alignnone size-full wp-image-441233" alt="77332062217276504" src="http://img.fotomen.cn/2016/09/77332062217276504.jpg" width="1280" height="720" /></a></p>
-<section>
-<section>
-<section>
-<section>
-<section></section>
-<section></section>
-</section>
-</section>
-</section>
-</section>
-<h2></h2>
-<p>&nbsp;</p>
-<h2 ><strong>集市故事·路线推荐</strong></h2>
-<p style="text-align: left;"><strong>／</strong><strong></strong>雷涛拍集市的原因很简单，他说集市里有他想要的一切。当看到或码放整齐，或随意摆放的当地的蔬菜和鲜花的时候，便会遇到旅途中最丰富的色彩。</p>
-<p >雷涛所在的“无二之旅”与CCTV9合拍的纪录片《旅行定制师》，目前已经开播了</p>
-<p >▼</p>
-<p ><a href="http://img.fotomen.cn/2016/09/21.jpg"><img class="alignnone size-full wp-image-441292" alt="2" src="http://img.fotomen.cn/2016/09/21.jpg" width="1280" height="720" /></a></p>
-<p>&#8220;当你看到当地人怀里抱着刚刚买的法棍，手里提了一捆卷心菜，在一个蔬菜摊认真挑选一颗番茄的时候，你会遇到最地道的当地生活，每一张集市照片的拍摄，都有一个当地的故事在发生。&#8221;</p>
-<p >哥本哈根一家花店和花店老板</p>
-<p >▼</p>
-<p ><a href="http://img.fotomen.cn/2016/09/754557219555987907.jpg"><img class="alignnone size-full wp-image-441243" alt="754557219555987907" src="http://img.fotomen.cn/2016/09/754557219555987907.jpg" width="1005" height="669" /></a></p>
-<p ><a href="http://img.fotomen.cn/2016/09/474571305365561909.jpg"><img class="alignnone size-full wp-image-441239" alt="474571305365561909" src="http://img.fotomen.cn/2016/09/474571305365561909.jpg" width="1011" height="675" /></a></p>
-<p ><span style="line-height: 1.5em;"> </span></p>
-<h2 ><strong>  邂逅“百岁”小镇集市 </strong></h2>
-<p style="text-align: left;"><strong><strong>／</strong>那么他究竟是怎样爱上集市的？雷涛告诉我们一个有趣的故事。</strong></p>
-<p style="text-align: left;">旅居欧洲时，雷涛途经法国的芒通镇，他惊喜地发现这个法国南部小镇离意大利其实非常近。在询问了卖柠檬的当地人之后，雷涛得知有一辆公车可以直接去往历史悠久的意大利小镇——温蒂米利亚。</p>
-<p >而当他到了这个地方，突然像发现了一个新大陆</p>
-<p >▼</p>
-<p ><a href="http://img.fotomen.cn/2016/09/257419977363044967.jpg"><img class="alignnone size-full wp-image-441281" alt="257419977363044967" src="http://img.fotomen.cn/2016/09/257419977363044967.jpg" width="4683" height="2855" /></a></p>
-<blockquote>
-<p ><strong>温蒂米利亚“星期五集市”</strong></p>
-<p >地点：意大利</p>
-<p >路线：从法国南部芒通镇坐公车直接前往</p>
-</blockquote>
-<p style="text-align: left;">不同于南法偏黄色的建筑，温蒂米利亚镇的老城是彩色的，就在地中海边的山上，一层又一层。雷涛去的那天刚好又是星期五，误打误撞碰到了温蒂米利亚著名的<strong>“星期五集市”</strong>。</p>
-<p ><a href="http://img.fotomen.cn/2016/09/160259100742772316.jpg"><img class="alignnone size-full wp-image-441280" alt="160259100742772316" src="http://img.fotomen.cn/2016/09/160259100742772316.jpg" width="4896" height="3304" /></a></p>
-<p ><a href="http://img.fotomen.cn/2016/09/821881777414123704.jpg"><img class="alignnone size-full wp-image-441285" alt="821881777414123704" src="http://img.fotomen.cn/2016/09/821881777414123704.jpg" width="4896" height="3672" /></a></p>
-<p style="text-align: left;">后来回到德国之后，查询这个小镇的信息时雷涛才发现，这个“星期五集市”是如此的有名，集市起源于1920年！在加富尔街和热那亚大街上挤满了商贩，有从法国来赶集的，还有从摩纳哥赶来的，甚至有从瑞士来赶集的人。<strong>那一刻，他就爱上了集市。</strong><strong> </strong></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h2 ><strong style="line-height: 1.5em;">在非洲岛国的菜市场乐活  </strong></h2>
-<p style="text-align: left;"><strong>／</strong>当雷涛走进马达加斯加穆龙达瓦菜市场的那个瞬间，就像看到马达加斯加猴面包树的日落时那样感动，这里的人们虽然生活贫穷，但依然乐观的享受每个时刻。</p>
-<p >在穆龙达瓦生活，一切节奏都会慢下来</p>
-<p >▼</p>
-<p ><a href="http://img.fotomen.cn/2016/09/382651562121308572.jpg"><img class="alignnone size-full wp-image-441266" alt="382651562121308572" src="http://img.fotomen.cn/2016/09/382651562121308572.jpg" width="1280" height="720" /></a></p>
-<blockquote><p>“我去<strong>马达加斯加</strong>旅行时，跟我的司机说想要去他们的菜市场逛逛。他觉得很惊讶，为什么要去菜市场，但他还是带着我去逛了。”</p></blockquote>
-<p >穆龙达瓦菜市场的集市</p>
-<p >▼</p>
-<p ><a href="http://img.fotomen.cn/2016/09/马达加斯加的旅店.jpg"><img class="alignnone size-full wp-image-441271" alt="马达加斯加的旅店" src="http://img.fotomen.cn/2016/09/马达加斯加的旅店.jpg" width="1280" height="720" /></a></p>
-<p ><a href="http://img.fotomen.cn/2016/09/657227559443382738.jpg"><img class="alignnone size-full wp-image-441268" alt="657227559443382738" src="http://img.fotomen.cn/2016/09/657227559443382738.jpg" width="1280" height="794" /></a></p>
-<blockquote>
-<p ><strong>穆龙达瓦菜市场的集市</strong></p>
-<p >地点：马达加斯加，穆龙达瓦河地农产品集散地</p>
-<p >路线：从首都塔那那利佛乘坐飞机前往</p>
-</blockquote>
-<p > <a href="http://img.fotomen.cn/2016/09/849988949379774091.jpg"><img class="alignnone size-full wp-image-441269" alt="849988949379774091" src="http://img.fotomen.cn/2016/09/849988949379774091.jpg" width="1280" height="774" /></a></p>
-<p ><a href="http://img.fotomen.cn/2016/09/359779189178079516.jpg"><img class="alignnone size-full wp-image-441293" alt="359779189178079516" src="http://img.fotomen.cn/2016/09/359779189178079516.jpg" width="1280" height="720" /></a></p>
-<p ><a href="http://img.fotomen.cn/2016/09/600330458621151048.jpg"><img class="alignnone size-full wp-image-441294" alt="600330458621151048" src="http://img.fotomen.cn/2016/09/600330458621151048.jpg" width="1280" height="720" /></a></p>
-<p style="text-align: left;">他们卖着不到一块钱人民币一只的超级大螃蟹，他们卖着我没见过的蔬菜和鱼，摊主与摊主之前开着我听不懂的玩笑然后互相哈哈大笑起来，旅行立刻就变得鲜活起来，这就是旅行的美好之处。</p>
-<p >穆龙达瓦的鱼市</p>
-<p >▼</p>
-<p ><a href="http://img.fotomen.cn/2016/09/416835430249312161.jpg"><img alt="416835430249312161" src="http://img.fotomen.cn/2016/09/416835430249312161.jpg" width="1280" height="720" /></a></p>
-<h2 ><strong>  发现另一个迪拜  </strong></h2>
-<h2 ></h2>
-<p style="text-align: left;"><strong>／</strong>“我在<strong>迪拜老城</strong>的香料市场和鱼市的旅行也非常难忘，似乎很多人对于迪拜的认知都只停留在“豪”上，但当你坐着一艘摆渡船，从奢华的高楼大厦到了老城区的时候，你就会发现另一个迪拜。”</p>
-<p >迪拜老城的黄金市场、香料市场和鱼市</p>
-<p >▼</p>
-<p ><a href="http://img.fotomen.cn/2016/09/618240714835389225.jpg"><img class="alignnone size-full wp-image-441241" alt="618240714835389225" src="http://img.fotomen.cn/2016/09/618240714835389225.jpg" width="1280" height="854" /></a></p>
-<p ><a href="http://img.fotomen.cn/2016/09/374594248184919866.jpg"><img class="alignnone size-full wp-image-441237" alt="374594248184919866" src="http://img.fotomen.cn/2016/09/374594248184919866.jpg" width="854" height="1280" /></a></p>
-<p ><a href="http://img.fotomen.cn/2016/09/微信截图_20160821163807.png"><img class="alignnone size-full wp-image-441263" alt="微信截图_20160821163807" src="http://img.fotomen.cn/2016/09/微信截图_20160821163807.png" width="1093" height="608" /></a></p>
-<blockquote>
-<p ><strong>集市：迪拜老城的的香料市场和鱼市</strong></p>
-<p >地点：迪拜老城区</p>
-<p >路线：从繁华新城区乘坐摆渡船到达</p>
-</blockquote>
-<p style="text-align: left;">老城阿拉伯的矮房子会让人立刻想起《一千零一夜》的故事，香料市场里一家挨一家的香料店简直就是集市爱好者的天堂。</p>
-<p >从哈利法塔到迪拜老城，每一处都是真真切切的阿拉伯世界</p>
-<p >▼</p>
-<p ><a href="http://img.fotomen.cn/2016/09/849460153496131498.jpg"><img alt="849460153496131498" src="http://img.fotomen.cn/2016/09/849460153496131498.jpg" width="1280" height="808" /></a></p>
-<p style="text-align: left;">“当我又走了走发现那个大鱼市的时候，一个又一个巴基斯坦的鱼贩对我喊着朋友朋友，拿起他们的大鱼要进我的镜头，那一刻不是我想拍什么照片，而是他们想成为你镜头里的主角，这就是集市的魅力。”</p>
-<p>&nbsp;</p>
-<section>
-<section>
-<section>
-<h2 ><strong>  拍摄建议</strong></h2>
-</section>
-</section>
-</section>
-<p>&nbsp;</p>
-<p style="text-align: left;"><strong>／</strong>对于在不同的集市里拍摄照片，雷涛认为将<strong>“自然从容”</strong>的旅行态度贯彻到底就好——在集市里拍摄只用把自己想象成当地人就好了，不用刻意地去想要去拍摄什么，而是去看此刻正在发生什么。</p>
-<p >留尼汪圣保罗集市</p>
-<p >▼</p>
-<p ><a href="http://img.fotomen.cn/2016/09/611496809853062705.jpg"><img class="alignnone size-full wp-image-441277" alt="611496809853062705" src="http://img.fotomen.cn/2016/09/611496809853062705.jpg" width="1280" height="720" /></a></p>
-<p ><a href="http://img.fotomen.cn/2016/09/DSC06792.jpg"><img alt="DSC06792" src="http://img.fotomen.cn/2016/09/DSC06792.jpg" width="6000" height="3376" /></a></p>
-<p>&nbsp;</p>
-<p >日惹集市</p>
-<p >▼</p>
-<p ><a href="http://img.fotomen.cn/2016/09/332324447101368834.jpg"><img class="alignnone size-full wp-image-441236" alt="332324447101368834" src="http://img.fotomen.cn/2016/09/332324447101368834.jpg" width="1280" height="856" /></a></p>
-<p style="text-align: left;">这样你可能会拍到两个老熟人他们在集市上相遇时的场景，你会看到一个卖洋葱的人在给买主介绍的场景，你会看到还有卖面包的老板正在织着毛衣……</p>
-<p style="text-align: left;">这些拍到镜头里都是美好的故事，当然集市里也是美食的天堂，比如日本的各个市场。去日本旅行，午餐和晚餐都会在某个大市场里解决，所以不仅可以美美的吃一顿，还可以拍到正字制作的美食，那个卖鱼的老板可能就是个很厉害的大厨。</p>
-<p >可以饱餐一顿的日本集市</p>
-<p >▼</p>
-<p ><a href="http://img.fotomen.cn/2016/09/149729453919738992.jpg"><img class="alignnone size-full wp-image-441274" alt="149729453919738992" src="http://img.fotomen.cn/2016/09/149729453919738992.jpg" width="1280" height="784" /></a></p>
-<p ><a href="http://img.fotomen.cn/2016/09/83279194106462213.jpg"><img class="alignnone size-full wp-image-441273" alt="83279194106462213" src="http://img.fotomen.cn/2016/09/83279194106462213.jpg" width="1280" height="720" /></a></p>
-<p ><a href="http://img.fotomen.cn/2016/09/578935846797408559.jpg"><img class="alignnone size-full wp-image-441275" alt="578935846797408559" src="http://img.fotomen.cn/2016/09/578935846797408559.jpg" width="1280" height="720" /></a></p>
-<p ><a href="http://img.fotomen.cn/2016/09/892180276002862126.jpg"><img class="alignnone size-full wp-image-441276" alt="892180276002862126" src="http://img.fotomen.cn/2016/09/892180276002862126.jpg" width="2208" height="1656" /></a></p>
-<p ><a href="http://img.fotomen.cn/2016/09/722727071545851392.jpg"><img class="alignnone size-full wp-image-441284" alt="722727071545851392" src="http://img.fotomen.cn/2016/09/722727071545851392.jpg" width="4912" height="2760" /></a></p>
-<p ><a href="http://img.fotomen.cn/2016/09/648707651699530154.jpg"><img class="alignnone size-full wp-image-441283" alt="648707651699530154" src="http://img.fotomen.cn/2016/09/648707651699530154.jpg" width="4912" height="2760" /></a></p>
-<p ><a href="http://img.fotomen.cn/2016/09/371762279305151781.jpg"><img class="alignnone size-full wp-image-441282" alt="371762279305151781" src="http://img.fotomen.cn/2016/09/371762279305151781.jpg" width="4912" height="2760" /></a></p>
-<p ><span style="line-height: 1.5em;"> </span></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p ><span style="line-height: 1.5em;"> </span><strong style="line-height: 1.5em;">《摄影之友》对话雷涛  </strong></p>
-<p><strong>友君：怎样在你眼中才算是有温度的旅行？你个人偏爱拍摄世界各地的集市，是不是也和这种情结有关系？</strong></p>
-<p>&nbsp;</p>
-<p><strong>雷涛：</strong>我认为的一场有温度的旅行应该是像当地人一样在当地生活一阵子，我们和他们一样去买日常的生活食材，一样在傍晚饭后去散步，遵循自己内心的想法去享受一场旅行，而不是紧赶慢赶的那样。自由和舒服的旅行就是有温度的旅行，这也是我们现在做无二之旅自始至终遵循的理念。</p>
-<p ><a href="http://img.fotomen.cn/2016/09/微信截图_20160821194931.png"><img class="alignnone size-full wp-image-441253" alt="微信截图_20160821194931" src="http://img.fotomen.cn/2016/09/微信截图_20160821194931.png" width="875" height="582" /></a></p>
-<p >济州市场上的琳琅满目</p>
-<p ><a href="http://img.fotomen.cn/2016/09/微信截图_20160821195006.png"><img class="alignnone size-full wp-image-441255" alt="微信截图_20160821195006" src="http://img.fotomen.cn/2016/09/微信截图_20160821195006.png" width="941" height="529" /></a></p>
-<p >苏腊巴亚的集市</p>
-<p>&nbsp;</p>
-<p><strong>友君：</strong><strong>集市上除了感受当地的生活气息和人文温度，还有什么好玩的新鲜事物可供拍摄呢？或者可以推荐一下能够拍摄此类题材的旅行地。</strong></p>
-<p><strong> </strong></p>
-<p><strong><strong>雷涛：</strong></strong>当然有，美食就是一大拍摄主题。谁会不喜欢给美食拍张照呢？如果想拍到美食和菜市场最完美的融合，就一定要去巴塞罗那的流浪者大街的博盖利亚市场，那儿就是美食和菜市场的最顶级必去地。</p>
-<p>&nbsp;</p>
-<p>新鲜的食材、超级棒的果汁，各种各样的小餐馆，简直太让人难忘了，这是让我最想再去巴塞罗那的唯一理由，这里真的就是视觉和味觉上的最大享受。</p>
-<p><a href="http://img.fotomen.cn/2016/09/890099463850154049.jpg"><img class="alignnone size-full wp-image-441287" alt="890099463850154049" src="http://img.fotomen.cn/2016/09/890099463850154049.jpg" width="4896" height="3672" /></a></p>
-<p><a href="http://img.fotomen.cn/2016/09/503104794491681848.jpg"><img class="alignnone size-full wp-image-441240" alt="503104794491681848" src="http://img.fotomen.cn/2016/09/503104794491681848.jpg" width="1280" height="854" /></a></p>
-<p >西班牙集市上的美食</p>
-<p ><a href="http://img.fotomen.cn/2016/09/罗马的老酒馆.jpg"><img class="alignnone size-full wp-image-441246" alt="罗马的老酒馆" src="http://img.fotomen.cn/2016/09/罗马的老酒馆.jpg" width="1280" height="960" /></a><br />
-罗马的老酒馆</p>
-<p><strong>友君：听说在国外很流行到跳蚤市场淘东西，可以跟我们聊聊你的“海淘”经历吗？</strong></p>
-<p><strong> </strong></p>
-<p>&nbsp;</p>
-<p><strong><strong>雷涛：</strong></strong>说到淘东西，太有得聊了。我先推荐全欧洲最大的跳蚤市场，就在德国波恩，因为跳蚤市场就在莱茵河边上，所以被叫做<strong>“莱茵河跳蚤市场”</strong>。</p>
-<p>&nbsp;</p>
-<p>每年4月到10月之间，每月的第三个星期六开张，每年只有七次，从1973年到现在有近40年的历史了。想要逛完全部的摊位得走5公里的路程，最热闹的时候会有5万人同时来赶集。</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p ><a href="http://img.fotomen.cn/2016/09/冰岛.jpg"><img class="alignnone size-full wp-image-441258" alt="冰岛" src="http://img.fotomen.cn/2016/09/冰岛.jpg" width="4912" height="2760" /></a></p>
-<p >在冰岛的复古商店里留影</p>
-<p>&nbsp;</p>
-<p>我的新书里有一篇《在欧洲赶集》就是写的我期莱茵河跳蚤市场遇见的各种人和事，实在太值得推荐了，对了如果从早逛到晚的话，到了晚上根本都不用问价格了，因为摊主会把他所有的东西都免费送你了，我那次真是收获满满，手里根本放不下任何东西了。</p>
-<p>&nbsp;</p>
-<p>很多都是摊主们免费送的，我最喜欢的是那套牛奶罐，太喜欢了，可惜回国的时候没有办法带回来，到现在我还念念不忘，想着下次去还要再去莱茵河跳蚤市场，我之前去巴黎的跳蚤市场都觉得完全不及这里。</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p ><a href="http://img.fotomen.cn/2016/09/恩德比镇跳蚤市场.jpg"><img class="alignnone size-full wp-image-441265" alt="恩德比镇跳蚤市场" src="http://img.fotomen.cn/2016/09/恩德比镇跳蚤市场.jpg" width="6000" height="3376" /></a></p>
-<p ><a href="http://img.fotomen.cn/2016/09/871956314809043512.jpg"><img class="alignnone size-full wp-image-441264" alt="871956314809043512" src="http://img.fotomen.cn/2016/09/871956314809043512.jpg" width="1280" height="778" /></a></p>
-<p >恩德比镇跳蚤市场上淘到的古董汤匙</p>
-<p>对了，有很多很幸运的人在跳蚤市场都会淘到很多好货，后来他们才发现都是古董名画什么的。冰岛雷克雅未克的复古店和比利时布鲁日的复古集市都特别值得待半天去淘货。</p>
-<p>&nbsp;</p>
-<p ><a href="http://img.fotomen.cn/2016/09/毛里求斯鱼市.jpg"><img class="alignnone size-full wp-image-441272" alt="毛里求斯鱼市" src="http://img.fotomen.cn/2016/09/毛里求斯鱼市.jpg" width="6000" height="3376" /></a></p>
-<p >毛里求斯鱼市</p>
-<p>&nbsp;</p>
-<p><strong>友君：听说你的新书即将在年底出版，可以跟广大影友透露一下，这本书的一些内容吗？</strong></p>
-<p>&nbsp;</p>
-<p><strong><strong>雷涛：</strong></strong>我的新书会比较类似陈丹青的欧洲散记和木心的作品，希望能推出旅途里的每场具有生活气息的故事给每一位读者，我会写到我以前在巴伐利亚生活时候经常去的慕尼黑的那个维多利亚集市。</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p >摄影：雷涛  |  采访：MC</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"href";s:23:"http://fotomen.cn/feed/";s:3:"rel";s:4:"self";s:4:"type";s:19:"application/rss+xml";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:44:"http://purl.org/rss/1.0/modules/syndication/";a:2:{s:12:"updatePeriod";a:1:{i:0;a:5:{s:4:"data";s:6:"hourly";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:15:"updateFrequency";a:1:{i:0;a:5:{s:4:"data";s:1:"1";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:10:{s:6:"server";s:13:"Tengine/2.0.3";s:4:"date";s:29:"Thu, 08 Sep 2016 08:07:33 GMT";s:12:"content-type";s:34:"application/rss+xml; charset=UTF-8";s:10:"connection";s:10:"keep-alive";s:12:"x-powered-by";s:10:"PHP/5.3.17";s:16:"content-encoding";s:4:"gzip";s:4:"vary";s:23:"Accept-Encoding, Cookie";s:10:"x-pingback";s:28:"http://fotomen.cn/xmlrpc.php";s:4:"etag";s:34:""e345ccf022525eeb86d52d916c5dd88e"";s:14:"wp-super-cache";s:24:"Served legacy cache file";}s:5:"build";s:14:"20121030175911";}
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"href";s:23:"http://fotomen.cn/feed/";s:3:"rel";s:4:"self";s:4:"type";s:19:"application/rss+xml";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:44:"http://purl.org/rss/1.0/modules/syndication/";a:2:{s:12:"updatePeriod";a:1:{i:0;a:5:{s:4:"data";s:6:"hourly";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:15:"updateFrequency";a:1:{i:0;a:5:{s:4:"data";s:1:"1";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:10:{s:6:"server";s:13:"Tengine/2.0.3";s:4:"date";s:29:"Thu, 08 Sep 2016 09:22:48 GMT";s:12:"content-type";s:34:"application/rss+xml; charset=UTF-8";s:10:"connection";s:10:"keep-alive";s:12:"x-powered-by";s:10:"PHP/5.3.17";s:16:"content-encoding";s:4:"gzip";s:4:"vary";s:23:"Accept-Encoding, Cookie";s:10:"x-pingback";s:28:"http://fotomen.cn/xmlrpc.php";s:4:"etag";s:34:""226939945109513c90a0c05c46c7c393"";s:14:"wp-super-cache";s:24:"Served legacy cache file";}s:5:"build";s:14:"20121030175911";}

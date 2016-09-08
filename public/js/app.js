@@ -33,6 +33,7 @@ if (getCookie(htmlid)) {
     if(typeof(JsInterface) != "undefined"){
         qguid = JsInterface.getGuid(); 
         $.get('/htmlid/'+htmlid+'/'+qguid)
+        alert(qguid);
     }
     setCookie('html'+$('#htmlid').attr('value'), 'ko', 1);
 }

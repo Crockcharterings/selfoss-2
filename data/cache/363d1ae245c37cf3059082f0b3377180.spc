@@ -19,6 +19,57 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:4:"
       
       
       
+    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:4:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:64:"100 多年前，爱照相、会 cosplay 的慈禧吃到了西餐";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:31:"http://www.iwgc.cn/link/2609717";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:10812:"<div class="zhihu-daily">
+<h2 class="question-title">老佛爷爱的初体验 | 西餐北漂前传（二）</h2>
+<div class="answer">
+
+<div class="meta">
+<img src="http://img02.iwgc.cn/getimg.php?url=http://pic3.zhimg.com/fc12ad693cf92ea54085d19eeb022f4e_is.jpg" />
+<span class="author">王璞，</span><span class="bio">公众号：馋人事务所</span>
+</div>
+
+<div class="content">
+<p>1903 年 5 月的一天，紫禁城里的午膳设在了养云轩，那是宫里专门用来举办重要宴会的地点，而这一天的这场宴会有两位主宾：美国公使的妻子康格夫人和美国海军上将的妻子伊万夫人。为了布置好这顿饭的餐桌，宫里足足忙了一上午，悉数按照太后的吩咐：铺上了白色桌布，摆好了鲜花，金质菜单托架的旁边，是装满了杏仁和西瓜子的小金盘子，筷子及餐具也都是最高规格&mdash;&mdash;银质的。不仅如此，太后还特别叮嘱要专门预备好外国人用的刀叉，酒也要指定&mdash;&mdash;一定要有最好的香槟！按她的说法：&ldquo;我知道外国女子都喜欢喝这种酒。&rdquo;</p>
+<p><img src="http://img02.iwgc.cn/getimg.php?url=https://pic4.zhimg.com/38498a62444c27564ceb954e954a1193_b.jpg" /></p>
+<blockquote>与老佛爷握着手的，就是宴会主宾康格夫人。</blockquote>
+<p><img src="http://img02.iwgc.cn/getimg.php?url=https://pic2.zhimg.com/43274a28d78385bdbc7f2af84bc0ec89_b.jpg" /></p>
+<blockquote>老佛爷有没有搞一个华丽丽的香槟塔？对于这位时髦的老太太，也不是没有可能&hellip;&hellip;</blockquote>
+<p>是的，这位&ldquo;太后&rdquo;就是慈禧。政治上的慈禧顽固不化，而生活中的这位老太太却着实按捺不住内心的时髦：尤其爱拍照，留下了不少照片，不但会摆各种 Pose，甚至还玩过 Cosplay。此外，还亲自作为模特被美国女画家画了一幅肖像画送到世博会展出&mdash;&mdash;要知道，在当时中国人的意识里，只有死人才有画像！</p>
+<p><img src="http://img02.iwgc.cn/getimg.php?url=https://pic1.zhimg.com/e620853622e8952fb26a3cc90b04b528_b.jpg" /></p>
+<blockquote>千真万确，老佛爷确实是 Cosplay 界的祖师奶奶！</blockquote>
+<p>&ldquo;海归女&rdquo;裕德龄初从法国归来时穿着一身欧式洋装（十三姨即视感&hellip;&hellip;）进宫觐见老佛爷，老佛爷看她这一身儿不禁自己心里痒得很，于是七七八八地问了许多关于巴黎服装的问题，并表示非常喜欢她脚上的那双&ldquo;路易十五&rdquo;高跟鞋。临了儿，还不忘嘱咐：&ldquo;以后你每回进宫可都得穿得这么好看呐！&rdquo;</p>
+<p><img src="http://img02.iwgc.cn/getimg.php?url=https://pic4.zhimg.com/1995d1d2d1608c0da1dd13dde6e56227_b.jpg" /></p>
+<blockquote>巴黎归来的&ldquo;时尚姊妹花&rdquo;：妹妹裕容龄（左）与裕德龄。</blockquote>
+<p>扯远了，说回到 1903 年的这顿饭。如此大费周章准备了这一桌高规格西式风格的午餐款待外国友人，看来太后老佛爷这是又在赶时髦尝鲜啦？ 那几年，如此这般打开宫廷大门并以洋人的方式宴请洋人已成常态，每隔一段时间，就会有某个国家的公使或是公使夫人到宫里坐客。慈禧太后固然赶时髦，但事实上，这位强势了一辈子的老太太也是迫不得已。经历了八国联军进京的惨痛教训，落魄地从西安返京后，慈禧深知洋人惹不起，于是便总结出了那句著名的&ldquo;方法论&rdquo;：&ldquo;量中华之物力，结与国之欢心&rdquo;，开始特别注重与各国的洋大人们搞好关系，就此，紫禁城便开启了一顿一顿又一顿的饭局之路。 请洋人吃饭，又得让人家吃得舒服，那就请吃西餐吧！但问题是，宫里没人会做西餐啊&hellip;&hellip;那么就有样学样地走一走西餐的形式好了，哪料即便如此，还是出了不少洋相。曾经多次参加清宫宴会的美国传教士赫德兰在他《一个美国人眼中的晚清宫廷》一书中对自己的&ldquo;第一次&rdquo;印象深刻：&ldquo;餐桌上铺着颜色十分艳丽的漆布，但是没有像样的桌布或餐巾，我们都用和手帕一样大小的五颜六色的花棉布做餐巾。没有鲜花，桌上的装饰主要是大盘小盘的糕点和水果。&rdquo;更囧的是，按宫中规矩，与慈禧太后一起用膳，除了慈禧本人，谁都得站着吃饭，福晋、格格如此，即便是光绪皇帝和隆裕皇后也得站着吃。出席宴会的公使夫人们自然有的坐，但眼看着这些只能站着的陪客，那哪受得了啊！在她们的再三请求之下，众人终得座，但面对桌上的菜，这些个陪客总显得心事重重、没有胃口&mdash;&mdash;弄成这样，想想都难受！</p>
+<p><img src="http://img02.iwgc.cn/getimg.php?url=https://pic1.zhimg.com/a691e1eecdd04b04c5c2b1269fd2c828_b.jpg" /></p>
+<blockquote>就冲老佛爷这充满杀气的眼神，就算被赐座应该也坐不踏实...</blockquote>
+<p>&ldquo;曙光&rdquo;出现在 1902 年 3 月，前文中提到的美国公使妻子康格夫人在这时发挥了重要作用。康格夫人邀请清廷的一票福晋、格格到美国公使馆用餐。而这几个女人在赴宴前想必一定接受了最高领导的指示：得把人家那一套吃饭的方式方法学来啊！于是在餐会的整个过程中，每个人都在仔细观察：餐桌怎么布置，餐巾怎么用，刀叉怎么使，她们恨不得把康格夫人的每一个细微动作都用心记下来（百多年后成天玩小视频的姆们看着真捉急！）。餐后，她们与公使夫人喝茶、弹钢琴、唱歌、看照片，算是非常完整地参与了一次最纯正的西式聚会。</p>
+<p><img src="http://img02.iwgc.cn/getimg.php?url=https://pic3.zhimg.com/f2d7b0361f8c7c9fcb4d93bc0f4f07a6_b.jpg" /></p>
+<blockquote>清后期西方人在北京中式庭院内的西式晚宴。</blockquote>
+<p>正是在这一次的&ldquo;培训&rdquo;之后，紫禁城的外事接待水平实现了全面大升级。一如本文开篇提到的那场宫廷宴会，不但餐桌布置全盘西化，甚至在就餐过程中，从侍者到就餐者对于西式餐会都应对得十分到位。由此可见紫禁城这是下了多大的工夫啊！ 1903 年的那场宴会，当时作为慈禧贴身女官的裕德龄在多年后她的《清宫二年记》中回忆得详细，餐桌上有刀，有叉，有鲜花，有餐巾，更有香槟，整体的西洋氛围十分到位。菜也准备得丰盛，除了小点心外，一共二十四道菜。但有（gan）趣（ga）的是：那是二十四道地地道道的&mdash;&mdash;满！洲！菜！究其原因，想来也简单&mdash;&mdash;那时就连老佛爷都在好奇&ldquo;洋饭&rdquo;到底啥味儿，宫里那是千真万确没有一个人有做西餐的能耐昂！ 带着老佛爷打开西餐味蕾的，还得是踩着那双路易十五高跟鞋的海归女裕德龄。裕德龄是大清驻法公使裕庚的大女儿，跟着父亲在法国生活多年，精通英语、法语，更通晓西方礼仪，回国后甚得慈禧欢心，于是便被留在宫中担任太后的贴身女官，主要负责翻译工作。慈禧能够成为中国史上唯一一位在世时就拥有自己肖像画的国家统治者，裕德龄的幕后工作功不可没；如今我们能看到那么多那么生动的老佛爷生活照，也跟裕德龄有着最直接的关系，正是经她的推荐，中国史上出现了第一位宫廷御用摄影师&mdash;&mdash;裕德龄的亲哥哥裕勋龄。</p>
+<p><img src="http://img02.iwgc.cn/getimg.php?url=https://pic3.zhimg.com/6406b925b9dd180b52fa07b2dc2a1686_b.jpg" /></p>
+<blockquote>美国女画家卡尔为了这幅画消耗了 9 个月的时间，如此长的时间里老佛爷怎么可能每天挨那儿一动不动当模特，于是，在她老人家的示意下，裕德龄穿上了太后的衣服&hellip;&hellip;等到该画脸了，老佛爷本人再亲自现身。</blockquote>
+<p><img src="http://img02.iwgc.cn/getimg.php?url=https://pic1.zhimg.com/f64a7eb427a0835dba3b48af06ba71f0_b.jpg" /></p>
+<blockquote>老佛爷每一张&ldquo;有态度&rdquo;的肖像都是出自裕德龄的亲哥哥裕勋龄。</blockquote>
+<p>事实上，慈禧正式接触西餐，作为太后身边的红人，裕德龄依然是无法回避的核心人物。正是在她反复多次、眉飞色舞的力荐之下，表面固执的慈禧终于还是没能禁住&ldquo;舌尖上的诱惑&rdquo;，决定尝上一尝&mdash;&mdash;不过她也有限制条件，不能带宫外不知底细的厨子进宫！于是德龄亲自拟定菜单后，先是跑到使馆区附近的西餐馆（按地理位置和时间点推断，北京饭店的可能性最大）购买了一部分菜肴，然后还有些菜则亲自下厨。</p>
+<p><img src="http://img02.iwgc.cn/getimg.php?url=https://pic4.zhimg.com/8ec74809515294ac3f0c76ee9167506f_b.jpg" /></p>
+<blockquote>1920 年代的北京饭店（左为 1917 年加盖后的新楼，右为 1901 年建的老楼）。</blockquote>
+<p>一场丰盛的法国大餐在中国宫廷正式上演，一番尝试过后，慈禧明显对那些麻烦又难用的刀叉不以为然，其中的几道尽显法兰西风情的豪华大菜也并没有引起老佛爷多大的兴致，反倒是杯盘碗碟间摆着的那几块黄澄澄的法式面包让这位老太太一见钟情，更意外的是，她老人家居然当场下旨，钦点面包纳入自己每天的茶点单：&ldquo;以后有事儿没事儿我就要来上两块垫垫肚子。&rdquo;&mdash;&mdash;当年慈禧西逃一路上，这位锦衣玉食大半辈子的中国最高领导人吃得最香的食物就是从一帮逃难人那里讨来的一个窝窝头。仔细想来，这几块法兰西面包真是跟那个窝窝头有着或多或少的相似之处：从生理学层面来说，都能垫肚子！如果上升到食物美学的层次，那就是它们都特其貌不扬但却统统有着一颗华丽的内心：可以让人最简单直接地感受到最原始的粮食的味道&mdash;&mdash;话说能够认识到这一点，慈禧老佛爷这是真懂行的吃主儿啊！</p>
+<p><img src="http://img02.iwgc.cn/getimg.php?url=https://pic2.zhimg.com/e267c52d424039f527cb487f8604e941_b.jpg" /></p>
+<blockquote>无从得知老佛爷爱上的到底是哪种法式面包，但，对于年届七十的她来说，首先应该排除的就是法棍吧&hellip;&hellip;</blockquote>
+<p>文中图片均来源于网络</p>
+<hr>
+<p>欢迎关注公众号：馋人事务所</p>
+
+<div class="view-more"><a target="_self" href="http://zhuanlan.zhihu.com/p/22212233">查看知乎原文</a></div>
+
+</div>
+</div>
+</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 08 Sep 2016 16:33:07 +0800";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:33:"
+      
+      
+      
+      
     ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:4:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:60:"想跳槽可以，不搞清楚自己的保密义务可不行";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:31:"http://www.iwgc.cn/link/2609204";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:12478:"<div class="zhihu-daily">
 <h2 class="question-title">劳动人事之保密义务与竞业限制</h2>
 <div class="answer">
@@ -74,7 +125,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:4:"
 
 </div>
 </div>
-</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 08 Sep 2016 15:33:04 +0800";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:33:"
+</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 08 Sep 2016 15:33:04 +0800";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:33:"
       
       
       
@@ -103,7 +154,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:4:"
 
 <div class="view-more"><a target="_self" href="http://www.zhihu.com/question/22595457">查看知乎原文<span class="js-question-holder" data-aid="85835"></span></a></div>
 
-</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 08 Sep 2016 14:33:01 +0800";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:33:"
+</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 08 Sep 2016 14:33:01 +0800";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:33:"
       
       
       
@@ -259,7 +310,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:4:"
 
 </div>
 </div>
-</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 08 Sep 2016 13:32:58 +0800";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:33:"
+</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 08 Sep 2016 13:32:58 +0800";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:33:"
       
       
       
@@ -483,7 +534,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:4:"
 
 <div class="view-more"><a target="_self" href="http://www.zhihu.com/question/36988760">查看知乎原文<span class="js-question-holder" data-aid="85829"></span></a></div>
 
-</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 08 Sep 2016 12:32:55 +0800";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:33:"
+</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 08 Sep 2016 12:32:55 +0800";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:33:"
       
       
       
@@ -513,7 +564,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:4:"
 
 <div class="view-more"><a target="_self" href="http://www.zhihu.com/question/50443267">查看知乎原文<span class="js-question-holder" data-aid="85825"></span></a></div>
 
-</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 08 Sep 2016 11:32:52 +0800";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:33:"
+</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 08 Sep 2016 11:32:52 +0800";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:33:"
       
       
       
@@ -589,7 +640,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:4:"
 
 </div>
 </div>
-</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 08 Sep 2016 11:32:52 +0800";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:33:"
+</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 08 Sep 2016 11:32:52 +0800";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:33:"
       
       
       
@@ -686,7 +737,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:4:"
 
 </div>
 </div>
-</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 08 Sep 2016 09:32:47 +0800";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:33:"
+</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 08 Sep 2016 09:32:47 +0800";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:33:"
       
       
       
@@ -714,7 +765,7 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:4:"
 
 <div class="view-more"><a target="_self" href="http://www.zhihu.com/question/30267192">查看知乎原文<span class="js-question-holder" data-aid="85720"></span></a></div>
 
-</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 08 Sep 2016 08:32:45 +0800";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:33:"
+</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 08 Sep 2016 08:32:45 +0800";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:33:"
       
       
       
@@ -761,41 +812,4 @@ a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:4:"
 </div>
 
 
-</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 08 Sep 2016 07:32:43 +0800";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:33:"
-      
-      
-      
-      
-    ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:4:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:65:"读读日报 24 小时热门 TOP 5 · 哪里的普通话最标准";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:31:"http://www.iwgc.cn/link/2604851";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2484:"<div class="zhihu-daily">
-<h2 class="question-title"></h2>
-
-<div class="answer">
-
-<div class="meta">
-<img src="http://img02.iwgc.cn/getimg.php?url=http://pic1.zhimg.com/4d0538dbfb3f29a24f425bad12b33c20_is.jpg" />
-<span class="author">编辑部小李</span>
-</div>
-
-<div class="content">
-<p>2016 年 9 月 7 日，读读日报最热门的其中五篇文章：</p>
-<p>「<a href="http://dudu.zhihu.com/circle/293813">我们通过看日剧明白人生道理</a>」等日报同时推荐：<a href="http://dudu.zhihu.com/story/8770424" target="_blank">这个比郭德纲严厉十倍的师父，是真正的相声宗师</a></p>
-<p><img src="http://img02.iwgc.cn/getimg.php?url=https://pic2.zhimg.com/e83e774c8d423977f95470b19d33394b_r.jpg" /></p>
-<p>&nbsp;</p>
-<p>「<a href="http://dudu.zhihu.com/circle/117140">政治不正确日报</a>」等日报同时推荐：<a href="http://dudu.zhihu.com/story/8770305" target="_blank">1986 年，遥远的东方有一条江</a></p>
-<p><img src="http://img02.iwgc.cn/getimg.php?url=https://pic3.zhimg.com/2632f9ae7499ea82aeaeb5258175db01_r.jpg" /></p>
-<p>&nbsp;</p>
-<p>「<a href="http://dudu.zhihu.com/circle/269553">趣味解读 + 深度报道</a>」等日报同时推荐：<a href="http://dudu.zhihu.com/story/8770220" target="_blank">白银杀人往事 | 1998 年，到了一种不杀人就心里不舒服的状态</a></p>
-<p><img src="http://img02.iwgc.cn/getimg.php?url=https://pic2.zhimg.com/e0b12b217afbd7aab26b4bb55de4af54_r.jpg" /></p>
-<p>&nbsp;</p>
-<p>「<a href="http://dudu.zhihu.com/circle/329865">好奇心报</a>」等日报同时推荐：<a href="http://dudu.zhihu.com/story/8770134" target="_blank">哪里的普通话最标准</a></p>
-<p><img src="http://img02.iwgc.cn/getimg.php?url=https://pic2.zhimg.com/938694fce39f0a32e6045f061c48af54_r.jpg" /></p>
-<p>&nbsp;</p>
-<p>「<a href="http://dudu.zhihu.com/circle/115414">在无聊的日子里试着不那么无聊</a>」等日报同时推荐：<a href="http://dudu.zhihu.com/story/8771172" target="_blank">主场沈阳，球迷至下</a></p>
-<p><img src="http://img02.iwgc.cn/getimg.php?url=https://pic3.zhimg.com/2b28a1fc8e550ada36d863aabda91857_r.jpg" /></p>
-<p>&nbsp;</p>
-<p>在「知乎日报」，编辑精选好文章；如果你想看到更多互联网的好文章，内行人在&nbsp;<a href="http://dudu.zhihu.com/?utm_source=xiaolioffice&amp;utm_campaign=tuijian&amp;utm_medium=dudu_article">读读日报</a>&nbsp;给你推荐。</p>
-</div>
-</div>
-
-
-</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 08 Sep 2016 07:32:42 +0800";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:7:{s:6:"server";s:20:"nginx/1.4.6 (Ubuntu)";s:12:"content-type";s:23:"text/xml; charset=UTF-8";s:10:"connection";s:10:"keep-alive";s:12:"x-powered-by";s:21:"PHP/5.5.9-1ubuntu4.14";s:13:"cache-control";s:8:"no-cache";s:4:"date";s:29:"Thu, 08 Sep 2016 08:07:53 GMT";s:10:"set-cookie";s:721:"XSRF-TOKEN=eyJpdiI6Im5KOVUwcG5tMVpKSHhhZnhvUWxJRVE9PSIsInZhbHVlIjoiU2ZjZUR2WXNQaWZvekw0QnlMVlFhRDNtRW5uTisyanN2U1k2M0I2Mkc3K2FlNlJ0U01HZ1JTa1l5UENIWDVFZ25TVjNhTzczWXpXdjVRY2pNalkwZnc9PSIsIm1hYyI6ImZkZTg2NTYzMzcxODUwMGYxMzdlYzc5YzljNmMzOWJjNjhmYzIwNjQyYTJlOTRiYTcyOWE3ZmI3ODNkZjAwNDYifQ%3D%3D; expires=Thu, 08-Sep-2016 10:07:53 GMT; Max-Age=7200; path=/, laravel_session=eyJpdiI6IkFVRlFFVTNiOUhYVzJUa0FMNnhHcVE9PSIsInZhbHVlIjoiampKaTd5QVJtc2dlRGIrcWNqM3BjR1lLVVYyYmQ2cllhWnVqZDVmdjF4NVl2TUdXbTFKdm1DR3o3K1BHZ2l2dzhHd3JVOTBjTmFDWkNZazN6aXV6ZUE9PSIsIm1hYyI6ImU2ZDZlYTllNGYyNTIxYjg0YWEyMzg1NTk2ZWIwNTMzYTkzOGNmZTU5YmI0YTU5ZTc4OWQzMGU4MThmOGNjN2UifQ%3D%3D; expires=Thu, 08-Sep-2016 10:07:53 GMT; Max-Age=7200; path=/; httponly";}s:5:"build";s:14:"20121030175911";}
+</div>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 08 Sep 2016 07:32:43 +0800";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:7:{s:6:"server";s:20:"nginx/1.4.6 (Ubuntu)";s:12:"content-type";s:23:"text/xml; charset=UTF-8";s:10:"connection";s:10:"keep-alive";s:12:"x-powered-by";s:21:"PHP/5.5.9-1ubuntu4.14";s:13:"cache-control";s:8:"no-cache";s:4:"date";s:29:"Thu, 08 Sep 2016 09:22:53 GMT";s:10:"set-cookie";s:717:"XSRF-TOKEN=eyJpdiI6ImNoZHpWckZJbEg4UUtXcnBBa3k5QXc9PSIsInZhbHVlIjoiK0dWQTlqXC91cjNZZlRtS0UyelNSd2JqZjhnNFp1SmhzNVlpUjlRS0xmVzZzSDYrWTBTTjRlc1RVeEh0WTB6cVJhbDZVQTh6b29GRHNzT0JIYlJkblFRPT0iLCJtYWMiOiJkOGRmZDZmM2RhNDBlY2M0MDU2ZTE5ZTNkNzY1OGJmNTBjOWMwYWFmMGVlYTgwOTc3OTVjMzA5Y2RkY2YwYzdjIn0%3D; expires=Thu, 08-Sep-2016 11:22:53 GMT; Max-Age=7200; path=/, laravel_session=eyJpdiI6Ikhod2lrM1VmNXVTMm9yOUtEWkhaOWc9PSIsInZhbHVlIjoiZW1kUkV4NXU1N0FrVUJjMHVSWnBxT2h2ZVdBaVk0UjZYTEJ5aHE3ejRBS2tldnJrcktSZStUeUFBT2UybEw0clFzalByQ1QxOHFqU0U2YUNxa3dcL2JnPT0iLCJtYWMiOiJjY2Q5NWU2NzljMWRkOTJjNWMyY2MxMjViZDE5MzY0ZDhkNWIwMGM5MTczYWRiNDYyN2RmNzVhMDYxMGE0OGI5In0%3D; expires=Thu, 08-Sep-2016 11:22:53 GMT; Max-Age=7200; path=/; httponly";}s:5:"build";s:14:"20121030175911";}
