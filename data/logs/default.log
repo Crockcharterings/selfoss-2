@@ -859,3 +859,25 @@ C:\wamp64\www\selfoss\index.php:104
 09-08-16 9:37:05 Error Unimplemented method for mysql: numberOfUnreadForTag
 09-08-16 13:30:57 Error Unimplemented method for mysql: numberOfUnreadForTag
 09-08-16 13:36:57 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-09-16 6:20:02 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-09-16 6:26:02 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-09-16 6:29:47 Error include(data/html/945.html): failed to open stream: No such file or directory
+C:\wamp64\www\selfoss\helpers\View.php:79
+C:\wamp64\www\selfoss\helpers\View.php:79
+C:\wamp64\www\selfoss\controllers\Index.php:411
+C:\wamp64\www\selfoss\index.php:104
+
+09-09-16 6:29:59 Error ftrss - Failed extracting content
+09-09-16 6:30:00 Error ftrss - Failed extracting content
+09-09-16 6:30:00 Error ftrss - Failed extracting content
+09-09-16 6:30:00 Error ftrss - Failed extracting content
+09-09-16 6:30:01 Error ftrss - Failed extracting content
+09-09-16 6:30:01 Error ftrss - Failed extracting content
+09-09-16 6:30:01 Error ftrss - Failed extracting content
+09-09-16 6:30:01 Error ftrss - Failed extracting content
+09-09-16 6:30:02 Error ftrss - Failed extracting content
+09-09-16 6:30:02 Error ftrss - Failed extracting content
+09-09-16 6:35:55 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-09-16 6:41:55 Error Unimplemented method for mysql: numberOfUnreadForTag
+09-09-16 7:08:16 Error ftrss - Failed extracting content
+09-09-16 7:14:15 Error Unimplemented method for mysql: numberOfUnreadForTag
