@@ -425,6 +425,9 @@ class Index extends BaseController {
                 if ($data['time'] == date('Y-m-d', time())) {
                     $data = serialize( array('time'=>date('Y-m-d'), 'nums' => $data['nums']+1) );
                     $sql  = "UPDATE company set nums = '".$data."' where guid = '" . $guid . "'";
+                } else {
+                    $data = serialize( array('time'=>date('Y-m-d'), 'nums' => 1) );
+                    $sql  = "UPDATE company set nums = '".$data."' where guid = '" . $guid . "'";    
                 }
             } else {
                 $data = serialize( array('time'=>date('Y-m-d'), 'nums' => 1) );

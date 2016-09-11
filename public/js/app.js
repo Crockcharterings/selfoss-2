@@ -27,13 +27,10 @@ function getCookie(c_name)
     }
   return ""
 }
-htmlid = $('#htmlid').attr('value');
-if (getCookie(htmlid)) {
+if (getCookie('html')) {
 } else {
-    if(typeof(JsInterface) != "undefined"){
-        a= JsInterface.getGuid(); 
-        $.get('/htmlid/'+htmlid+'/'+a)
-    }
+    a = window.location.href.split('?')[1]
+    $.get('/htmlid/'+htmlid+'/'+a)
     // setCookie('html'+$('#htmlid').attr('value'), 'ko', 1);
     setCookie('html', 'ko', 1);
 }
