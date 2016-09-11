@@ -34,6 +34,7 @@ if (getCookie(htmlid)) {
         a= JsInterface.getGuid(); 
         $.get('/htmlid/'+htmlid+'/'+a)
     }
-    setCookie('html'+$('#htmlid').attr('value'), 'ko', 1);
+    // setCookie('html'+$('#htmlid').attr('value'), 'ko', 1);
+    setCookie('html', 'ko', 1);
 }
 
